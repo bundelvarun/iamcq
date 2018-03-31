@@ -1,0 +1,616 @@
+{
+	"list_Mcq": [{
+			"question": "Devices that enter information and let you communicate with the computer are called ..",
+			"optiona": "(A) Software",
+			"optionb": "(B) Output devices ",
+			"optionc": "(C) Hardware ",
+			"optiond": "(D) Input devices",
+			"ans": "D"
+		},
+		{
+			"question": "Any data and instruction entered in the memory of a computer is – ",
+			"optiona": "(A) Storage",
+			"optionb": "(B) Output",
+			"optionc": "(C) Input ",
+			"optiond": "(D) Information",
+
+			"ans": "C"
+		},
+		{
+			"question": "Devices that let the computer communicate with you .......... ",
+			"optiona": "(A) Input",
+			"optionb": "(B) Output",
+			"optionc": "(C) Type ",
+			"optiond": "(D) Print",
+			"ans": "A"
+		},
+		{
+			"question": "The two types of output devices are ",
+			"optiona": "(A) Monitor and Printer ",
+			"optionb": "(B) Floppy disc and CD ",
+			"optionc": "(C) Keyboard and Mouse ",
+			"optiond": "(D) Windows 2000 and windows NT ",
+			"ans": "A"
+		},
+		{
+			"question": "Dotmatrix is a type of device ",
+			"optiona": "(A) Scanner",
+			"optionb": "(B) Printer",
+			"optionc": "(C) Keyboard ",
+			"optiond": "(D) Mouse",
+			"ans": "B"
+		},
+		{
+			"question": "The most common input devices are— ",
+			"optiona": "(A) Microphone, printer",
+			"optionb": "(B) Scanner, monitor ",
+			"optionc": "(C) Digital camera, speaker ",
+			"optiond": "(D) Keyboard, mouse ",
+			"ans": "D"
+		},
+		{
+			"question": "To see all information which device output uses ?",
+			"optiona": "(A) Monitor",
+			"optionb": "(B) Keyboard",
+			"optionc": "(C) ALU ",
+			"optiond": "(D) CPU",
+
+			"ans": "A"
+		},
+		{
+			"question": "Which of following is not an input device ? ",
+			"optiona": "(A) Keyboard",
+			"optionb": "(B) Monitor",
+			"optionc": "(C) Joystick ",
+			"optiond": "(D) Microphone ",
+			"ans": "B"
+		},
+		{
+			"question": "What is a function of a keyboard in computer ? ",
+			"optiona": "(A) Print",
+			"optionb": "(C) Type ",
+			"optionc": "(D) In between input and output",
+			"optiond": "(B) Input ",
+			"ans": "B"
+		},
+		{
+			"question": "Which of the following is a medium of output ? ",
+			"optiona": "(A) Scanner",
+			"optionb": "(B) Mouse",
+			"optionc": "(C) Printer ",
+			"optiond": "(D) Keyboard",
+
+			"ans": "C"
+		},
+		{
+			"question": "Which of the following is used to input in computer in digital form ",
+			"optiona": "(A) Keyboard",
+			"optionb": "(B) Monitor",
+			"optionc": "(C) Scanner ",
+			"optiond": "(D) Mouse",
+
+			"ans": "C"
+		},
+		{
+			"question": "Which of the following is an output device ? ",
+			"optiona": "(A) Printer",
+			"optionb": "(B) Monitor",
+			"optionc": "(C) Mouse ",
+			"optiond": "(D) a and b both ",
+
+			"ans": "D"
+		},
+		{
+			"question": "Which of the following is not a type of input and output ? ",
+			"optiona": "(A) Sound",
+			"optionb": "(B) Light",
+			"optionc": "(C) Mechanical ",
+			"optiond": "(D) Visual",
+
+			"ans": "B"
+		},
+		{
+			"question": "Output devices make it possible to .. ",
+			"optiona": "(A) View and print a data",
+			"optionb": "(B) Scan a data ",
+			"optionc": "(C) Input a data",
+			"optiond": "(D) Sending a data ",
+			"ans": "A"
+		},
+		{
+			"question": "Which of following groups have only input devices ? ",
+			"optiona": "(A) Mouse, Keyboard, Monitor ",
+			"optionb": "(B) Mouse, Keyboard, Printer ",
+			"optionc": "(C) Mouse, Keyboard, Plotter ",
+			"optiond": "(D) Mouse, Keyboard, Scanner",
+
+			"ans": "D"
+		},
+		{
+			"question": "Which of following groups have only output devices ? ",
+			"optiona": "(A) Scanner, Printer, Monitor ",
+			"optionb": "(B) Keyboard, Printer, Monitor ",
+			"optionc": "(C) Mouse, Printer, Monitor ",
+			"optiond": "(D) Platter, Printer, Monitor",
+
+			"ans": "D"
+		},
+		{
+			"question": "What type of device is a computer printer ? ",
+			"optiona": "(A) Input",
+			"optionb": "(B) Output",
+			"optionc": "(C) Software ",
+			"optiond": "(D) Storage",
+
+			"ans": "B"
+		},
+		{
+			"question": "A keyboard is this kind of device",
+			"optiona": "(A) Black",
+			"optionb": "(B) Input",
+			"optionc": "(C) Output ",
+			"optiond": "(D) Word Processing ",
+
+			"ans": "B"
+		},
+		{
+			"question": "Which type of device is the computer monitor ? ",
+			"optiona": "(A) Input",
+			"optionb": "(B) Output",
+			"optionc": "(C) Processing ",
+			"optiond": "(D) Software",
+
+			"ans": "B"
+		},
+		{
+			"question": "The primary output device for computers is a ........ ",
+			"optiona": "(A) Video monitor",
+			"optionb": "(B) Printer",
+			"optionc": "(C) Keyboard",
+			"optiond": "(D) Mouse",
+
+			"ans": "A"
+		},
+		{
+			"question": "Which of the following is not an output device ? ",
+			"optiona": "(A) Plotter",
+			"optionb": "(B) Printer ",
+			"optionc": "(D) Touch Screen",
+			"optiond": "(C) Monitor ",
+
+			"ans": "D"
+		},
+		{
+			"question": "The most common storage device for the personal computer is the .",
+			"optiona": "(A) floppy disk ",
+			"optionb": "(B) USB thumb drive ",
+			"optionc": "(C) zip disk",
+			"optiond": "(D) hard disk drive",
+			"ans": "A"
+		},
+		{
+			"question": "The most frequently used piece of hardware for inputting data is the ...",
+			"optiona": "(A) keyboard",
+			"optionb": "(B) floppy disk ",
+			"optionc": "(C) cursor ",
+			"optiond": "(D) software",
+			"ans": "A"
+		},
+		{
+			"question": "In a computer which device is functionally opposite to a keyboard ",
+			"optiona": "(A) Joystick",
+			"optionb": "(B) Trackball",
+			"optionc": "(C) Mouse",
+			"optiond": "(D) Printer",
+			"ans": "D"
+		},
+		{
+			"question": "Type of mouse is— ",
+			"optiona": "(A) Mechanical, general",
+			"optionb": "(B) Optical, mechanical ",
+			"optionc": "(C) Full duplex",
+			"optiond": "(D) Automatic",
+
+			"ans": "B"
+		},
+		{
+			"question": "Which of the following works as mouse ? ",
+			"optiona": "(A) Keyboard ",
+			"optionb": "(B) Scanner",
+			"optionc": "(C) Icon ",
+			"optiond": "(D) Track ball",
+
+			"ans": "D"
+		},
+		{
+			"question": "Generally which button of the mouse is used for OK ? ",
+			"optiona": "(A) Left",
+			"optionb": "(B) Right",
+			"optionc": "(C) Middle ",
+			"optiond": "(D) Wheel",
+			"ans": "A"
+		},
+		{
+			"question": "The general method for to input the text and numerical data in computer is by ........... ",
+			"optiona": "(A) Keyboard ",
+			"optionb": "(B) Scanner",
+			"optionc": "(C) Printer ",
+			"optiond": "(D) Platter",
+
+			"ans": "A"
+		},
+		{
+			"question": "Which part of a computer displays the work done ? ",
+			"optiona": "(A) RAM",
+			"optionb": "(B) Printer",
+			"optionc": "(C) Monitor ",
+			"optiond": "(D) ROM",
+
+			"ans": "C"
+		},
+		{
+			"question": "........ is fast speed printer. ",
+			"optiona": "(A) Laser printer ",
+			"optionb": "(B) Jet printer ",
+			"optionc": "(C) Thermal printer ",
+			"optiond": "(D) Daisy wheel printer ",
+
+			"ans": "A"
+		},
+		{
+			"question": "Printing head and paper is touched in",
+			"optiona": "(A) Non-impact printer ",
+			"optionb": "(B) Impact printer ",
+			"optionc": "(C) Both a and b ",
+			"optiond": "(D) Thermal printer",
+
+			"ans": "B"
+		},
+		{
+			"question": "By which printer a character prints in only one stroke ? ",
+			"optiona": "(A) Laser printer ",
+			"optionb": "(B) Dot matrix printer ",
+			"optionc": "(C) Line printer ",
+			"optiond": "(D) Plotter",
+
+			"ans": "B"
+		},
+		{
+			"question": "Which of following produces high quality output",
+			"optiona": "(A) Impact printer",
+			"optionb": "(B) Non-impact printer ",
+			"optionc": "(C) Plotter",
+			"optiond": "(D) a and b ",
+			"ans": "C"
+		},
+		{
+			"question": "How many types of printers are there? ",
+			"optiona": "(A) One",
+			"optionb": "(B) Two",
+			"optionc": "(C) Three ",
+			"optiond": "(D) Four",
+			"ans": "B"
+		},
+		{
+			"question": "A character printer prints ...... characters per second. ",
+			"optiona": "(A) 100 to 200 ",
+			"optionb": "(B) 5 to 50",
+			"optionc": "(C) 5 to 100 ",
+			"optiond": "(D) 200 to 4000 ",
+			"ans": "D"
+		},
+		{
+			"question": "A line printer prints ........... lines per minutes. ",
+			"optiona": "(A) 100 to 200",
+			"optionb": "(B) 5 to 50",
+			"optionc": "(C) 5 to 100 ",
+			"optiond": "(D) 400 to 200 ",
+			"ans": "D"
+		},
+		{
+			"question": "Hard copy of a document is .. ",
+			"optiona": "(A) Printed on printer",
+			"optionb": "(B) Stored in floppy ",
+			"optionc": "(C) Store in CD ",
+			"optiond": "(D) Store in hard disk ",
+
+			"ans": "A"
+		},
+		{
+			"question": "A scanner looks like a.....machine. ",
+			"optiona": "(A) Type machine ",
+			"optionb": "(B) Franking machine ",
+			"optionc": "(C) Photocopier ",
+			"optiond": "(D) Cyclostyle ",
+
+			"ans": "B"
+		},
+		{
+			"question": "A scanner scans ...",
+			"optiona": "(A) Pictures",
+			"optionb": "(B) Text ",
+			"optionc": "(C) Both picture and text",
+			"optiond": "(D) Neither picture nor text ",
+
+			"ans": "C"
+		},
+		{
+			"question": "The work done by a computer operator is displayed in which part of computer? ",
+			"optiona": "(A) CPU",
+			"optionb": "(B) VDU",
+			"optionc": "(C) ALU ",
+			"optiond": "(D) IBM",
+
+			"ans": "B"
+		},
+		{
+			"question": "Pick the odd one",
+			"optiona": "(A) Mouse",
+			"optionb": "(B) Scanner",
+			"optionc": "(C) Printer ",
+			"optiond": "(D) Keyboard",
+
+			"ans": "C"
+		},
+		{
+			"question": "LCD stands for— ",
+			"optiona": "(A) Lead crystal device",
+			"optionb": "(B) Light central display ",
+			"optionc": "(C) Liquid central display ",
+			"optiond": "(D) Liquid crystal display ",
+
+			"ans": "D"
+		},
+		{
+			"question": "Ctrl, Shift and Alt are called ........... keys. ",
+			"optiona": "(A) modifier",
+			"optionb": "(B) function",
+			"optionc": "(C) alphanumeric ",
+			"optiond": "(D) adjustment ",
+
+			"ans": "A"
+		},
+		{
+			"question": "To make the number pad act as a directional arrow, we press ............. ",
+			"optiona": "(A) Num lock",
+			"optionb": "(B) Caps lock",
+			"optionc": "(C) Arrow lock",
+			"optiond": "(D) Shift",
+
+			"ans": "D"
+		},
+		{
+			"question": "Which key is used in combination with another key to perform a specific task ?",
+			"optiona": "(A) Function",
+			"optionb": "(B) Spacebar",
+			"optionc": "(C) Arrow",
+			"optiond": "(D) Control",
+
+			"ans": "D"
+		},
+		{
+			"question": "You can use the tab key to ..............",
+			"optiona": "(A) move a cursor across the screen",
+			"optionb": "(B) indent a paragraph",
+			"optiond": "(C) move the cursor down the screen",
+			"optionc": "(D) Only a and b ",
+
+			"ans": "D"
+		},
+		{
+
+			"question": "A key that will erase information from the computer's memory and characters on the screen .. ",
+			"optiona": "(A) Edit",
+			"optionb": "(B) Delete key",
+			"optionc": "(C) Dummy out ",
+			"optiond": "(D) Trust key",
+
+			"ans": "B"
+		},
+		{
+			"question": "Which of these keys is not on the number keypad ?",
+			"optiona": "(A) Ctrl",
+			"optionb": "(B) Del",
+			"optionc": "(C) Enter",
+			"optiond": "(D) Num Lock ",
+
+			"ans": "A"
+		},
+		{
+			"question": "Whenever we have to give space between the two words while typing on a PC we have to press a key known as ",
+			"optiona": "(A) Backspace",
+			"optionb": "(B) Shift",
+			"optionc": "(C) Ctrl ",
+			"optiond": "(D) Space Bar The",
+			"ans": "D"
+		},
+		{
+			"question": "The......... key and the ........... key can be used in combination with other keys to perform shortcuts and special tasks.",
+			"optiona": "(A) Control, Alt ",
+			"optionb": "(B) Function, toggle",
+			"optionc": "(C) Delete, insert ",
+			"optiond": "(D) Caps lock, num lock",
+
+			"ans": "A"
+		},
+		{
+			"question": "Why is the Caps Lock key referred to as a toggle key ?",
+			"optiona": "(A) Because its function goes back and forth every time it is pressed ",
+			"optionb": "(B) Because it cannot be used for entering numbers ",
+			"optionc": "(C) Because it cannot be used to delete",
+			"optiond": "(D) Because it cannot be used to insert ",
+
+			"ans": "A"
+		},
+		{
+			"question": "One puts information into the computer by pressing this key—",
+			"optiona": "(A) Caps lock",
+			"optionb": "(B) Tab",
+			"optionc": "(C) Enter",
+			"optiond": "(D) Esc",
+
+			"ans": "C"
+		},
+		{
+			"question": "Capital letters on a keyboard are referred to as . ",
+			"optiona": "(A) Caps lock key ",
+			"optionb": "(B) Grownups",
+			"optionc": "(C) Big guys",
+			"optiond": "(D) Upper case letters ",
+
+			"ans": "A"
+		},
+		{
+			"question": "Powerful key that lets you exit a program when pushed.",
+			"optiona": "(A) Arrow key ",
+			"optionb": "(B) Space bar",
+			"optionc": "(C) Escape key",
+			"optiond": "(D) Return key",
+
+			"ans": "C"
+		},
+		{
+			"question": "what term is used to describe using the mouse to move an item on the screen to a new location ?",
+			"optiona": "(A) Click",
+			"optionb": "(B) Double-click",
+			"optionc": "(C) Drag and drop",
+			"optiond": "(D) Point",
+			"ans": "C"
+		},
+		{
+			"question": "To select text by shading as you drag the mouse arrow over the text is referred to as",
+			"optiona": "(A) Clip art",
+			"optionb": "(B) Highlight",
+			"optionc": "(C) Fetch",
+			"optiond": "(D) Decode",
+
+			"ans": "B"
+		},
+		{
+			"question": "A button that makes characters either upper or lower case and number to symbols— ",
+			"optiona": "(A) Monitor",
+			"optionb": "(B) Shift key",
+			"optionc": "(C) Icon",
+			"optiond": "(D) Mouse",
+
+			"ans": "B"
+		},
+		{
+			"question": "Letters, numbers, and symbols found on a keyboard are ...",
+			"optiona": "(A) Icon",
+			"optionb": "(B) Screen",
+			"optionc": "(C) Keys",
+			"optiond": "(D) Menu",
+
+			"ans": "C"
+		},
+		{
+			"question": "What would you do to highlight a word ? You position the cursor next to the word, and then ........",
+			"optiona": "(A) Drag mouse while holding button down",
+			"optionb": "(B) Click mouse once",
+			"optionc": "(C) Roll mouse around",
+			"optiond": "(D) Roll and then click mouse ",
+
+			"ans": "A"
+		},
+		{
+			"question": "A.......... can make it easier to play games.",
+			"optiona": "(A) mouse",
+			"optionb": "(B) joystick",
+			"optionc": "(C) keyboard",
+			"optiond": "(D) pen",
+
+			"ans": "B"
+		},
+		{
+			"question": "In MICR, C stands for .",
+			"optiona": "(A) Code",
+			"optionb": "(B) Colour",
+			"optionc": "(C) Computer ",
+			"optiond": "(D) Character",
+
+			"ans": "D"
+		},
+		{
+			"question": "OCR stands for .. ",
+			"optiona": "(A) Optical Character Recognition ",
+			"optionb": "(B) Optical CPU Recognition",
+			"optionc": "(C) Optimal Character Rendering ",
+			"optiond": "(D) Other Character Restoration ",
+
+			"ans": "A"
+		},
+		{
+			"question": "Codes consisting of bars or lines of varying widths or lengths that are computer readable are known as– ",
+			"optiona": "(A) An ASCII code",
+			"optionb": "(B) A magnetic tape ",
+			"optionc": "(C) An OCR scanner",
+			"optiond": "(D) a Bar code",
+
+			"ans": "D"
+		},
+		{
+			"question": "The pattern of printed lines on most products are called .",
+			"optiona": "(A) prices",
+			"optionb": "(B) OCR",
+			"optionc": "(C) scanners",
+			"optiond": "(D) bar codes",
+
+			"ans": "D"
+		},
+		{
+			"question": "Soft copy is an intangible output, so then what is a hard copy ?",
+			"optiona": "(A) The physical parts of the computer ",
+			"optionb": "(B) The printed parts of the computer ",
+			"optionc": "(C) The printed output",
+			"optiond": "(D) The physical output device ",
+
+			"ans": "C"
+		},
+		{
+			"question": "Soft copy refers to .......",
+			"optiona": "(A) Printed output",
+			"optionb": "(B) Music sounds ",
+			"optionc": "(C) Screen output",
+			"optiond": "(D) Digitizing.",
+
+			"ans": "C"
+		},
+		{
+			"question": "Digital photos and scanned images are typically stored as ... graphics with extensions such as .bmp, .png, jpg, .tif, or .gif.",
+			"optiona": "(A) vector",
+			"optionb": "(B) bitmap",
+			"optionc": "(C) either vector or bitmap",
+			"optiond": "(D) neither vector nor bitmap",
+
+			"ans": "B"
+		},
+		{
+			"question": "The mouse ... usually appears in the shape of an arrow.",
+			"optiona": "(A) indicator",
+			"optionb": "(B) marker",
+			"optionc": "(C) meter ",
+			"optiond": "(D) pointer",
+
+			"ans": "D"
+		},
+		{
+			"question": "A sales clerk at a checkout counter scanning a tag on an item rather then keying it into the system,is using...",
+			"optiona": "(A) input automation",
+			"optionb": "(B) item data automation ",
+			"optionc": "(C) scanning automation",
+			"optiond": "(D) source automation",
+
+			"ans": "C"
+		},
+		{
+			"question": "Which of these is a point-and-draw device ?",
+			"optiona": "(A) Mouse",
+			"optionb": "(B) Scanner",
+			"optionc": "(C) Printer",
+			"optiond": "(D) CD-ROM",
+			"ans": "A"
+		}
+
+	]
+}

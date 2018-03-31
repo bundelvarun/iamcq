@@ -1,0 +1,395 @@
+﻿{
+	"list_Mcq": [{
+			"question": "Father of computer is called",
+			"optiona": "(A) Marconi",
+			"optionb": "(B) Adison",
+			"optionc": "(C) Charls Babbage ",
+			"optiond": "(D) Herman Hallinilt ",
+			"ans": "C"
+		},
+		{
+			"question": "Computer's basic architecture was developed by— ",
+			"optiona": "(A) John Van Neumann",
+			"optionb": "(B) Charles Babbage ",
+			"optionc": "(C) Blaise Pascal ",
+			"optiond": "(D) Jordan Murn ",
+			"ans": "B"
+		},
+		{
+			"question": "First mechanical calculator was invented by — ",
+			"optiona": "(A) Joseph Marie Jacquard ",
+			"optionb": "(B) John Mauchley ",
+			"optionc": "(C) Blaise Pascal",
+			"optiond": "(D) Haward Aiken ",
+			"ans": "C"
+		},
+		{
+			"question": "Who designed the first electronic computer-ENIAC? ",
+			"optiona": "(A) Van Nuemann ",
+			"optionb": "(B) Joseph Jacquard ",
+			"optionc": "(C) Presper Eckert & John Mauchly",
+			"optiond": "(D) Denis Ritchie",
+			"ans": "C"
+		},
+		{
+			"question": "Multics operating system for mainframe was developed by— ",
+			"optiona": "(A) Infuses",
+			"optionb": "(B) Microsoft",
+			"optionc": "(C) Jerman laboratory ",
+			"optiond": "(D) Bell laboratory ",
+			"ans": "D"
+		},
+
+		{
+			"question": "At first punched card was used by— ",
+			"optiona": "(A)  Blaise Pascal ",
+			"optionb": "(B)  Haward Aiken ",
+			"optionc": "(C)  John Mauchlay ",
+			"optiond": "(D)  Joseph Marie ",
+			"ans": "D"
+		},
+
+		{
+			"question": "The great contribution in the development of computer was by— ",
+			"optiona": "(A)  H. Hallerilt ",
+			"optionb": "(B)  C. Babbage ",
+			"optionc": "(C)  Blaise Pascal ",
+			"optiond": "(D)  Van Neumann ",
+			"ans": "B"
+		},
+		{
+			"question": "First calculating device is – ",
+			"optiona": "(A) Clock",
+			"optionb": "(B) Difference engine ",
+			"optionc": "(C) Abacus ",
+			"optiond": "(D) Calculator ",
+			"ans": "C"
+		},
+
+		{
+			"question": "Analytical engine was developed by— ",
+			"optiona": "(A)  Lovelace",
+			"optionb": "(B)  H. Aiken",
+			"optionc": "(C)  Charles Babbage ",
+			"optiond": "(D)  All of these ",
+			"ans": "C"
+		},
+		{
+			"question": "Who developed integrated chip ? ",
+			"optiona": "(A)  C.V. Raman ",
+			"optionb": "(B)  Robet Nayak ",
+			"optionc": "(C)  J.S. Kilbi ",
+			"optiond": "(D)  C. Babbage ",
+			"ans": "C"
+		},
+		{
+			"question": "PARAM was developed by ...... ",
+			"optiona": "(A) C-DAC",
+			"optionb": "(B) IIT Kanpur",
+			"optionc": "(C) BARC ",
+			"optiond": "(D) IIT Delhi",
+			"ans": "A"
+		},
+		{
+			"question": "Great contributor in development of blueprint of rhythmical computer was",
+			"optiona": "(A)  H. Hallerilt",
+			"optionb": "(B)  C. Babbage ",
+			"optionc": "(C)  Blaise pascal",
+			"optiond": "(D)  Willium Buras ",
+			"ans": "C"
+		},
+		{
+			"question": "Characteristic of fifth generation computer is– ",
+			"optiona": "(A) Used in home ",
+			"optionb": "(B) Artificial intelligence ",
+			"optionc": "(C) Very low cost ",
+			"optiond": "(D) All of these ",
+			"ans": "B"
+		},
+		{
+			"question": "In which generation did multiprogramming start ? ",
+			"optiona": "(A) First generation",
+			"optionb": "(B) Second generation ",
+			"optionc": "(C) Third generation ",
+			"optiond": "(D) Fourth generation ",
+			"ans": "C"
+		},
+
+		{
+			"question": "First super computer of the world was developed in",
+			"optiona": "(A) 1978",
+			"optionb": "(B) 1976",
+			"optionc": "(C) 1980 ",
+			"optiond": "(D) 1981",
+			"ans": "B"
+		},
+		{
+			"question": "In which generation was microprocessor introduced ? ",
+			"optiona": "(A) First",
+			"optionb": "(B) Second",
+			"optionc": "(C) Third ",
+			"optiond": "(D) Fourth",
+			"ans": "D"
+		},
+
+		{
+			"question": "Remote processing and time sharing was introduced in ... generation : ",
+			"optiona": "(A) first",
+			"optionb": "(B) second",
+			"optionc": "(C) third ",
+			"optiond": "(D) fourth",
+			"ans": "C"
+		},
+		{
+			"question": "Which generation was developed by the discovery of I.C.",
+			"optiona": "(A) First generation ",
+			"optionb": "(B) Second generation ",
+			"optionc": "(C) Third generation ",
+			"optiond": "(D) Fourth generation ",
+			"ans": "C"
+		},
+
+		{
+			"question": "Super computer",
+			"optiona": "(A) It processes data of more than one user at a time ",
+			"optionb": "(B) It is a fast and costly computer system ",
+			"optionc": "(C) It is used in large organizations ",
+			"optiond": "(D) All of these ",
+			"ans": "D"
+		},
+		{
+			"question": "Faster computer is– ",
+			"optiona": "(A) Mini computer ",
+			"optionb": "(B) Super computer ",
+			"optionc": "(C) Micro computer ",
+			"optiond": "(D) Mainframe ",
+			"ans": "B"
+		},
+		{
+			"question": "The super computer is distinguish from other computers by— ",
+			"optiona": "(A) High cost",
+			"optionb": "(B) Problem of air conditions ",
+			"optionc": "(C) Large memory and calculating power ",
+			"optiond": "(D) Many uses ",
+			"ans": "C"
+		},
+		{
+			"question": "Supercomputers. ",
+			"optiona": "(A) are smaller in size and processing capability than mainframe Computers ",
+			"optionb": "(B) are common in majority of households ",
+			"optionc": "(C) contain thousands of microprocessors ",
+			"optiond": "(D) are rarely used by researchers due to their lack of computing capacity ",
+			"ans": "C"
+		},
+		{
+			"question": "Computer for personal use is– ",
+			"optiona": "(A) Mini computer ",
+			"optionb": "(B) Super computer ",
+			"optionc": "(C) Micro computer ",
+			"optiond": "(D) Mainframe computer",
+			"ans": "C"
+		},
+
+		{
+			"question": "What is a main characteristic of computer in the following options ? ",
+			"optiona": "(A)  File",
+			"optionb": "(B)  Game",
+			"optionc": "(C)  Speed",
+			"optiond": "(D)  C.D",
+			"ans": "C"
+		},
+		{
+			"question": "Types of computer on working style is– ",
+			"optiona": "(A) Digital",
+			"optionb": "(B) Analog",
+			"optionc": "(C) Micro ",
+			"optiond": "(D) a and b both",
+			"ans": "D"
+		},
+		{
+			"question": "Which one is not a type of computer on the basis of size",
+			"optiona": "(A)  Micro computer",
+			"optionb": "(B)  Mini computer ",
+			"optionc": "(C)  Super mini computer",
+			"optiond": "(D)  Optical ",
+			"ans": "D"
+		},
+		{
+			"question": "computer .......... is not a micro computer",
+			"optiona": "(A)  Home computer ",
+			"optionb": "(B)  Personal computer ",
+			"optionc": "(C)  Laptop ",
+			"optiond": "(D)  Atomic computer ",
+			"ans": "D"
+		},
+
+		{
+			"question": "CRAY is a— ",
+			"optiona": "(A) Mini computer ",
+			"optionb": "(B) Micro computer ",
+			"optionc": "(C) Mainframe computer ",
+			"optiond": "(D) Super computer ",
+			"ans": "D"
+		},
+
+		{
+			"question": "Which type of computer could be found in a digital watch ? ",
+			"optiona": "(A) Mainframe ",
+			"optionb": "(B) Super computer ",
+			"optionc": "(C) Embedded computer ",
+			"optiond": "(D) Notebook computer ",
+			"ans": "C"
+		},
+		{
+			"question": "First super computer developed in India is— ",
+			"optiona": "(A) Param",
+			"optionb": "(B) Aryabhatt ",
+			"optionc": "(C) Buddha",
+			"optiond": "(D) Ram",
+			"ans": "A"
+		},
+
+		{
+			"question": "Abacus was developed in— ",
+			"optiona": "(A) India",
+			"optionb": "(B) China",
+			"optionc": "(C) America ",
+			"optiond": "(D) Unan",
+			"ans": "B"
+		},
+		{
+			"question": "In production of I.C. chip of computer what is needed in the following",
+			"optiona": "(A) Chromium ",
+			"optionb": "(B) Silicon",
+			"optionc": "(C) Platinum ",
+			"optiond": "(D) Gold",
+			"ans": "B"
+		},
+
+		{
+			"question": "Processing capacity of microcomputer is ........ per second",
+			"optiona": "(A)  one lac",
+			"optionb": "(B)  two lac",
+			"optionc": "(C)  four lac ",
+			"optiond": "(D)  five lac",
+			"ans": "A"
+		},
+
+		{
+			"question": "IMac is a",
+			"optiona": "(A)  Processor",
+			"optionb": "(B)  Modem",
+			"optionc": "(C)  Network ",
+			"optiond": "(D)  Machine",
+			"ans": "D"
+		},
+
+		{
+			"question": "Main electronic part in first generation computer was— ",
+			"optiona": "(A)  Transistor ",
+			"optionb": "(B)  VLSI",
+			"optionc": "(C)  Vacuum tube ",
+			"optiond": "(D)  IC",
+			"ans": "C"
+		},
+		{
+			"question": "Which material is layered at magnetic disk ? ",
+			"optiona": "(A)  Iron oxide",
+			"optionb": "(B)  Phosphorus bentaoxide ",
+			"optionc": "(C)  Magnesium oxide",
+			"optiond": "(D)  Sodimum peroxide ",
+			"ans": "A"
+		},
+
+
+		{
+
+			"question": "In a silicon chip of complete electronic circuit with transistors and other the electronic devices is called",
+			"optiona": "(A) Workstation ",
+			"optionb": "(B) CPU",
+			"optionc": "(C) Integrated circuit ",
+			"optiond": "(D) Magnetic disk",
+			"ans": "C"
+		},
+
+		{
+			"question": "The digital computer is worked on the theory of — ",
+			"optiona": "(A) Calculation ",
+			"optionb": "(B) Measurement ",
+			"optionc": "(C) Electric ",
+			"optiond": "(D) Logical",
+			"ans": "A"
+		},
+
+		{
+			"question": "A modem digital computer uses ................. number system",
+			"optiona": "(A) binary",
+			"optionb": "(B) decimal",
+			"optionc": "(C) hexadecimal ",
+			"optiond": "(D) all these",
+			"ans": "A"
+		},
+		{
+			"question": "The main characteristic of 4th generation was— ",
+			"optiona": "(A) Transistor ",
+			"optionb": "(B) VLSI",
+			"optionc": "(C) IC ",
+			"optiond": "(D) Vacuum Tube ",
+			"ans": "B"
+		},
+		{
+			"question": "The first computer was programmed using ..... ",
+			"optiona": "(A) Assembly language",
+			"optionb": "(B) Machine language ",
+			"optionc": "(C) Spaghetti code",
+			"optiond": "(D) Source code ",
+			"ans": "B"
+		},
+
+		{
+			"question": "Digital computers use a .......... system to encode date and programs. ",
+			"optiona": "(A) semiconductor ",
+			"optionb": "(B) decimal",
+			"optionc": "(C) binary ",
+			"optiond": "(D) RAM",
+			"ans": "C"
+		},
+		{
+			"question": "A........... is a large and expensive computer capable of simultaneously processing data for hundreds or thousands of users. ",
+			"optiona": "(A) handheld computer",
+			"optionb": "(B) mainframe computer ",
+			"optionc": "(C) personal computer",
+			"optiond": "(D) tablet computer ",
+			"ans": "B"
+		},
+
+		{
+			"question": "Which is the smallest of the following computers ? ",
+			"optiona": "(A) Notebook",
+			"optionb": "(B) Laptop",
+			"optionc": "(C) Desktop ",
+			"optiond": "(D) Workstation",
+			"ans": "A"
+		},
+
+
+		{
+			"question": "Of the following, which is the fastest ? ",
+			"optiona": "(A) CD-ROM",
+			"optionb": "(B) RAM ",
+			"optionc": "(C) Registers",
+			"optiond": "(D) Cache ",
+			"ans": "C"
+		},
+		{
+			"question": "Modern computer was developed in",
+			"optiona": "(A)  1946",
+			"optionb": "(B)  1950",
+			"optionc": "(C)  1960 ",
+			"optiond": "(D)  1965",
+			"ans": "A"
+		}
+
+
+	]
+}
