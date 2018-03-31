@@ -1,14 +1,6 @@
 ﻿{
   "list_Mcq": [
-	 {
-	"question": "A ........... is an electronic device that processes data and converts it into information? ",
-	"optiona": "(A) Computer ",
-	"optionb": "(B) Processor",
-	"optionc": "(C) Case ",
-	"optiond": "(D) Styles",
-	"ans": "A"
 
-	},
 	{
 	"question": "What is a computer? ",
 	"optiona": "(A) Electronic machine ",
@@ -16,6 +8,15 @@
 	"optionc": "(C) Electric machine ",
 	"optiond": "(D) All of these ",
 	"ans": "A"
+	},
+	{
+	"question": "A ........... is an electronic device that processes data and converts it into information? ",
+	"optiona": "(A) Computer ",
+	"optionb": "(B) Processor",
+	"optionc": "(C) Case ",
+	"optiond": "(D) Styles",
+	"ans": "A"
+
 	},
 	
 	{
