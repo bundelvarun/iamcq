@@ -10,17 +10,17 @@
 		{
 			"question": "The word computer has been derived from which of the following language?",
 			"optiona": " (A) Greek",
-			"optionab": "(B) English ",
-			"optionac": "(C) Hindi",
-			"optionad": "(D) Latin ",
+			"optionb": "(B) English ",
+			"optionc": "(C) Hindi",
+			"optiond": "(D) Latin ",
 			"ans": "D"
 		},
 		{
 			"question": "Computer cannot perform",
 			"optiona": " (A) input",
-			"optionab": "(B) output ",
-			"optionac": "(C) thinking",
-			"optionad": "(D) processing ",
+			"optionb": "(B) output ",
+			"optionc": "(C) thinking",
+			"optiond": "(D) processing ",
 			"ans": "C"
 		},
 
