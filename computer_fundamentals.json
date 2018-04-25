@@ -130,9 +130,9 @@
 		{
 			"question": "Which is not a basic function of a computer?",
 			"optiona": " (A) Copy text ",
-			"optionab": "(B) Accept input ",
-			"optionac": "(C) Process data ",
-			"optionad": "(D) Store data",
+			"optionb": "(B) Accept input ",
+			"optionc": "(C) Process data ",
+			"optiond": "(D) Store data",
 			"ans": "A"
 		},
 
