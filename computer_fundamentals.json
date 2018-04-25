@@ -18,9 +18,9 @@
 		{
 			"question": "Computer cannot perform",
 			"optiona": " (A) input",
-			"optionb": "(B) output ",
-			"optionc": "(C) thinking",
-			"optiond": "(D) processing ",
+			"optionb": " (B) output ",
+			"optionc": " (C) thinking",
+			"optiond": " (D) processing ",
 			"ans": "C"
 		},
 
