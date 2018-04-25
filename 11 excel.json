@@ -1,6 +1,6 @@
 {
 	"list_Mcq": [{
-			"question": " Which of the following button will allow you to add, delete, or change records in your Data Source?",
+			"question": "Which of the following button will allow you to add, delete, or change records in your Data Source?",
 			"optiona": " (A) ‘Data Source’ button ",
 			"optionb": " (B)  ‘Edit’ button ",
 			"optionc": " (C) ‘Edit Data Source’ button ",
@@ -8,7 +8,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " It is possible to _______ a data source before performing a merge.",
+			"question": "It is possible to _______ a data source before performing a merge.",
 			"optiona": " (A) Create ",
 			"optionb": " (B)  Modify ",
 			"optionc": " (C) Sort ",
@@ -16,7 +16,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " Comments can be added to cells using .....",
+			"question": "Comments can be added to cells using .....",
 			"optiona": " (A) Edit -> Comments ",
 			"optionb": " (B)  Insert -> Comment ",
 			"optionc": " (C) File -> Comments ",
@@ -24,7 +24,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " Which of the following is not a valid Zoom percentage in Excel ? ",
+			"question": "Which of the following is not a valid Zoom percentage in Excel ? ",
 			"optiona": " (A) 10",
 			"optionb": " (B)  100 ",
 			"optionc": " (C) 300 ",
@@ -32,7 +32,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " Which of the following is not a valid data type in Excel?",
+			"question": "Which of the following is not a valid data type in Excel?",
 			"optiona": " (A) Number ",
 			"optionb": " (B)  Character ",
 			"optionc": " (C) Label ",
@@ -40,7 +40,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " Comments put in cells are called .....",
+			"question": "Comments put in cells are called .....",
 			"optiona": " (A) Smart Tip ",
 			"optionb": " (B)  Cell Tip ",
 			"optionc": " (C) Web Tip ",
@@ -48,7 +48,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " Which menu option can be used to split windows into two?",
+			"question": "Which menu option can be used to split windows into two?",
 			"optiona": " (A) Format -> Window ",
 			"optionb": " (B)  View -> Window-> Split ",
 			"optionc": " (C) Window -> Split ",
@@ -56,7 +56,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " You can activate a cell by",
+			"question": "You can activate a cell by",
 			"optiona": " (A) Pressing the Tab key ",
 			"optionb": " (B)  Clicking the cell ",
 			"optionc": " (C) Pressing an arrow key ",
@@ -64,7 +64,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " When you use the fill effects in the format data series dialog box, you can not",
+			"question": "When you use the fill effects in the format data series dialog box, you can not",
 			"optiona": " (A) rotate text on the chart ",
 			"optionb": " (B)  select a fore ground color ",
 			"optionc": " (C) select a pattern ",
@@ -72,7 +72,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " To insert three columns between columns D and E you would",
+			"question": "To insert three columns between columns D and E you would",
 			"optiona": " (A) Select column D ",
 			"optionb": " (B)  Select column E ",
 			"optionc": " (C) Select columns E, F and G ",
@@ -80,7 +80,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " Hyperlinks cannot be",
+			"question": "Hyperlinks cannot be",
 			"optiona": " (A) Special shapes like stars and banners ",
 			"optionb": " (B)  Drawing objects like rectangles ovals ",
 			"optionc": " (C) Pictures",
@@ -88,7 +88,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " You can add an image to a template by clicking the Insert Picture From File button on the .... Toolbar. ",
+			"question": "You can add an image to a template by clicking the Insert Picture From File button on the .... Toolbar. ",
 			"optiona": " (A) Standard ",
 			"optionb": " (B)  Formatting ",
 			"optionc": " (C) Drawing ",
@@ -96,7 +96,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " To drag a selected range of data to another worksheet in the same workbook, use the",
+			"question": "To drag a selected range of data to another worksheet in the same workbook, use the",
 			"optiona": " (A) Tab key ",
 			"optionb": " (B)  Alt key ",
 			"optionc": " (C) Shift key ",
@@ -104,7 +104,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " When you print preview a worksheet",
+			"question": "When you print preview a worksheet",
 			"optiona": " (A) the entire worksheet is displayed ",
 			"optionb": " (B)  the selected range is displayed ",
 			"optionc": " (C) the active portion of the worksheet is displayed ",
@@ -112,7 +112,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " You can open the Sort dialog box by choosing Sort from the ..... menu",
+			"question": "You can open the Sort dialog box by choosing Sort from the ..... menu",
 			"optiona": " (A) View ",
 			"optionb": " (B)  Format ",
 			"optionc": " (C) Tools ",
@@ -120,7 +120,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " When working in the page break preview, you can ",
+			"question": "When working in the page break preview, you can ",
 			"optiona": " (A) view exactly where each page break occurs ",
 			"optionb": " (B)  add or remove page breaks ",
 			"optionc": " (C) change the print area ",
@@ -128,7 +128,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " Which of the following is not a valid Zoom percentage in Excel?",
+			"question": "Which of the following is not a valid Zoom percentage in Excel?",
 			"optiona": " (A) 10 ",
 			"optionb": " (B)  100 ",
 			"optionc": " (C) 300 ",
@@ -136,7 +136,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " The spelling tool is placed on ______ toolbar",
+			"question": "The spelling tool is placed on ______ toolbar",
 			"optiona": " (A) Standard ",
 			"optionb": " (B)  Formatting ",
 			"optionc": " (C) Drawing ",
@@ -152,7 +152,7 @@
 			"ans ": "C"
 		},
 		{
-			"question": " Formatting a cell in Number format you can’t set",
+			"question": "Formatting a cell in Number format you can’t set",
 			"optiona": " (A) Decimal Places ",
 			"optionb": " (B)  Use 1000 separator ",
 			"optionc": " (C) Negative numbers ",
@@ -160,7 +160,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " What is entered by the function =today()",
+			"question": "What is entered by the function =today()",
 			"optiona": " (A) The date value for the day according to system clock",
 			"optionb": " (B)  The time value according to system clock ",
 			"optionc": " (C) Today’s date as Text format ",
@@ -168,7 +168,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " Which function will you use to enter current time in a woksheet cell?",
+			"question": "Which function will you use to enter current time in a woksheet cell?",
 			"optiona": " (A) =today() ",
 			"optionb": " (B)  =now() ",
 			"optionc": " (C) =time() ",
@@ -176,7 +176,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " Merge cells option can be applied from",
+			"question": "Merge cells option can be applied from",
 			"optiona": " (A) Format Cells dialog box Alignment Tab",
 			"optionb": " (B)  Formatting toolbar ",
 			"optionc": " (C) Both of above ",
@@ -184,7 +184,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " Which of the following format you can decide to apply or not in AutoFormat dialog box ? ",
+			"question": "Which of the following format you can decide to apply or not in AutoFormat dialog box ? ",
 			"optiona": " (A) Number format ",
 			"optionb": " (B)  Border format ",
 			"optionc": " (C) Font format ",
@@ -192,7 +192,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " How can you remove borders applied in cells?",
+			"question": "How can you remove borders applied in cells?",
 			"optiona": " (A) Choose None on Border tab of Format cells ",
 			"optionb": " (B)  Open the list on Border tool in Formatting toolbar then choose first tool (no border)",
 			"optionc": " (C) Both of above ",
@@ -200,7 +200,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " You can set Page Border in Excel from",
+			"question": "You can set Page Border in Excel from",
 			"optiona": " (A) From Border tab in Format Cells dialog box ",
 			"optionb": " (B)  From Border tool in Formatting toolbar ",
 			"optionc": " (C) From Line Style tool in Drawing toolbar ",
@@ -208,7 +208,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " You can check the conditions against __________ when applying conditional formatting",
+			"question": "You can check the conditions against __________ when applying conditional formatting",
 			"optiona": " (A) Cell value ",
 			"optionb": " (B)  Formula",
 			"optionc": " (C) Both of above ",
@@ -216,7 +216,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " When a range is selected, how can you activate the previous cell?",
+			"question": "When a range is selected, how can you activate the previous cell?",
 			"optiona": " (A) Press the Alt key",
 			"optionb": " (B)  Press Tab ",
 			"optionc": " (C) Press Enter ",
@@ -224,7 +224,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " Each excel file is a workbook that contains different sheets. Which of the following can not be a sheet in workbook?",
+			"question": "Each excel file is a workbook that contains different sheets. Which of the following can not be a sheet in workbook?",
 			"optiona": " (A) work sheet ",
 			"optionb": " (B)  chart sheet ",
 			"optionc": " (C) module sheet ",
@@ -232,7 +232,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " Which of the following Excel screen components can NOT be turned on or off?",
+			"question": "Which of the following Excel screen components can NOT be turned on or off?",
 			"optiona": " (A) Formula Bar ",
 			"optionb": " (B)  Status Bar ",
 			"optionc": " (C) Tool Bar ",
@@ -240,7 +240,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " Which of the following option is not available in Paste Special dialog box?",
+			"question": "Which of the following option is not available in Paste Special dialog box?",
 			"optiona": " (A) Add ",
 			"optionb": " (B)  Subtract ",
 			"optionc": " (C) Divide ",
@@ -248,7 +248,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " Which of the cell pointer indicates that you can fill series?",
+			"question": "Which of the cell pointer indicates that you can fill series?",
 			"optiona": " (A) Doctor’s symbol (Big Plus) ",
 			"optionb": " (B)  small thin plus icon ",
 			"optionc": " (C) Mouse Pointer with anchor at the tip ",
@@ -256,7 +256,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " Which of the following is an absolute cell reference?",
+			"question": "Which of the following is an absolute cell reference?",
 			"optiona": " (A) !A!1 ",
 			"optionb": " (B)  $A$1 ",
 			"optionc": " (C) #a#1 ",
@@ -264,7 +264,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " Which symbol must all formula begin with?",
+			"question": "Which symbol must all formula begin with?",
 			"optiona": " (A) = ",
 			"optionb": " (B)  + ",
 			"optionc": " (C) ( ",
@@ -272,7 +272,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " Which of the following formulas is not entered correctly?",
+			"question": "Which of the following formulas is not entered correctly?",
 			"optiona": " (A) =10+50 ",
 			"optionb": " (B)  =B7*B1 ",
 			"optionc": " (C) =B7+14",
@@ -280,7 +280,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " Which of the following formulas will Excel Not be able to calculate?",
+			"question": "Which of the following formulas will Excel Not be able to calculate?",
 			"optiona": " (A) =SUM(Sales)-A3 ",
 			"optionb": " (B)  =SUM(A1:A5)*.5 ",
 			"optionc": " (C) =SUM(A1:A5)/(10-10) ",
@@ -288,7 +288,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " A worksheet range is a",
+			"question": "A worksheet range is a",
 			"optiona": " (A) A command used for data modeling ",
 			"optionb": " (B)  A range of values such as from 23 to 234 ",
 			"optionc": " (C) A group of cells ",
@@ -296,7 +296,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " The auto calculate feature",
+			"question": "The auto calculate feature",
 			"optiona": " (A) Can only add values in a range of cells ",
 			"optionb": " (B)  Provides a quick way to view the result of an arithmetic operation on a range of cells ",
 			"optionc": " (C) Automatically creates formulas and adds them to a worksheet ",
@@ -304,7 +304,7 @@
 			"ans ": "B"
 		},
 		{
-			"question": " Excel uniquely identifies cells within a worksheet with a cell name",
+			"question": "Excel uniquely identifies cells within a worksheet with a cell name",
 			"optiona": " (A) Cell names ",
 			"optionb": " (B)  Column numbers and row letters ",
 			"optionc": " (C) Column letters and row numbers ",
@@ -312,7 +312,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " To drag a selected range of data to another worksheet in the same workbook, use the",
+			"question": "To drag a selected range of data to another worksheet in the same workbook, use the",
 			"optiona": " (A) Tab key ",
 			"optionb": " (B)  Alt key ",
 			"optionc": " (C) Shift key ",
@@ -320,7 +320,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " Hyperlinks can be",
+			"question": "Hyperlinks can be",
 			"optiona": " (A) Text ",
 			"optionb": " (B)  Drawing objects ",
 			"optionc": " (C) Pictures ",
@@ -328,7 +328,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " To activate the previous cell in a pre-selected range, press",
+			"question": "To activate the previous cell in a pre-selected range, press",
 			"optiona": " (A) The Alt key ",
 			"optionb": " (B)  The Tab key ",
 			"optionc": " (C) The Enter key ",
@@ -336,7 +336,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " Which button do yu click to add up a series of numbers?",
+			"question": "Which button do yu click to add up a series of numbers?",
 			"optiona": " (A) The autosum button ",
 			"optionb": " (B)  The Formula button ",
 			"optionc": " (C) The quicktotal button ",
@@ -344,7 +344,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " When the formula bar is active, you can see",
+			"question": "When the formula bar is active, you can see",
 			"optiona": " (A) The edit formula button ",
 			"optionb": " (B)  The cancel button ",
 			"optionc": " (C) The enter button ",
@@ -352,7 +352,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " In a worksheet you can select",
+			"question": "In a worksheet you can select",
 			"optiona": " (A) The entire worksheet ",
 			"optionb": " (B)  Rows ",
 			"optionc": " (C) Columns ",
@@ -360,7 +360,7 @@
 			"ans ": "B"
 		},
 		{
-			"question": " Which area in an excel window allows entering values and formulas",
+			"question": "Which area in an excel window allows entering values and formulas",
 			"optiona": " (A) Title bar ",
 			"optionb": " (B)  Menu bar ",
 			"optionc": " (C) Formula bar ",
@@ -368,7 +368,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " To edit in an embedded excel worksheet object in a word document",
+			"question": "To edit in an embedded excel worksheet object in a word document",
 			"optiona": " (A) Use the excel menu bar and toolbars inside the word application ",
 			"optionb": " (B)  Edit the hyperlink ",
 			"optionc": " (C) Edit the data in a excel source application ",
@@ -376,7 +376,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " To create a formula, you can use:",
+			"question": "To create a formula, you can use:",
 			"optiona": " (A) Values but not cell references ",
 			"optionb": " (B)  C ell references but not values ",
 			"optionc": " (C) Values or cell references although not both at the same time ",
@@ -384,7 +384,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " Status indicators are located on the",
+			"question": "Status indicators are located on the",
 			"optiona": " (A) Vertical scroll bar ",
 			"optionb": " (B)  Horizontal scroll bar ",
 			"optionc": " (C) Formula bar ",
@@ -392,7 +392,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " An excel workbook is a collection of",
+			"question": "An excel workbook is a collection of",
 			"optiona": " (A) Workbooks",
 			"optionb": " (B)  Worksheets ",
 			"optionc": " (C) Charts ",
@@ -400,7 +400,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " Excel files have a default extension of",
+			"question": "Excel files have a default extension of",
 			"optiona": " (A) Xls ",
 			"optionb": " (B)  Xlw ",
 			"optionc": " (C) Wk1 ",
@@ -408,7 +408,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " Except for the ...... function, a formula with a logical function shows the word “TRUE” or “FALSE” as a result.",
+			"question": "Except for the ...... function, a formula with a logical function shows the word “TRUE” or “FALSE” as a result.",
 			"optiona": " (A) IF ",
 			"optionb": " (B) AND ",
 			"optionc": " (C) OR ",
@@ -416,7 +416,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " Macros are “run” or executed from the ..... menu.",
+			"question": "Macros are “run” or executed from the ..... menu.",
 			"optiona": " (A) Insert ",
 			"optionb": " (B)  Format ",
 			"optionc": " (C) Tools ",
@@ -424,7 +424,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " You can open the consolidate dialog box by choosing Consolidate from the .....menu. ",
+			"question": "You can open the consolidate dialog box by choosing Consolidate from the .....menu. ",
 			"optiona": " (A) Insert ",
 			"optionb": " (B)  Format ",
 			"optionc": " (C) Tools ",
@@ -432,7 +432,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " How are data organized in a spreadsheet?",
+			"question": "How are data organized in a spreadsheet?",
 			"optiona": " (A) Lines and spaces ",
 			"optionb": " (B)  Layers and planes ",
 			"optionc": " (C) Rows and columns ",
@@ -440,7 +440,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " Gridlines",
+			"question": "Gridlines",
 			"optiona": " (A) May be turned off for display but turned on for printing ",
 			"optionb": " (B)  May be turned on or off for printing ",
 			"optionc": " (C) The be turned off for display and printing ",
@@ -448,7 +448,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " A function inside another function is called a ..... function.",
+			"question": "A function inside another function is called a ..... function.",
 			"optiona": " (A) Nested",
 			"optionb": " (B)  Round ",
 			"optionc": " (C) Sum ",
@@ -456,7 +456,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " Which function calculates your monthly mortgage payment?",
+			"question": "Which function calculates your monthly mortgage payment?",
 			"optiona": " (A) PMT (payments) ",
 			"optionb": " (B)  NPER (number of periods) ",
 			"optionc": " (C) PV (present value) ",
@@ -464,7 +464,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " To drag a selected range of data to another worksheet in the same workbook, use the ",
+			"question": "To drag a selected range of data to another worksheet in the same workbook, use the ",
 			"optiona": " (A) Tab key ",
 			"optionb": " (B)  Alt key ",
 			"optionc": " (C) Shift key ",
@@ -472,7 +472,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " When the formula bar is activated, you can see",
+			"question": "When the formula bar is activated, you can see",
 			"optiona": " (A) The Edit Formula button ",
 			"optionb": " (B)  The Cancel button ",
 			"optionc": " (C) The Enter button ",
@@ -480,7 +480,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " In Excel 2007, there are ___ worksheets in a workbook",
+			"question": "In Excel 2007, there are ___ worksheets in a workbook",
 			"optiona": " (A) 2 ",
 			"optionb": " (B)  3",
 			"optionc": " (C) 1 ",
@@ -488,7 +488,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " In Excel 2016, there are ___ worksheets in a workbook",
+			"question": "In Excel 2016, there are ___ worksheets in a workbook",
 			"optiona": " (A) 2 ",
 			"optionb": " (B)  3",
 			"optionc": " (C) 1 ",
@@ -496,7 +496,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " __________ is a table consisting of rows and columns.",
+			"question": "__________ is a table consisting of rows and columns.",
 			"optiona": " (A) Worksheet ",
 			"optionb": " (B)  Cell ",
 			"optionc": " (C) Workbook ",
@@ -504,7 +504,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " The numeric data entered in the worksheet is _______ aligned by default.",
+			"question": "The numeric data entered in the worksheet is _______ aligned by default.",
 			"optiona": " (A) Left ",
 			"optionb": " (B)  Right ",
 			"optionc": " (C) Center ",
@@ -512,7 +512,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " To insert a chart to excel, click on _______ tab.",
+			"question": "To insert a chart to excel, click on _______ tab.",
 			"optiona": " (A) Insert ",
 			"optionb": " (B)  Home ",
 			"optionc": " (C) Formulas ",
