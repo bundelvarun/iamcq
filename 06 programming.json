@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Computer program had been done in early stages by using ......",
+    "optiona": "Assembly language",
+    "optionb": "Machine language",
+    "optionc": "Source code",
+    "optiond": "Object code",
+    "ans": "b"
+  },
+  {
+    "question": "BASIC computer language was developed by ......... in 1964.",
+    "optiona": "Nicol Berlt",
+    "optionb": "John G. Kemeny",
+    "optionc": "Grace Moonie Hoper",
+    "optiond": "Jim clark",
+    "ans": "b"
+  },
+  {
+    "question": "Pascal—",
+    "optiona": "is a computer language",
+    "optionb": "is a unit of computer",
+    "optionc": "is a computer operating system",
+    "optiond": "is a type of computer",
+    "ans": "a"
+  },
+  {
+    "question": "The first computer language developed for programming is—",
+    "optiona": "Cobol",
+    "optionb": "Fortran",
+    "optionc": "C",
+    "optiond": "C++",
+    "ans": "b"
+  },
+  {
+    "question": "Which of the following is not a computer language ?",
+    "optiona": "Basic",
+    "optionb": "C",
+    "optionc": "Fast",
+    "optiond": "Fortran",
+    "ans": "c"
+  },
+  {
+    "question": "The pictorial representation of a program or algorithm is called a .....",
+    "optiona": "chart",
+    "optionb": "salve chart",
+    "optionc": "flow chart",
+    "optiond": "mix chart",
+    "ans": "c"
+  },
+  {
+    "question": "Which programming language is used to teach graphical shapes to a school going child ?",
+    "optiona": "Pilot",
+    "optionb": "C(C)",
+    "optionc": "LOGO",
+    "optiond": "COMAL",
+    "ans": "c"
+  },
+  {
+    "question": "Which of the following is a Scientific computer language ?",
+    "optiona": "Basic",
+    "optionb": "Cobol",
+    "optionc": "Fortran",
+    "optiond": "Pascal",
+    "ans": "c"
+  },
+  {
+    "question": "Computer language fortran is appropriate for .......",
+    "optiona": "business",
+    "optionb": "graphic",
+    "optionc": "science",
+    "optiond": "commercial",
+    "ans": "c"
+  },
+  {
+    "question": "Computer language Cobol is appropriate for",
+    "optiona": "Commercial purpose",
+    "optionb": "Graphic purpose",
+    "optionc": "Scientific purpose",
+    "optiond": "All",
+    "ans": "a"
+  },
+  {
+    "question": "Which of the following computer languages is appropriate for commercial purpose ?",
+    "optiona": "Fortran",
+    "optionb": "Basic",
+    "optionc": "Cobol",
+    "optiond": "Pascal",
+    "ans": "c"
+  },
+  {
+    "question": "High level computer language like English language is........",
+    "optiona": "fortran",
+    "optionb": "pascal",
+    "optionc": "Cobol",
+    "optiond": "C++",
+    "ans": "c"
+  },
+  {
+    "question": "In which language is the most appropriate documentation possible ?",
+    "optiona": "Fortran",
+    "optionb": "Cobol",
+    "optionc": "Pascal",
+    "optiond": "C++",
+    "ans": "b"
+  },
+  {
+    "question": "Which language is used in a complex scientific calculation.",
+    "optiona": "Basic",
+    "optionb": "Fortran",
+    "optionc": "Cobol",
+    "optiond": "Pascal",
+    "ans": "b"
+  },
+  {
+    "question": "BASIC programming language is used for ......",
+    "optiona": "commercial purpose",
+    "optionb": "scientific calculation",
+    "optionc": "to teach a child",
+    "optiond": "simple language for beginners",
+    "ans": "d"
+  },
+  {
+    "question": "The language which is understood by computers is .........",
+    "optiona": "American language",
+    "optionb": "Machine language",
+    "optionc": "Secret language",
+    "optiond": "All of these",
+    "ans": "b"
+  },
+  {
+    "question": "Computer language JAVA was developed by ...",
+    "optiona": "IBM",
+    "optionb": "Micro soft",
+    "optionc": "Sun micro system",
+    "optiond": "Infosystem",
+    "ans": "c"
+  },
+  {
+    "question": "Mostly computer can understand",
+    "optiona": "English like high level instruction",
+    "optionb": "Basic",
+    "optionc": "Any language",
+    "optiond": "All of these",
+    "ans": "a"
+  },
+  {
+    "question": "................is applicable in all computers.",
+    "optiona": "Basic language",
+    "optionb": "Cobol language",
+    "optionc": "Machine language",
+    "optiond": "Fortran",
+    "ans": "c"
+  },
+  {
+    "question": "................. is a set of symbols keywords and set of rules to construct statement.",
+    "optiona": "Computer program",
+    "optionb": "Programming language",
+    "optionc": "Assemble",
+    "optiond": "Syntax",
+    "ans": "d"
+  },
+  {
+    "question": "Computer language used on the Internet is ..........",
+    "optiona": "Basic",
+    "optionb": "Cobol",
+    "optionc": "Java",
+    "optiond": "Pascal",
+    "ans": "c"
+  },
+  {
+    "question": "Computer programs are written in a high level programming languagehowever the human readable version of a program is called",
+    "optiona": "Cache",
+    "optionb": "Instruction set",
+    "optionc": "Source code",
+    "optiond": "Word size",
+    "ans": "c"
+  },
+  {
+    "question": "A prescribed set of well-defined instructions for solving mathematicalproblems is called",
+    "optiona": "A compiler",
+    "optionb": "A code",
+    "optionc": "A description",
+    "optiond": "An algorithm",
+    "ans": "d"
+  },
+  {
+    "question": "Which of the following is a popular programming language for developing multimedia web pages.",
+    "optiona": "COBOL",
+    "optionb": "Java",
+    "optionc": "BASIC",
+    "optiond": "Assembler",
+    "ans": "b"
+  },
+  {
+    "question": "A ...... contains specific rules and words that express the logical stepsof an algorithm.",
+    "optiona": "programming language",
+    "optionb": "programming structure",
+    "optionc": "syntax",
+    "optiond": "logic chart",
+    "ans": "c"
+  },
+  {
+    "question": "A graphic presentation of the sequence of steps needed to solve a programming problem is called a—",
+    "optiona": "program flowchart",
+    "optionb": "step chart",
+    "optionc": "rule diagram",
+    "optiond": "program graph",
+    "ans": "a"
+  },
+  {
+    "question": "The operating system called UNIX is typically used for .........",
+    "optiona": "desktop computers",
+    "optionb": "laptop computers",
+    "optionc": "supercomputers",
+    "optiond": "web servers",
+    "ans": "d"
+  },
+  {
+    "question": "C, BASIC, COBOL and Java are examples of ..... language.",
+    "optiona": "low-level",
+    "optionb": "computer",
+    "optionc": "system programming",
+    "optiond": "high-level",
+    "ans": "d"
+  },
+  {
+    "question": "A set of rules for telling the computer what operations to performs iscalled a ............",
+    "optiona": "Procedural language",
+    "optionb": "Structures",
+    "optionc": "Natural language",
+    "optiond": "Programming language",
+    "ans": "d"
+  },
+  {
+    "question": "A mistake in an algorithm that causes incorrect results is called a ..",
+    "optiona": "Logical error",
+    "optionb": "Syntax error",
+    "optionc": "Procedural error",
+    "optiond": "Compiler error",
+    "ans": "a"
+  }
+]

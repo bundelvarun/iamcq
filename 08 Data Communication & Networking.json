@@ -1,0 +1,370 @@
+[
+  {
+    "question": "Users use often ...... for access to mainframe or supercomputer.",
+    "optiona": "terminal",
+    "optionb": "node",
+    "optionc": "desktop",
+    "optiond": "hand held",
+    "ans": "a"
+  },
+  {
+    "question": "To create a .......... personal computers can connote together.",
+    "optiona": "server",
+    "optionb": "super computer",
+    "optionc": "enterprise",
+    "optiond": "network",
+    "ans": "d"
+  },
+  {
+    "question": "What is used to identify whether a data word has an odd or even number of 1s ?",
+    "optiona": "Cary bit",
+    "optionb": "Zero bit",
+    "optionc": "Parity bit",
+    "optiond": "Sign bit",
+    "ans": "c"
+  },
+  {
+    "question": "A combination of hardware and software, which provides facilities of sending and rationing of information between computer devices.",
+    "optiona": "Network",
+    "optionb": "Peripheral",
+    "optionc": "Expansion slot",
+    "optiond": "Digital device",
+    "ans": "a"
+  },
+  {
+    "question": "Server is a computer which provides resources other computers commuted in a ............",
+    "optiona": "network",
+    "optionb": "mainframe",
+    "optionc": "super computers",
+    "optiond": "clients",
+    "ans": "a"
+  },
+  {
+    "question": "LAN; WAN and MAN are computer networks covering different areas. Their first alphabets L, W and M respectively stand for",
+    "optiona": "Local; Wide and Metropolitan",
+    "optionb": "Long; Wireless and Metropolitan",
+    "optionc": "Local; world and Middle",
+    "optiond": "Least; Wireless and Maximum",
+    "ans": "a"
+  },
+  {
+    "question": "In ....... topology, network components are connected by only one cable.",
+    "optiona": "Star",
+    "optionb": "Ring",
+    "optionc": "Bus",
+    "optiond": "Mesh",
+    "ans": "c"
+  },
+  {
+    "question": "Two or more than two computers connected to each other for sharing an information forms a ...........",
+    "optiona": "network",
+    "optionb": "router",
+    "optionc": "serves",
+    "optiond": "tunnel",
+    "ans": "a"
+  },
+  {
+    "question": "On the large scale, geographically spreaded LAN's office are connected by using .......",
+    "optiona": "CAN",
+    "optionb": "LAN",
+    "optionc": "DAN",
+    "optiond": "WAN",
+    "ans": "d"
+  },
+  {
+    "question": "Which of following is a small single site network ?",
+    "optiona": "LAN",
+    "optionb": "DSL",
+    "optionc": "RAM",
+    "optiond": "USB",
+    "ans": "a"
+  },
+  {
+    "question": "Computer connected with LAN.",
+    "optiona": "work fast",
+    "optionb": "go online",
+    "optionc": "can e-mail",
+    "optiond": "can share information or peripheral devices",
+    "ans": "d"
+  },
+  {
+    "question": "LAN is useful for ............",
+    "optiona": "railway",
+    "optionb": "bank",
+    "optionc": "businessman",
+    "optiond": "transport office",
+    "ans": "c"
+  },
+  {
+    "question": "Telephone broadcast is an example of .......... transmission.",
+    "optiona": "Simplex",
+    "optionb": "Half duplex",
+    "optionc": "Full duplex",
+    "optiond": "Automatic",
+    "ans": "b"
+  },
+  {
+    "question": "A parity bit is:",
+    "optiona": "Used to indicate upper case letters",
+    "optionb": "the last bit in a byte",
+    "optionc": "the first bit in a byte",
+    "optiond": "Use to detect errors",
+    "ans": "b"
+  },
+  {
+    "question": "The first computer network of the world is ...........",
+    "optiona": "I net",
+    "optionb": "NSF net",
+    "optionc": "Arpanet",
+    "optiond": "Vnet",
+    "ans": "c"
+  },
+  {
+    "question": "Which of the following techniques needs source device and destination device in line of sight for data transfer ?",
+    "optiona": "LAN",
+    "optionb": "Bluetooth",
+    "optionc": ". WAN",
+    "optiond": "Infrared",
+    "ans": "d"
+  },
+  {
+    "question": "When more computers are connected at one place, it is called .",
+    "optiona": "LAN",
+    "optionb": "WAN",
+    "optionc": "Infinite",
+    "optiond": "WON",
+    "ans": "a"
+  },
+  {
+    "question": "Bank's ATM facility is an example of ..",
+    "optiona": "LAN",
+    "optionb": "WAN",
+    "optionc": "Mixed networking",
+    "optiond": "Multipurpose networking",
+    "ans": "b"
+  },
+  {
+    "question": "Which of the following is not of the same group ?",
+    "optiona": "Internet",
+    "optionb": "Apple talk",
+    "optionc": "Bus",
+    "optiond": "Ring",
+    "ans": "b"
+  },
+  {
+    "question": "WAN is not useful for",
+    "optiona": "Ministry of Foreign affair",
+    "optionb": "Foreign banks",
+    "optionc": "Municipality",
+    "optiond": "Airport department",
+    "ans": "c"
+  },
+  {
+    "question": "............ is a central computer which is concerned with collections of data and programs for PCs workstation and other computers.",
+    "optiona": "Super computer",
+    "optionb": "Minicomputer",
+    "optionc": "Laptop",
+    "optiond": "Server",
+    "ans": "d"
+  },
+  {
+    "question": "A device that connects to a network without the use of cables is said to be ..........",
+    "optiona": "distributed",
+    "optionb": "wireless",
+    "optionc": "centralized",
+    "optiond": "open Source",
+    "ans": "b"
+  },
+  {
+    "question": "Several computers linked to a server to share programs and storage space—",
+    "optiona": "Network",
+    "optionb": "Grouping",
+    "optionc": "Library",
+    "optiond": "Integrated system",
+    "ans": "a"
+  },
+  {
+    "question": "Computers connected to a LAN (local area network) can ...........",
+    "optiona": "run faster",
+    "optionb": "go on line",
+    "optionc": "share information and/or share peripheral equipment",
+    "optiond": "e-mail",
+    "ans": "c"
+  },
+  {
+    "question": "What type of resource is most likely to be a shared common resource in a computer network ?",
+    "optiona": "Keyboards",
+    "optionb": "Speakers",
+    "optionc": "Floppy disk drives",
+    "optiond": "Printers",
+    "ans": "d"
+  },
+  {
+    "question": "The ....... enables your computer to connect to other computers.",
+    "optiona": "Video card",
+    "optionb": "Sound card",
+    "optionc": "Network interface card (NIC)",
+    "optiond": "Controller card",
+    "ans": "c"
+  },
+  {
+    "question": "A(n).......... is a small group of computers and peripherals linked together in a small geographic area.",
+    "optiona": "MAN",
+    "optionb": "PAN",
+    "optionc": "CAN",
+    "optiond": "LAN",
+    "ans": "d"
+  },
+  {
+    "question": "To access a mainframe or supercomputer; users often use a ...",
+    "optiona": "terminal",
+    "optionb": "node",
+    "optionc": "desktop",
+    "optiond": "hand held",
+    "ans": "a"
+  },
+  {
+    "question": "A word in a web page that, when clicked; opens another document.",
+    "optiona": "Anchor",
+    "optionb": "Hyperlink",
+    "optionc": "Reference",
+    "optiond": "URL",
+    "ans": "b"
+  },
+  {
+    "question": "Dumb terminals have terminals and ............",
+    "optiona": "mouse",
+    "optionb": "speakers",
+    "optionc": "keyboard",
+    "optiond": "mouse or speakers",
+    "ans": "c"
+  },
+  {
+    "question": "A ...... typically connects personal computers within a very limited geographical area, usually within a single building.",
+    "optiona": "LAN",
+    "optionb": "BAN",
+    "optionc": "TAN",
+    "optiond": "NAN",
+    "ans": "a"
+  },
+  {
+    "question": "Computers connected to a LAN can .........",
+    "optiona": "run faster",
+    "optionb": "share-information and/or share peripheral equipment",
+    "optionc": "e-mail",
+    "optiond": "go online",
+    "ans": "b"
+  },
+  {
+    "question": "The most important or powerful computer in a typical network.",
+    "optiona": "desktop",
+    "optionb": "network station",
+    "optionc": "network client",
+    "optiond": "network server",
+    "ans": "d"
+  },
+  {
+    "question": "Which of the following refers to a small; single-site network ?",
+    "optiona": "LAN",
+    "optionb": "DSL",
+    "optionc": "RAM",
+    "optiond": "USB",
+    "ans": "a"
+  },
+  {
+    "question": "What type of resource is most likely to be a shared common resource in a computer network ?",
+    "optiona": "printers",
+    "optionb": "speakers",
+    "optionc": "floppy disk drives",
+    "optiond": "keyboards",
+    "ans": "a"
+  },
+  {
+    "question": "A (n) ....... is a combination of hardware and software that facilitates the sharing of information between computing devices.",
+    "optiona": "network",
+    "optionb": "peripheral",
+    "optionc": "expansion board",
+    "optiond": "digital device",
+    "ans": "a"
+  },
+  {
+    "question": "A ....... is a set of rules.",
+    "optiona": "resource locater",
+    "optionb": "domain",
+    "optionc": "hypertext",
+    "optiond": "protocol",
+    "ans": "d"
+  },
+  {
+    "question": "Terminal is ..........",
+    "optiona": "a device to give power supply to the computer",
+    "optionb": "a point at which data enters or leaves the computer",
+    "optionc": "the last instruction in a program",
+    "optiond": "any input/output device",
+    "ans": "b"
+  },
+  {
+    "question": "A device that connect to a network without the use of cables is said to be.",
+    "optiona": "distributed",
+    "optionb": "wireless",
+    "optionc": "centralized",
+    "optiond": "open source",
+    "ans": "b"
+  },
+  {
+    "question": "A computer ....... consists of two or more computers and other devices that are connected for the purpose of sharing data and programs.",
+    "optiona": "network",
+    "optionb": "system",
+    "optionc": "workstation",
+    "optiond": "device",
+    "ans": "a"
+  },
+  {
+    "question": "The method of Internet access that requires a phone line; but offers faster access speeds that dial-up is the ......... connection.",
+    "optiona": "Cable access",
+    "optionb": "Satellite access",
+    "optionc": "Fiber-optic service",
+    "optiond": "Digital Subscriber Line (DSL)",
+    "ans": "d"
+  },
+  {
+    "question": "Which of the following items is not used in Local Area Networks (LANS)?",
+    "optiona": "Computer",
+    "optionb": "Modem",
+    "optionc": "Interface card",
+    "optiond": "Cable",
+    "ans": "b"
+  },
+  {
+    "question": "Which is the name of the network topology in which there are bi directional links between each possible node ?",
+    "optiona": "Ring;",
+    "optionb": "Star",
+    "optionc": "Tree",
+    "optiond": "Mesh",
+    "ans": "d"
+  },
+  {
+    "question": "LAN stands for",
+    "optiona": "Local Area Nodes",
+    "optionb": "Large Area Network",
+    "optionc": "Large Area Nodes",
+    "optiond": "Local Area Network",
+    "ans": "d"
+  },
+  {
+    "question": "An alternate name for the completely interconnected network topology is :",
+    "optiona": "Mesh",
+    "optionb": "Star",
+    "optionc": "Tree",
+    "optiond": "Ring",
+    "ans": "a"
+  },
+  {
+    "question": "......is the most important/powerful computer in a typical network",
+    "optiona": "Desktop",
+    "optionb": "Network client",
+    "optionc": "Network server",
+    "optiond": "Network station",
+    "ans": "c"
+  }
+]

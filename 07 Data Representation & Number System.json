@@ -1,0 +1,306 @@
+[
+  {
+    "question": "To calculate perform calculation and store data computer user .......number system.",
+    "optiona": "Decimal",
+    "optionb": "Hexadecimal",
+    "optionc": "Octal",
+    "optiond": "Binary",
+    "ans": "d"
+  },
+  {
+    "question": "The largest unit of storage is .",
+    "optiona": "GB",
+    "optionb": "KB",
+    "optionc": "MB",
+    "optiond": "TB",
+    "ans": "d"
+  },
+  {
+    "question": "The time bit is short for .........",
+    "optiona": "Megabyte",
+    "optionb": "Binary language",
+    "optionc": "Binary digit",
+    "optiond": "Binary number",
+    "ans": "c"
+  },
+  {
+    "question": ".............. is approximately one billion bytes.",
+    "optiona": "Kilobyte",
+    "optionb": "Bit",
+    "optionc": "Gigabyte",
+    "optiond": "Megabyte",
+    "ans": "c"
+  },
+  {
+    "question": "Which of the following is true ?",
+    "optiona": "Byte is a single digit in binary number.",
+    "optionb": "Bit represents a group of digital numbers.",
+    "optionc": "Byte is an eight digit binary number.",
+    "optiond": "Bit is an eight digit binary number.",
+    "ans": "c"
+  },
+  {
+    "question": "How many choices are there in binary choice?",
+    "optiona": "One",
+    "optionb": "Two",
+    "optionc": "It depends upon the amount of memory in a computer.",
+    "optiond": "It depends upon the speed of the processor of a computer.",
+    "ans": "b"
+  },
+  {
+    "question": "How many bits are represented in one byte?",
+    "optiona": 8,
+    "optionb": 16,
+    "optionc": 64,
+    "optiond": 256,
+    "ans": "a"
+  },
+  {
+    "question": "One megabyte is equal to approximately ..",
+    "optiona": "1000 bits",
+    "optionb": "1000 bytes",
+    "optionc": "1 million bytes",
+    "optiond": "1 million bits",
+    "ans": "c"
+  },
+  {
+    "question": "The smallest unit of computer memory is called ...............",
+    "optiona": "Byte",
+    "optionb": "Bit",
+    "optionc": "Megabyte",
+    "optiond": "These all",
+    "ans": "b"
+  },
+  {
+    "question": "One kilobyte makes from .........",
+    "optiona": 612,
+    "optionb": 1024,
+    "optionc": 2048,
+    "optiond": 4096,
+    "ans": "b"
+  },
+  {
+    "question": "Which of the following is used for memory measurement ?",
+    "optiona": "Lb",
+    "optionb": "Mg",
+    "optionc": "Tb",
+    "optiond": "GHS",
+    "ans": "c"
+  },
+  {
+    "question": "In binary number which number system is used ?",
+    "optiona": "decimal",
+    "optionb": "Binary",
+    "optionc": "Byte",
+    "optiond": "Bit",
+    "ans": "b"
+  },
+  {
+    "question": "How many digits are there in binary number system ?",
+    "optiona": "One",
+    "optionb": "Two",
+    "optionc": "Three",
+    "optiond": "Four",
+    "ans": "b"
+  },
+  {
+    "question": "What are the two digits of binary system?",
+    "optiona": "1 and 9",
+    "optionb": "1 and 0",
+    "optionc": "1 and 4",
+    "optiond": "1 and 2",
+    "ans": "b"
+  },
+  {
+    "question": "The method to store characters and symbols in bytes is called .",
+    "optiona": "Number system",
+    "optionb": "Alpha system",
+    "optionc": "Byte system",
+    "optiond": "Coding system",
+    "ans": "d"
+  },
+  {
+    "question": "Today's mostly used coding system is ....",
+    "optiona": "ASCII and EBCDIC",
+    "optionb": "ASCII",
+    "optionc": "EBCDIC",
+    "optiond": "All of These",
+    "ans": "a"
+  },
+  {
+    "question": "Series of eight bits is called",
+    "optiona": "Bit",
+    "optionb": "Byte",
+    "optionc": "Number",
+    "optiond": "Kilobyte",
+    "ans": "b"
+  },
+  {
+    "question": "........ shows off' state of current in binary code.",
+    "optiona": 1,
+    "optionb": 0,
+    "optionc": 3,
+    "optiond": 2,
+    "ans": "b"
+  },
+  {
+    "question": "Group of eight bits 10010110 or 01100101 is called ..........",
+    "optiona": "Nibble",
+    "optionb": "Byte",
+    "optionc": "Bit",
+    "optiond": "Robote",
+    "ans": "b"
+  },
+  {
+    "question": "The length of any word in a computer is measured in ........",
+    "optiona": "Byte",
+    "optionb": "Millimeter",
+    "optionc": "meter",
+    "optiond": "Bits",
+    "ans": "d"
+  },
+  {
+    "question": "1001 Series of four bits is called",
+    "optiona": "Byte",
+    "optionb": "Nibble",
+    "optionc": "Bit",
+    "optiond": "Input",
+    "ans": "b"
+  },
+  {
+    "question": "What is logic gate ?",
+    "optiona": "A software",
+    "optionb": "A type of circuit",
+    "optionc": "A special Cd",
+    "optiond": "A computer game",
+    "ans": "b"
+  },
+  {
+    "question": ".............. measures in megabyte.",
+    "optiona": "Intensity of earthquake",
+    "optionb": "Capacity of power",
+    "optionc": "Memory capacity of computers",
+    "optiond": "None of these",
+    "ans": "c"
+  },
+  {
+    "question": "One kilobyte is equivalent to .................",
+    "optiona": "1000 byte",
+    "optionb": "1024 byte",
+    "optionc": "10000 byte",
+    "optiond": "100000 byte",
+    "ans": "b"
+  },
+  {
+    "question": "Generally a computer's memory represented in kilobyte and mega byte and byte is made of ................",
+    "optiona": "Eight binary digit",
+    "optionb": "Two binary digit",
+    "optionc": "Eight decimal digit",
+    "optiond": "Two decimal digit",
+    "ans": "a"
+  },
+  {
+    "question": "How many options does a binary choice offer ?",
+    "optiona": "One",
+    "optionb": "Two",
+    "optionc": "Three",
+    "optiond": "It depends on the amount of memory in the computer",
+    "ans": "b"
+  },
+  {
+    "question": "The ....... indicates how much data a particular storage medium can hold.",
+    "optiona": "access",
+    "optionb": "capacity",
+    "optionc": "memory",
+    "optiond": "storage",
+    "ans": "b"
+  },
+  {
+    "question": "The smallest unit of information a computer can understand and process is known as a .......",
+    "optiona": "digit",
+    "optionb": "kilobyte",
+    "optionc": "bit",
+    "optiond": "byte",
+    "ans": "c"
+  },
+  {
+    "question": "A computer works on a ................ number system.",
+    "optiona": "binary",
+    "optionb": "octal",
+    "optionc": "decimal",
+    "optiond": "hexadecimal",
+    "ans": "a"
+  },
+  {
+    "question": "Computers use the ............. system to process data.",
+    "optiona": "processing",
+    "optionb": "kilobyte.",
+    "optionc": "binary",
+    "optiond": "representational",
+    "ans": "c"
+  },
+  {
+    "question": "Information on a computer is stored as .. ...........",
+    "optiona": "analog data",
+    "optionb": "digital data",
+    "optionc": "modem data",
+    "optiond": "watts data",
+    "ans": "b"
+  },
+  {
+    "question": "A string of eight 0s and 1s is called a .......",
+    "optiona": "megabyte",
+    "optionb": "kilobyte",
+    "optionc": "gigabyte",
+    "optiond": "byte",
+    "ans": "d"
+  },
+  {
+    "question": "Which of the following is the largest unit of storage ?",
+    "optiona": "GB",
+    "optionb": "КВ",
+    "optionc": "MB",
+    "optiond": "TB",
+    "ans": "d"
+  },
+  {
+    "question": "A......... is approximately one billion bytes.",
+    "optiona": "Kilobyte",
+    "optionb": "Bit",
+    "optionc": "Gigabyte",
+    "optiond": "Megabyte",
+    "ans": "c"
+  },
+  {
+    "question": "The smallest unit in a digital system is a ......",
+    "optiona": "Byte",
+    "optionb": "Kilobyte",
+    "optionc": "Word",
+    "optiond": "bit",
+    "ans": "d"
+  },
+  {
+    "question": "The computer abbreviation KB usually means ......",
+    "optiona": "Key Block",
+    "optionb": "Kernel Boot",
+    "optionc": "Kilo Byte",
+    "optiond": "Kit Bit",
+    "ans": "c"
+  },
+  {
+    "question": "Information on a computer is stored as what ?",
+    "optiona": "analog data",
+    "optionb": "digital data",
+    "optionc": "modem data",
+    "optiond": "watts data",
+    "ans": "b"
+  },
+  {
+    "question": "Which of the following is the second largest measurement of RAM ?",
+    "optiona": "Terabyte",
+    "optionb": "Megabyte",
+    "optionc": "Byte",
+    "optiond": "Gigabyte",
+    "ans": "d"
+  }
+]
