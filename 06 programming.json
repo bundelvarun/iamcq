@@ -1,5 +1,5 @@
-[
-  {
+{
+	"list_Mcq": [{
     "question": "Computer program had been done in early stages by using ......",
     "optiona": "Assembly language",
     "optionb": "Machine language",
@@ -238,5 +238,6 @@
     "optionc": "Procedural error",
     "optiond": "Compiler error",
     "ans": "a"
-  }
-]
+		}
+	]
+}
