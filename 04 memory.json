@@ -1,212 +1,244 @@
-Typical acronym of reuseable optical storage will be ......
-CD
-CD-RW
-DVD 
-RPM
-B 
-
-Storage which stores or retains data after power off is called 
-Volatile storage
-Non-volatile storage 
-Sequential storage
-Direct storage 
-B 
-
-When we work on any document on PC, it is stored temporarily on— 
-RAM
-ROM
-CPU 
-Flash memory 
-A
-
-USB – type storage device is— 
-Secondary
-Anxillary 
-Tertiary
-Primary 
-A
-
-Built in memory of computer is ..........
-EROM
-ROM
-RAM 
-PROM
-B 
-
-RAM is a ........ memory—
-external
-auxiliary
-internal 
-main
-D
-
-The faster, costlier and relatively small form of storage managed by computer system hardware is : 
-Main Memory
-Flash Memory 
-Cache
-Disk
-C 
-
-Permanent instructions that the computer uses when it is turned on and that can not be changed by other instructions are contained in
-ROM
-RAM 
-REM
-None of these 
-A
-
-Which of the following medium is used between CPU & RAM to speed up the processing power of a CPU ? 
-Virtual Memory
-DRAM 
-Flash Memory
-Cache Memory 
-D
-
-In the following which is not RAM ?
-Flash
-D-RAM
-S-RAM 
-P-RAM
-D 
-
-Which one is random access memory—
-RAM
-ROM
-P-ROM 
-All of these 
-A 
-
-RAM is used as a short memory because it is ..... and ........
-volatile, temporary
-nonvolatile, permanent 
-nonvolatile, temporary 
-volatile, permanent 
-A 
-
-With a CD you can ..
-read
-write
-read and write 
-either read or write 
-A
-
-A CD-ROM disk.
-cannot be erased and rewritten 
-has more storage capacity than a CD-R 
-holds less data than a floppy disk 
-can be written only once 
-A 
-
-In computer dictionary letters CD are used for
-Compact disc 
-Compressed disc 
-Computerised data
-Compressed data 
-A 
-
-CD ROM is used–
-To read compact disc
-To listen to music 
-In any software 
-To central digital information
-A 
-
-Unit of storage capacity
-Byte
-Bit
-Bug 
-Cubic meter 
-A 
-
-By firmware we understand ......
-Physical equipment used in a computer system 
-A set of instructions that causes a computer to perform one or more tasks 
-The people involved in the computing process 
-A set of programs that it pre-installed into the read only memory of a computer during the time of manufacturing 
-D
-
-Computer hardware which stores large volume of data is called
-Magnetic tape 
-Disc
-a and b both 
-All of These 
-C
-
-The word 'memory' is related to.
-Logic
-Control
-Input 
-Storage
-D 
-
-A(n) ...... uses laser technology to store large amount of information
-Floppy disk 
-CD-ROM
-Hard disk 
-ED-ROM 
-B 
-
-A removable magnetic disc that holds information ....
-Floppy disk 
-Hard drive 
-Monitor 
-Portable
-A 
-
-Which of the following can only have sequential access ?
-Disk
-Tape
-CD-ROM 
-DVD-ROM 
-B
-
-A CD-RW disk .......
-has a faster access than an internal disk 
-is a form or optical disk, so it can only be written once 
-holds less data than a floppy disk 
-can be erased and rewritten
-D 
-
-Which device can understand difference between data and programme
-Input device 
-Output device 
-Memory
-Microprocessor 
-D 
-
-A DVD is an example of a (n) .....
-hard disk
-optical disc
-output device 
-solid-state storage device 
-B 
-
-...... is the process of dividing the disk into tracks and sectors.
-Tracking
-Formatting 
-Crashing 
-Allotting
-B
-
-DVD is–
-Digital Video Disk
-Dynamic Versatile Disk 
-Digital Versatile Disk
-Dynamic Video Disk
-C 
-
-Which is not a storage device ? 
-A CD
-A DVD
-A floppy disk 
-A printer 
-D
-
-Which of the following memory chip is faster ?
-There is no certainty 
-DRAM
-SRAM 
-DRAM is faster for larger chips 
-C
-
-
-
+{
+	"list_Mcq": [
+		{		
+		"question": "Typical acronym of reuseable optical storage will be ......",
+		"optiona": "(A) CD",
+		"optionb": "(B) CD-RW",
+		"optionc": "(C) DVD ",
+		"optiond": "(D) RPM",
+		"ans": "B"
+		},
+		{
+		"question": "Storage which stores or retains data after power off is called ",
+		"optiona": "(A) Volatile storage",
+		"optionb": "(B) Non-volatile storage ",
+		"optionc": "(C) Sequential storage",
+		"optiond": "(D) Direct storage ",
+		"ans": "B"
+		},
+		{
+		"question": "When we work on any document on PC, it is stored temporarily on— ",
+		"optiona": "(A) RAM",
+		"optionb": "(B) ROM",
+		"optionc": "(C) CPU ",
+		"optiond": "(D) Flash memory ",
+		"ans": "A"
+		},
+		{
+		"question": "USB – type storage device is— ",
+		"optiona": "(A) Secondary",
+		"optionb": "(B) Anxillary ",
+		"optionc": "(C) Tertiary",
+		"optiond": "(D) Primary ",
+		"ans": "A"
+		},
+		{
+		"question": "Built in memory of computer is ..........",
+		"optiona": "(A) EROM",
+		"optionb": "(B) ROM",
+		"optionc": "(C) RAM ",
+		"optiond": "(D) PROM",
+		"ans": "B"
+		},
+		{
+		"question": "RAM is a ........ memory—",
+		"optiona": "(A) external",
+		"optionb": "(B) auxiliary",
+		"optionc": "(C) internal ",
+		"optiond": "(D) main",
+		"ans": "D"
+		},
+		{
+		"question": "The faster, costlier and relatively small form of storage managed by computer system hardware is : ",
+		"optiona": "(A) Main Memory",
+		"optionb": "(B) Flash Memory ",
+		"optionc": "(C) Cache",
+		"optiond": "(D) Disk",
+		"ans": "C"
+		},
+		{
+		"question": "Permanent instructions that the computer uses when it is turned on and that can not be changed by other instructions are contained in",
+		"optiona": "(A) ROM",
+		"optionb": "(B) RAM ",
+		"optionc": "(C) REM",
+		"optiond": "(D) None of these ",
+		"ans": "A"
+		},
+		{
+		"question": "Which of the following medium is used between CPU & RAM to speed up the processing power of a CPU ? ",
+		"optiona": "(A) Virtual Memory",
+		"optionb": "(B) DRAM ",
+		"optionc": "(C) Flash Memory",
+		"optiond": "(D) Cache Memory ",
+		"ans": "D"
+		},
+		{
+		"question": "In the following which is not RAM ?",
+		"optiona": "(A) Flash",
+		"optionb": "(B) D-RAM",
+		"optionc": "(C) S-RAM ",
+		"optiond": "(D) P-RAM",
+		"ans": "D"
+		},
+		{
+		"question": "Which one is random access memory—",
+		"optiona": "(A) RAM",
+		"optionb": "(B) ROM",
+		"optionc": "(C) P-ROM ",
+		"optiond": "(D) All of these ",
+		"ans": "A"
+		},
+		{
+		"question": "RAM is used as a short memory because it is ..... and ........",
+		"optiona": "(A) volatile, temporary",
+		"optionb": "(B) nonvolatile, permanent ",
+		"optionc": "(C) nonvolatile, temporary ",
+		"optiond": "(D) volatile, permanent ",
+		"ans": "A"
+		},
+		{
+		"question": "With a CD you can ..",
+		"optiona": "(A) read",
+		"optionb": "(B) write",
+		"optionc": "(C) read and write ",
+		"optiond": "(D) either read or write ",
+		"ans": "A"
+		},
+		{
+		"question": "A CD-ROM disk.",
+		"optiona": "(A) cannot be erased and rewritten ",
+		"optionb": "(B) has more storage capacity than a CD-R ",
+		"optionc": "(C) holds less data than a floppy disk ",
+		"optiond": "(D) can be written only once ",
+		"ans": "A"
+		},
+		{
+		"question": "In computer dictionary letters CD are used for",
+		"optiona": "(A) Compact disc ",
+		"optionb": "(B) Compressed disc ",
+		"optionc": "(C) Computerised data",
+		"optiond": "(D) Compressed data ",
+		"ans": "A"
+		},
+		{
+		"question": "CD ROM is used–",
+		"optiona": "(A) To read compact disc",
+		"optionb": "(B) To listen to music ",
+		"optionc": "(C) In any software ",
+		"optiond": "(D) To central digital information",
+		"ans": "A"
+		},
+		{
+		"question": "Unit of storage capacity",
+		"optiona": "(A) Byte",
+		"optionb": "(B) Bit",
+		"optionc": "(C) Bug ",
+		"optiond": "(D) Cubic meter ",
+		"ans": "A"
+		},
+		{
+		"question": "By firmware we understand ......",
+		"optiona": "(A) Physical equipment used in a computer system ",
+		"optionb": "(B) A set of instructions that causes a computer to perform one or more tasks ",
+		"optionc": "(C) The people involved in the computing process ",
+		"optiond": "(D) A set of programs that it pre-installed into the read only memory of a computer during the time of manufacturing ",
+		"ans": "D"
+		},
+		{
+		"question": "Computer hardware which stores large volume of data is called",
+		"optiona": "(A) Magnetic tape ",
+		"optionb": "(B) Disc",
+		"optionc": "(C) a and b both ",
+		"optiond": "(D) All of These ",
+		"ans": "C"
+		},
+		{
+		"question": "The word 'memory' is related to.",
+		"optiona": "(A) Logic",
+		"optionb": "(B) Control",
+		"optionc": "(C) Input ",
+		"optiond": "(D) Storage",
+		"ans": "D"
+		},
+		{
+		"question": "A(n) ...... uses laser technology to store large amount of information",
+		"optiona": "(A) Floppy disk ",
+		"optionb": "(B) CD-ROM",
+		"optionc": "(C) Hard disk ",
+		"optiond": "(D) ED-ROM ",
+		"ans": "B"
+		},
+		{
+		"question": "A removable magnetic disc that holds information ....",
+		"optiona": "(A) Floppy disk ",
+		"optionb": "(B) Hard drive ",
+		"optionc": "(C) Monitor ",
+		"optiond": "(D) Portable",
+		"ans": "A"
+		},
+		{
+		"question": "Which of the following can only have sequential access ?",
+		"optiona": "(A) Disk",
+		"optionb": "(B) Tape",
+		"optionc": "(C) CD-ROM ",
+		"optiond": "(D) DVD-ROM ",
+		"ans": "B"
+		},
+		{
+		"question": "A CD-RW disk .......",
+		"optiona": "(A) has a faster access than an internal disk ",
+		"optionb": "(B) is a form or optical disk, so it can only be written once ",
+		"optionc": "(C) holds less data than a floppy disk ",
+		"optiond": "(D) can be erased and rewritten",
+		"ans": "D"
+		},
+		{
+		"question": "Which device can understand difference between data and programme",
+		"optiona": "(A) Input device ",
+		"optionb": "(B) Output device ",
+		"optionc": "(C) Memory",
+		"optiond": "(D) Microprocessor ",
+		"ans": "D"
+		},
+		{
+		"question": "A DVD is an example of a (n) .....",
+		"optiona": "(A) hard disk",
+		"optionb": "(B) optical disc",
+		"optionc": "(C) output device ",
+		"optiond": "(D) solid-state storage device ",
+		"ans": "B"
+		},
+		{
+		"question": "...... is the process of dividing the disk into tracks and sectors.",
+		"optiona": "(A) Tracking",
+		"optionb": "(B) Formatting ",
+		"optionc": "(C) Crashing ",
+		"optiond": "(D) Allotting",
+		"ans": "B"
+		},
+		{
+		"question": "DVD is–",
+		"optiona": "(A) Digital Video Disk",
+		"optionb": "(B) Dynamic Versatile Disk ",
+		"optionc": "(C) Digital Versatile Disk",
+		"optiond": "(D) Dynamic Video Disk",
+		"ans": "C"
+		},
+		{
+		"question": "Which is not a storage device ? ",
+		"optiona": "(A) A CD",
+		"optionb": "(B) A DVD",
+		"optionc": "(C) A floppy disk ",
+		"optiond": "(D) A printer ",
+		"ans": "D"
+		},
+		{
+		"question": "Which of the following memory chip is faster ?",
+		"optiona": "(A) There is no certainty ",
+		"optionb": "(B) DRAM",
+		"optionc": "(C) SRAM ",
+		"optiond": "(D) DRAM is faster for larger chips ",
+		"ans": "C"
+		}
+	]
+}
