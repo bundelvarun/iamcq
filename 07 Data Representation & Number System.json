@@ -9,14 +9,6 @@
     "ans": "D"
   },
   {
-    "question": "The largest unit of storage is .",
-    "optiona": "(A) GB",
-    "optionb": "(B) KB",
-    "optionc": "(C) MB",
-    "optiond": "(D) TB",
-    "ans": "D"
-  },
-  {
     "question": "The time bit is short for .........",
     "optiona": "(A) Megabyte",
     "optionb": "(B) Binary language",
@@ -50,10 +42,10 @@
   },
   {
     "question": "How many bits are represented in one byte?",
-    "optiona": 8,
-    "optionb": 16,
-    "optionc": 64,
-    "optiond": 256,
+    "optiona": "(A) 8",
+    "optionb": "(B) 16",
+    "optionc": "(C) 64",
+    "optiond": "(D) 256",
     "ans": "A"
   },
   {
@@ -74,10 +66,10 @@
   },
   {
     "question": "One kilobyte makes from .........",
-    "optiona": 612,
-    "optionb": 1024,
-    "optionc": 2048,
-    "optiond": 4096,
+    "optiona": "(A) 612 byte",
+    "optionb": "(B) 1024 byte",
+    "optionc": "(C) 2048 byte",
+    "optiond": "(D) 4096 byte",
     "ans": "B"
   },
   {
@@ -184,14 +176,7 @@
     "optiond": "(D) None of these",
     "ans": "C"
   },
-  {
-    "question": "One kilobyte is equivalent to .................",
-    "optiona": "(A) 1000 byte",
-    "optionb": "(B) 1024 byte",
-    "optionc": "(C) 10000 byte",
-    "optiond": "(D) 100000 byte",
-    "ans": "B"
-  },
+
   {
     "question": "Generally a computer's memory represented in kilobyte and mega byte and byte is made of ................",
     "optiona": "(A) Eight binary digit",
