@@ -1,7 +1,7 @@
 {
 	"list_Mcq": [
 		{
-    "question": "To perform calculation and store data, computer use .......number system.",
+    "question": "To calculate perform calculation and store data computer user .......number system.",
     "optiona": "(A) Decimal",
     "optionb": "(B) Hexadecimal",
     "optionc": "(C) Octal",
@@ -138,10 +138,10 @@
   },
   {
     "question": "........ shows off' state of current in binary code.",
-    "optiona": 1,
-    "optionb": 0,
-    "optionc": 3,
-    "optiond": 2,
+    "optiona": "(A) 1",
+    "optiona": "(A) 0",
+    "optiona": "(A) 3",
+    "optiona": "(A) 2",
     "ans": "B"
   },
   {
