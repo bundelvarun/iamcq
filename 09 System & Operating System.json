@@ -1,555 +1,555 @@
-[
+{
+	"list_Mcq": [{
+			"question": "......... is a process of searching bugs in software.",
+			"optiona": "(A) Compiling",
+			"optionb": "(B) Testing",
+			"optionc": "(C) Running",
+			"optiond": "(D) Debugging",
+			"ans": "D"
+		},
+		{
+			"question": "The ........ tells the computer how to use its components.",
+			"optiona": "(A) utility",
+			"optionb": "(B) application",
+			"optionc": "(C) operating system",
+			"optiond": "(D) network",
+			"ans": "A"
+		},
+		{
+			"question": "The transfer of data from a CPU to peripheral devices of computer is achieved through",
+			"optiona": "(A) Modems",
+			"optionb": "(B) Computer ports",
+			"optionc": "(C) Interfaces",
+			"optiond": "(D) Buffer memory",
+			"ans": "C"
+		},
+		{
+			"question": "Repair for known software bug; which is generally available free of cost on internet is called ..........",
+			"optiona": "(A) Version",
+			"optionb": "(B) Patch",
+			"optionc": "(C) Tutorials",
+			"optiond": "(D) FAQ",
+			"ans": "B"
+		},
+		{
+			"question": "What is backup ?",
+			"optiona": "(A) Connect his network to more component",
+			"optionb": "(B) Copy to save a data from original source to other destination",
+			"optionc": "(C) Filter an old data from new data",
+			"optiond": "(D) Access data from tape",
+			"ans": "B"
+		},
+		{
+			"question": "The ......... manual tells you how to use a software program.",
+			"optiona": "(A) Documentation",
+			"optionb": "(B) Programming",
+			"optionc": "(C) User",
+			"optiond": "(D) Technical",
+			"ans": "C"
+		},
+		{
+			"question": "A (n) ..... is a set of programs designed to manage memory and coordinating tasks between input and output devices.",
+			"optiona": "(A) Application suite",
+			"optionb": "(B) Compiler",
+			"optionc": "(C) Input/output system",
+			"optiond": "(D) Operating system (OS)",
+			"ans": "D"
+		},
+		{
+			"question": "Linux is an example of .............",
+			"optiona": "(A) Freeware",
+			"optionb": "(B) Open sources software",
+			"optionc": "(C) Shareware",
+			"optiond": "(D) Complimentary",
+			"ans": "B"
+		},
+		{
+			"question": "................ is a program which make easy to use a computer.",
+			"optiona": "(A) Operating system",
+			"optionb": "(B) Application",
+			"optionc": "(C) Utility",
+			"optiond": "(D) Network",
+			"ans": "C"
+		},
+		{
+			"question": "An error in a program which causes wrong result is called a .........",
+			"optiona": "(A) bug",
+			"optionb": "(B) byte",
+			"optionc": "(C) attributes",
+			"optiond": "(D) init problem",
+			"ans": "A"
+		},
+		{
+			"question": "Each component of computer is either ............",
+			"optiona": "(A) hardware or software",
+			"optionb": "(B) software or CPU/RAM",
+			"optionc": "(C) application software",
+			"optiond": "(D) input devices or output devices",
+			"ans": "A"
+		},
+		{
+			"question": "The main purpose of software is to convert data into .........",
+			"optiona": "(A) web site",
+			"optionb": "(B) information",
+			"optionc": "(C) program",
+			"optiond": "(D) object",
+			"ans": "B"
+		},
 
-  {
-    "question": "......... is a process of searching bugs in software.",
-    "optiona": "Compiling",
-    "optionb": "Testing",
-    "optionc": "Running",
-    "optiond": "Debugging",
-    "ans": "d"
-  },
-  {
-    "question": "The ........ tells the computer how to use its components.",
-    "optiona": "utility",
-    "optionb": "application",
-    "optionc": "operating system",
-    "optiond": "network",
-    "ans": "a"
-  },
-  {
-    "question": "The transfer of data from a CPU to peripheral devices of computer is achieved through",
-    "optiona": "Modems",
-    "optionb": "Computer ports",
-    "optionc": "Interfaces",
-    "optiond": "Buffer memory",
-    "ans": "c"
-  },
-  {
-    "question": "Repair for known software bug; which is generally available free of cost on internet is called ..........",
-    "optiona": "Version",
-    "optionb": "Patch",
-    "optionc": "Tutorials",
-    "optiond": "FAQ",
-    "ans": "b"
-  },
-  {
-    "question": "What is backup ?",
-    "optiona": "Connect his network to more component",
-    "optionb": "Copy to save a data from original source to other destination",
-    "optionc": "Filter an old data from new data",
-    "optiond": "Access data from tape",
-    "ans": "b"
-  },
-  {
-    "question": "The ......... manual tells you how to use a software program.",
-    "optiona": "Documentation",
-    "optionb": "Programming",
-    "optionc": "User",
-    "optiond": "Technical",
-    "ans": "c"
-  },
-  {
-    "question": "A (n) ..... is a set of programs designed to manage the resources of a computer; including starting the computer; managing programs; managing memory and coordinating tasks between input and output devices.",
-    "optiona": "Application suite",
-    "optionb": "Compiler",
-    "optionc": "Input/output system",
-    "optiond": "Operating system (OS)",
-    "ans": "d"
-  },
-  {
-    "question": "Linux is an example of .............",
-    "optiona": "Freeware",
-    "optionb": "Open sources software",
-    "optionc": "Shareware",
-    "optiond": "Complimentary",
-    "ans": "b"
-  },
-    {
-    "question": "................ is a program which make easy to use a computer.",
-    "optiona": "Operating system",
-    "optionb": "Application",
-    "optionc": "Utility",
-    "optiond": "Network",
-    "ans": "c"
-  },
-  {
-    "question": "An error in a program which causes wrong result is called a .........",
-    "optiona": "bug",
-    "optionb": "byte",
-    "optionc": "attributes",
-    "optiond": "init problem",
-    "ans": "a"
-  },
-  {
-    "question": "Each component of computer is either ............",
-    "optiona": "hardware or software",
-    "optionb": "software or CPU/RAM",
-    "optionc": "application software",
-    "optiond": "input devices or output devices",
-    "ans": "a"
-  },
-  {
-    "question": "The main purpose of software is to convert data into .........",
-    "optiona": "web site",
-    "optionb": "information",
-    "optionc": "program",
-    "optiond": "object",
-    "ans": "b"
-  },
-  
-  {
-    "question": "The physical structure of a computer is called a .........",
-    "optiona": "hardware",
-    "optionb": "software",
-    "optionc": "keyboard",
-    "optiond": "memory",
-    "ans": "a"
-  },
-  {
-    "question": "Generally which software uses to keep record of data ?",
-    "optiona": "Database software",
-    "optionb": "Word processing software",
-    "optionc": "Operating system",
-    "optiond": "Utility software",
-    "ans": "a"
-  },
-  {
-    "question": "Which database package uses on Ms-DOS based personal computers?",
-    "optiona": "D base 3",
-    "optionb": "Coral",
-    "optionc": "Word star",
-    "optiond": "Auto CAD",
-    "ans": "a"
-  },
-  {
-    "question": "To work on a computer mainly we need",
-    "optiona": "hardware",
-    "optionb": "software",
-    "optionc": "scanner",
-    "optiond": "a and b both",
-    "ans": "d"
-  },
-  {
-    "question": "Tangible; physical computer equipment that can be seen and touched is called ..............",
-    "optiona": "Hardware",
-    "optionb": "Software",
-    "optionc": "Storage",
-    "optiond": "Input/output",
-    "ans": "a"
-  },
-  {
-    "question": "Basic language of Unix is ...............",
-    "optiona": "Cobol",
-    "optionb": "Basic",
-    "optionc": "Assembly",
-    "optiond": "Java",
-    "ans": "c"
-  },
-  
-  {
-    "question": "Which of the following works as an agent between hardware and user?",
-    "optiona": "Compiler",
-    "optionb": "Operating system",
-    "optionc": "Translator",
-    "optiond": "All of these",
-    "ans": "b"
-  },
-  {
-    "question": "Any program translated into machine language is called ....",
-    "optiona": "analog program",
-    "optionb": "object code",
-    "optionc": "personal program",
-    "optiond": "official program",
-    "ans": "b"
-  },
-  {
-    "question": "The word CAD is related to ........",
-    "optiona": "account",
-    "optionb": "design",
-    "optionc": "media",
-    "optiond": "science",
-    "ans": "b"
-  },
-  {
-    "question": "What is the use of backup in a database ?",
-    "optiona": "To check the working of the system",
-    "optionb": "For safety",
-    "optionc": "To provide record of transaction",
-    "optiond": "To find the lost data",
-    "ans": "d"
-  },
-  {
-    "question": "Page maker software is related to which operating system ?",
-    "optiona": "MS-DOS",
-    "optionb": "Unix",
-    "optionc": "Windows",
-    "optiond": "All of these",
-    "ans": "c"
-  },
-  {
-    "question": "Oracle is a ..........",
-    "optiona": "An operating system",
-    "optionb": "Word processor",
-    "optionc": "Database software",
-    "optiond": "All of these",
-    "ans": "c"
-  },
-  {
-    "question": "Which software is used in word processing ?",
-    "optiona": "Page maker",
-    "optionb": "Word star",
-    "optionc": "MS-Word",
-    "optiond": "All",
-    "ans": "d"
-  },
-  
-  {
-    "question": "What is Linux ?",
-    "optiona": "An operating system",
-    "optionb": "A software",
-    "optionc": "A site",
-    "optiond": "A graphics",
-    "ans": "a"
-  },
-  {
-    "question": "A computer converts a high level program into a low level program with the help of ....",
-    "optiona": "compiler",
-    "optionb": "interpreter",
-    "optionc": "(a) and (b) both",
-    "optiond": "package",
-    "ans": "c"
-  },
-  {
-    "question": "In a computer which is the main part of system software ?",
-    "optiona": "Compiler",
-    "optionb": "Interpreter",
-    "optionc": "Operating system",
-    "optiond": "Package",
-    "ans": "c"
-  },
-  {
-    "question": "What is turnkey system ?",
-    "optiona": "Complete hardware and software",
-    "optionb": "Complete software",
-    "optionc": "Complete language",
-    "optiond": "Complete hardware",
-    "ans": "a"
-  },
-  {
-    "question": "Who developed Unix ?",
-    "optiona": "Rod Fenson",
-    "optionb": "Ken Thompson",
-    "optionc": "Ramavart Cathrin",
-    "optiond": "Jahnson",
-    "ans": "b"
-  },
-  
-  {
-    "question": "CAD stands for",
-    "optiona": "Computer algorithm for design",
-    "optionb": "Computer aided design",
-    "optionc": "Computer application in design",
-    "optiond": "All of these",
-    "ans": "b"
-  },
-  {
-    "question": "The legal right to use software based on specific restrictions is grantedvia a ........",
-    "optiona": "Software privacy policy",
-    "optionb": "Software license",
-    "optionc": "Software password manager",
-    "optiond": "Software log",
-    "ans": "b"
-  },
-  {
-    "question": "Which software is used for creating resume ?",
-    "optiona": "MS-Word",
-    "optionb": "Page maker",
-    "optionc": "a and b both",
-    "optiond": "Java",
-    "ans": "c"
-  },
-  {
-    "question": "People who write and test the programs are called",
-    "optiona": "Programmer",
-    "optionb": "Computer scientists",
-    "optionc": "Software engineer",
-    "optiond": "Project developer",
-    "ans": "a"
-  },
-  {
-    "question": "When you turn on the computer; the boot routine will perform thistest",
-    "optiona": "RAM test",
-    "optionb": "Disk drive test",
-    "optionc": "Memory test",
-    "optiond": "Power-on-self-test",
-    "ans": "d"
-  },
-  
-  {
-    "question": "The ability of an OS to run more than one application at a time is called........",
-    "optiona": "multitasking",
-    "optionb": "object-oriented programming",
-    "optionc": "multi-user computing",
-    "optiond": "time-sharing",
-    "ans": "a"
-  },
-  {
-    "question": "A computer cannot \"boot\" if it does not have the ........",
-    "optiona": "compiler",
-    "optionb": "loader",
-    "optionc": "operating system",
-    "optiond": "assembler",
-    "ans": "c"
-  },
-  {
-    "question": "Programs designed specifically to address general-purpose applications and special-purpose applications are called ...",
-    "optiona": "operating system",
-    "optionb": "system software",
-    "optionc": "application software",
-    "optiond": "management information systems",
-    "ans": "c"
-  },
-  {
-    "question": "An assembler is used to translate a program written in ...........",
-    "optiona": "A low level language",
-    "optionb": "Machine language",
-    "optionc": "A high level language",
-    "optiond": "Assembly language",
-    "ans": "d"
-  },
-  {
-    "question": "A program which helps create written documents and lets you go back and make corrections as necessary .......",
-    "optiona": "Spreadsheet",
-    "optionb": "Personal writer",
-    "optionc": "Word printer",
-    "optiond": "Word processor",
-    "ans": "d"
-  },
-  {
-    "question": "Start or restart of the computer .................",
-    "optiona": "Exit",
-    "optionb": "Kick",
-    "optionc": "Boot",
-    "optiond": "Kick-start",
-    "ans": "c"
-  },
-  {
-    "question": ".......... is when the computer is turned on and the operating system is loading.",
-    "optiona": "Booting",
-    "optionb": "Flashing",
-    "optionc": "Tracking",
-    "optiond": "Taping",
-    "ans": "a"
-  },
-  {
-    "question": "A compiler is used to translate a program written in ..",
-    "optiona": "a low level language",
-    "optionb": "a high level language",
-    "optionc": "assembly language",
-    "optiond": "machine language",
-    "ans": "b"
-  },
-  {
-    "question": "The human-readable version of a program is called ...........",
-    "optiona": "source code",
-    "optionb": "program code",
-    "optionc": "human code",
-    "optiond": "system code",
-    "ans": "a"
-  },
-  
-  {
-    "question": "After turns on computer light the process of start is called",
-    "optiona": "application",
-    "optionb": "system",
-    "optionc": "boot strap",
-    "optiond": "strap",
-    "ans": "c"
-  },
-  {
-    "question": "The type of software that controls the internal operations in the computer and controls how the computer works with all its parts is which of the following ?",
-    "optiona": "Shareware",
-    "optionb": "Public domain software",
-    "optionc": "Application software",
-    "optiond": "Operating system software",
-    "ans": "d"
-  },
-  {
-    "question": "What is correcting errors in a program called ?",
-    "optiona": "Compiling",
-    "optionb": "Debugging",
-    "optionc": "Grinding",
-    "optiond": "Interpreting",
-    "ans": "b"
-  },
-  {
-    "question": "A compiler translates a program written in a high level language into .....",
-    "optiona": "machine language",
-    "optionb": "an algorithm",
-    "optionc": "a debugged program",
-    "optiond": "java",
-    "ans": "a"
-  },
-  {
-    "question": "This can be another word for program",
-    "optiona": "Software",
-    "optionb": "Disk",
-    "optionc": "Floppy",
-    "optiond": "Hardware",
-    "ans": "a"
-  },
-  {
-    "question": "What happens when you boot up a PC?",
-    "optiona": "Portions of the operating system are copied from disk into memory",
-    "optionb": "Portions of the operating system are copied from memory onto disk",
-    "optionc": "Portions of the operating system are compiled",
-    "optiond": "Portions of the operating system are emulated",
-    "ans": "a"
-  },
-  {
-    "question": "Copying computer program or software without permission of its author is called",
-    "optiona": "Highway robbery",
-    "optionb": "Larceny",
-    "optionc": "Software piracy",
-    "optiond": "Embezzlement",
-    "ans": "c"
-  },
-  {
-    "question": "Antivirus software is an example of .............",
-    "optiona": "business software",
-    "optionb": "an operating system",
-    "optionc": "a security utility",
-    "optiond": "an office suite",
-    "ans": "c"
-  },
-  
-  
-  {
-    "question": "A (n) ...... converts and executes one statement at a time.",
-    "optiona": "compiler",
-    "optionb": "interpreter",
-    "optionc": "converter",
-    "optiond": "instructions",
-    "ans": "b"
-  },
-  {
-    "question": "The term ...... designates equipment that might be added to a computer system to enhance its functionality.",
-    "optiona": "digital device",
-    "optionb": "system add-on",
-    "optionc": "disk pack",
-    "optiond": "peripheral device",
-    "ans": "d"
-  },
-  {
-    "question": "Which is the best definition of a software package ?",
-    "optiona": "An add-on for your computer such as additional memory",
-    "optionb": "A set of computer programs used for a certain function such as word processing",
-    "optionc": "A protection you can buy for a computer",
-    "optiond": "the box; manual and license agreement that accompany commercial software",
-    "ans": "b"
-  },
-  {
-    "question": "If a new device is attached to a computer; such as a printer or scanner; its ...... must be installed before the device can be used.",
-    "optiona": "buffer",
-    "optionb": "driver",
-    "optionc": "pager",
-    "optiond": "server",
-    "ans": "b"
-  },
-  {
-    "question": "Compiling creates a(n) ......",
-    "optiona": "program specification",
-    "optionb": "algorithm",
-    "optionc": "executable program",
-    "optiond": "subroutine",
-    "ans": "c"
-  },
-  {
-    "question": "What disk is used to cold boot a PC ?",
-    "optiona": "Setup disk",
-    "optionb": "System disk",
-    "optionc": "Diagnostic disk",
-    "optiond": "Program disk",
-    "ans": "b"
-  },
-  {
-    "question": "Which process checks to ensure the components of the computer are operating and connected properly ?",
-    "optiona": "Booting",
-    "optionb": "Processing",
-    "optionc": "Saving",
-    "optiond": "Editing",
-    "ans": "a"
-  },
-  {
-    "question": "A(n) ....... is a program that makes the computer easier to use.",
-    "optiona": "application",
-    "optionb": "utility",
-    "optionc": "network",
-    "optiond": "operating system",
-    "ans": "b"
-  },
-  {
-    "question": "The combination of operating system and processor in a computer is referred to as a computers' ..........",
-    "optiona": "firmware",
-    "optionb": "specifications",
-    "optionc": "minimum requirements",
-    "optiond": "platform",
-    "ans": "d"
-  },
-  {
-    "question": "What is software ?",
-    "optiona": "A type of computer code",
-    "optionb": "A computer language",
-    "optionc": "A set of instructions for your computer",
-    "optiond": "A cover for the computer",
-    "ans": "c"
-  },
-  {
-    "question": "What are two example of freeware?",
-    "optiona": "WinZip and Linux",
-    "optionb": "Shareware and file sharing",
-    "optionc": "Microsoft Word and the Google toolbar",
-    "optiond": "Instant messaging and the Google toolbar",
-    "ans": "d"
-  },
-  {
-    "question": "Vendor-created program modifications are called .",
-    "optiona": "patches",
-    "optionb": "anti-viruses",
-    "optionc": "holes",
-    "optiond": "fixes",
-    "ans": "a"
-  },
-  {
-    "question": "A(n)..... backup contains a copy of every program; data; and system file on a computer.",
-    "optiona": "restoration",
-    "optionb": "bootstrap",
-    "optionc": "differential",
-    "optiond": "full",
-    "ans": "d"
-  },
-  {
-    "question": "In MS-DOS; the command that is used to clear the screen is :",
-    "optiona": "CIS",
-    "optionb": "Clear",
-    "optionc": "Clear screen",
-    "optiond": "Wipe",
-    "ans": "a"
-  },
-  {
-    "question": "Pick the odd man out.",
-    "optiona": "UNIX",
-    "optionb": "MS-DOS",
-    "optionc": "WINDOWS 98",
-    "optiond": "ACCESS",
-    "ans": "d"
-  },
-  {
-    "question": "Related to computers; what is meant by software' ?",
-    "optiona": "Computer programs",
-    "optionb": "Computer circuitry",
-    "optionc": "Human brain",
-    "optiond": "Floppy discs",
-    "ans": "a"
-  }
-]
+		{
+			"question": "The physical structure of a computer is called a .........",
+			"optiona": "(A) hardware",
+			"optionb": "(B) software",
+			"optionc": "(C) keyboard",
+			"optiond": "(D) memory",
+			"ans": "A"
+		},
+		{
+			"question": "Generally which software uses to keep record of data ?",
+			"optiona": "(A) Database software",
+			"optionb": "(B) Word processing software",
+			"optionc": "(C) Operating system",
+			"optiond": "(D) Utility software",
+			"ans": "A"
+		},
+		{
+			"question": "Which database package uses on Ms-DOS based personal computers?",
+			"optiona": "(A) D base 3",
+			"optionb": "(B) Coral",
+			"optionc": "(C) Word star",
+			"optiond": "(D) Auto CAD",
+			"ans": "A"
+		},
+		{
+			"question": "To work on a computer mainly we need",
+			"optiona": "(A) hardware",
+			"optionb": "(B) software",
+			"optionc": "(C) scanner",
+			"optiond": "(D) a and b both",
+			"ans": "D"
+		},
+		{
+			"question": "Tangible; physical computer equipment that can be seen and touched is called ..............",
+			"optiona": "(A) Hardware",
+			"optionb": "(B) Software",
+			"optionc": "(C) Storage",
+			"optiond": "(D) Input/output",
+			"ans": "A"
+		},
+		{
+			"question": "Basic language of Unix is ...............",
+			"optiona": "(A) Cobol",
+			"optionb": "(B) Basic",
+			"optionc": "(C) Assembly",
+			"optiond": "(D) Java",
+			"ans": "C"
+		},
+
+		{
+			"question": "Which of the following works as an agent between hardware and user?",
+			"optiona": "(A) Compiler",
+			"optionb": "(B) Operating system",
+			"optionc": "(C) Translator",
+			"optiond": "(D) All of these",
+			"ans": "B"
+		},
+		{
+			"question": "Any program translated into machine language is called ....",
+			"optiona": "(A) analog program",
+			"optionb": "(B) object code",
+			"optionc": "(C) personal program",
+			"optiond": "(D) official program",
+			"ans": "B"
+		},
+		{
+			"question": "The word CAD is related to ........",
+			"optiona": "(A) account",
+			"optionb": "(B) design",
+			"optionc": "(C) media",
+			"optiond": "(D) science",
+			"ans": "B"
+		},
+		{
+			"question": "What is the use of backup in a database ?",
+			"optiona": "(A) To check the working of the system",
+			"optionb": "(B) For safety",
+			"optionc": "(C) To provide record of transaction",
+			"optiond": "(D) To find the lost data",
+			"ans": "D"
+		},
+		{
+			"question": "Page maker software is related to which operating system ?",
+			"optiona": "(A) MS-DOS",
+			"optionb": "(B) Unix",
+			"optionc": "(C) Windows",
+			"optiond": "(D) All of these",
+			"ans": "C"
+		},
+		{
+			"question": "Oracle is a ..........",
+			"optiona": "(A) An operating system",
+			"optionb": "(B) Word processor",
+			"optionc": "(C) Database software",
+			"optiond": "(D) All of these",
+			"ans": "C"
+		},
+		{
+			"question": "Which software is used in word processing ?",
+			"optiona": "(A) Page maker",
+			"optionb": "(B) Word star",
+			"optionc": "(C) MS-Word",
+			"optiond": "(D) All",
+			"ans": "D"
+		},
+
+		{
+			"question": "What is Linux ?",
+			"optiona": "(A) An operating system",
+			"optionb": "(B) A software",
+			"optionc": "(C) A site",
+			"optiond": "(D) A graphics",
+			"ans": "A"
+		},
+		{
+			"question": "A computer converts a high level program into a low level program with the help of ....",
+			"optiona": "(A) compiler",
+			"optionb": "(B) interpreter",
+			"optionc": "(C) (a) and (b) both",
+			"optiond": "(D) package",
+			"ans": "C"
+		},
+		{
+			"question": "In a computer which is the main part of system software ?",
+			"optiona": "(A) Compiler",
+			"optionb": "(B) Interpreter",
+			"optionc": "(C) Operating system",
+			"optiond": "(D) Package",
+			"ans": "C"
+		},
+		{
+			"question": "What is turnkey system ?",
+			"optiona": "(A) Complete hardware and software",
+			"optionb": "(B) Complete software",
+			"optionc": "(C) Complete language",
+			"optiond": "(D) Complete hardware",
+			"ans": "A"
+		},
+		{
+			"question": "Who developed Unix ?",
+			"optiona": "(A) Rod Fenson",
+			"optionb": "(B) Ken Thompson",
+			"optionc": "(C) Ramavart Cathrin",
+			"optiond": "(D) Jahnson",
+			"ans": "B"
+		},
+
+		{
+			"question": "CAD stands for",
+			"optiona": "(A) Computer algorithm for design",
+			"optionb": "(B) Computer aided design",
+			"optionc": "(C) Computer application in design",
+			"optiond": "(D) All of these",
+			"ans": "B"
+		},
+		{
+			"question": "The legal right to use software based on specific restrictions is grantedvia a ........",
+			"optiona": "(A) Software privacy policy",
+			"optionb": "(B) Software license",
+			"optionc": "(C) Software password manager",
+			"optiond": "(D) Software log",
+			"ans": "B"
+		},
+		{
+			"question": "Which software is used for creating resume ?",
+			"optiona": "(A) MS-Word",
+			"optionb": "(B) Page maker",
+			"optionc": "(C) a and b both",
+			"optiond": "(D) Java",
+			"ans": "C"
+		},
+		{
+			"question": "People who write and test the programs are called",
+			"optiona": "(A) Programmer",
+			"optionb": "(B) Computer scientists",
+			"optionc": "(C) Software engineer",
+			"optiond": "(D) Project developer",
+			"ans": "A"
+		},
+		{
+			"question": "When you turn on the computer; the boot routine will perform thistest",
+			"optiona": "(A) RAM test",
+			"optionb": "(B) Disk drive test",
+			"optionc": "(C) Memory test",
+			"optiond": "(D) Power-on-self-test",
+			"ans": "D"
+		},
+
+		{
+			"question": "The ability of an OS to run more than one application at a time is called........",
+			"optiona": "(A) multitasking",
+			"optionb": "(B) object-oriented programming",
+			"optionc": "(C) multi-user computing",
+			"optiond": "(D) time-sharing",
+			"ans": "A"
+		},
+		{
+			"question": "A computer cannot \"boot\" if it does not have the ........",
+			"optiona": "(A) compiler",
+			"optionb": "(B) loader",
+			"optionc": "(C) operating system",
+			"optiond": "(D) assembler",
+			"ans": "C"
+		},
+		{
+			"question": "Programs designed specifically to address general-purpose applications and special-purpose applications are called ...",
+			"optiona": "(A) operating system",
+			"optionb": "(B) system software",
+			"optionc": "(C) application software",
+			"optiond": "(D) management information systems",
+			"ans": "C"
+		},
+		{
+			"question": "An assembler is used to translate a program written in ...........",
+			"optiona": "(A) A low level language",
+			"optionb": "(B) Machine language",
+			"optionc": "(C) A high level language",
+			"optiond": "(D) Assembly language",
+			"ans": "D"
+		},
+		{
+			"question": "A program which helps create written documents and lets you go back and make corrections as necessary .......",
+			"optiona": "(A) Spreadsheet",
+			"optionb": "(B) Personal writer",
+			"optionc": "(C) Word printer",
+			"optiond": "(D) Word processor",
+			"ans": "D"
+		},
+		{
+			"question": "Start or restart of the computer .................",
+			"optiona": "(A) Exit",
+			"optionb": "(B) Kick",
+			"optionc": "(C) Boot",
+			"optiond": "(D) Kick-start",
+			"ans": "C"
+		},
+		{
+			"question": ".......... is when the computer is turned on and the operating system is loading.",
+			"optiona": "(A) Booting",
+			"optionb": "(B) Flashing",
+			"optionc": "(C) Tracking",
+			"optiond": "(D) Taping",
+			"ans": "A"
+		},
+		{
+			"question": "A compiler is used to translate a program written in ..",
+			"optiona": "(A) a low level language",
+			"optionb": "(B) a high level language",
+			"optionc": "(C) assembly language",
+			"optiond": "(D) machine language",
+			"ans": "B"
+		},
+		{
+			"question": "The human-readable version of a program is called ...........",
+			"optiona": "(A) source code",
+			"optionb": "(B) program code",
+			"optionc": "(C) human code",
+			"optiond": "(D) system code",
+			"ans": "A"
+		},
+
+		{
+			"question": "After turns on computer light the process of start is called",
+			"optiona": "(A) application",
+			"optionb": "(B) system",
+			"optionc": "(C) boot strap",
+			"optiond": "(D) strap",
+			"ans": "C"
+		},
+		{
+			"question": "The type of software that controls the internal operations in the computer and controls how the computer works with all its parts is which of the following ?",
+			"optiona": "(A) Shareware",
+			"optionb": "(B) Public domain software",
+			"optionc": "(C) Application software",
+			"optiond": "(D) Operating system software",
+			"ans": "D"
+		},
+		{
+			"question": "What is correcting errors in a program called ?",
+			"optiona": "(A) Compiling",
+			"optionb": "(B) Debugging",
+			"optionc": "(C) Grinding",
+			"optiond": "(D) Interpreting",
+			"ans": "B"
+		},
+		{
+			"question": "A compiler translates a program written in a high level language into .....",
+			"optiona": "(A) machine language",
+			"optionb": "(B) an algorithm",
+			"optionc": "(C) a debugged program",
+			"optiond": "(D) java",
+			"ans": "A"
+		},
+		{
+			"question": "This can be another word for program",
+			"optiona": "(A) Software",
+			"optionb": "(B) Disk",
+			"optionc": "(C) Floppy",
+			"optiond": "(D) Hardware",
+			"ans": "A"
+		},
+		{
+			"question": "What happens when you boot up a PC?",
+			"optiona": "(A) Portions of the operating system are copied from disk into memory",
+			"optionb": "(B) Portions of the operating system are copied from memory onto disk",
+			"optionc": "(C) Portions of the operating system are compiled",
+			"optiond": "(D) Portions of the operating system are emulated",
+			"ans": "A"
+		},
+		{
+			"question": "Copying computer program or software without permission of its author is called",
+			"optiona": "(A) Highway robbery",
+			"optionb": "(B) Larceny",
+			"optionc": "(C) Software piracy",
+			"optiond": "(D) Embezzlement",
+			"ans": "C"
+		},
+		{
+			"question": "Antivirus software is an example of .............",
+			"optiona": "(A) business software",
+			"optionb": "(B) an operating system",
+			"optionc": "(C) a security utility",
+			"optiond": "(D) an office suite",
+			"ans": "C"
+		},
+
+
+		{
+			"question": "A (n) ...... converts and executes one statement at a time.",
+			"optiona": "(A) compiler",
+			"optionb": "(B) interpreter",
+			"optionc": "(C) converter",
+			"optiond": "(D) instructions",
+			"ans": "B"
+		},
+		{
+			"question": "The term ...... designates equipment that might be added to a computer system to enhance its functionality.",
+			"optiona": "(A) digital device",
+			"optionb": "(B) system add-on",
+			"optionc": "(C) disk pack",
+			"optiond": "(D) peripheral device",
+			"ans": "D"
+		},
+		{
+			"question": "Which is the best definition of a software package ?",
+			"optiona": "(A) An add-on for your computer such as additional memory",
+			"optionb": "(B) A set of computer programs used for a certain function such as word processing",
+			"optionc": "(C) A protection you can buy for a computer",
+			"optiond": "(D) the box; manual and license agreement that accompany commercial software",
+			"ans": "B"
+		},
+		{
+			"question": "If a new device is attached to a computer; such as a printer or scanner; its ...... must be installed before the device can be used.",
+			"optiona": "(A) buffer",
+			"optionb": "(B) driver",
+			"optionc": "(C) pager",
+			"optiond": "(D) server",
+			"ans": "B"
+		},
+		{
+			"question": "Compiling creates a(n) ......",
+			"optiona": "(A) program specification",
+			"optionb": "(B) algorithm",
+			"optionc": "(C) executable program",
+			"optiond": "(D) subroutine",
+			"ans": "C"
+		},
+		{
+			"question": "What disk is used to cold boot a PC ?",
+			"optiona": "(A) Setup disk",
+			"optionb": "(B) System disk",
+			"optionc": "(C) Diagnostic disk",
+			"optiond": "(D) Program disk",
+			"ans": "B"
+		},
+		{
+			"question": "Which process checks to ensure the components of the computer are operating and connected properly ?",
+			"optiona": "(A) Booting",
+			"optionb": "(B) Processing",
+			"optionc": "(C) Saving",
+			"optiond": "(D) Editing",
+			"ans": "A"
+		},
+		{
+			"question": "A(n) ....... is a program that makes the computer easier to use.",
+			"optiona": "(A) application",
+			"optionb": "(B) utility",
+			"optionc": "(C) network",
+			"optiond": "(D) operating system",
+			"ans": "B"
+		},
+		{
+			"question": "The combination of operating system and processor in a computer is referred to as a computers' ..........",
+			"optiona": "(A) firmware",
+			"optionb": "(B) specifications",
+			"optionc": "(C) minimum requirements",
+			"optiond": "(D) platform",
+			"ans": "D"
+		},
+		{
+			"question": "What is software ?",
+			"optiona": "(A) A type of computer code",
+			"optionb": "(B) A computer language",
+			"optionc": "(C) A set of instructions for your computer",
+			"optiond": "(D) A cover for the computer",
+			"ans": "C"
+		},
+		{
+			"question": "What are two example of freeware?",
+			"optiona": "(A) WinZip and Linux",
+			"optionb": "(B) Shareware and file sharing",
+			"optionc": "(C) Microsoft Word and the Google toolbar",
+			"optiond": "(D) Instant messaging and the Google toolbar",
+			"ans": "D"
+		},
+		{
+			"question": "Vendor-created program modifications are called .",
+			"optiona": "(A) patches",
+			"optionb": "(B) anti-viruses",
+			"optionc": "(C) holes",
+			"optiond": "(D) fixes",
+			"ans": "A"
+		},
+		{
+			"question": "A(n)..... backup contains a copy of every program; data; and system file on a computer.",
+			"optiona": "(A) restoration",
+			"optionb": "(B) bootstrap",
+			"optionc": "(C) differential",
+			"optiond": "(D) full",
+			"ans": "D"
+		},
+		{
+			"question": "In MS-DOS; the command that is used to clear the screen is :",
+			"optiona": "(A) CIS",
+			"optionb": "(B) Clear",
+			"optionc": "(C) Clear screen",
+			"optiond": "(D) Wipe",
+			"ans": "A"
+		},
+		{
+			"question": "Pick the odd man out.",
+			"optiona": "(A) UNIX",
+			"optionb": "(B) MS-DOS",
+			"optionc": "(C) WINDOWS 98",
+			"optiond": "(D) ACCESS",
+			"ans": "D"
+		},
+		{
+			"question": "Related to computers; what is meant by software' ?",
+			"optiona": "(A) Computer programs",
+			"optionb": "(B) Computer circuitry",
+			"optionc": "(C) Human brain",
+			"optiond": "(D) Floppy discs",
+			"ans": "A"
+		}
+	]
+}
