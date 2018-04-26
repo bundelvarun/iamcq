@@ -10,7 +10,7 @@
 		{
 			"question": "The word computer has been derived from which of the following language?",
 			"optiona": "(A) Greek",
-			"optionb": "(B)  English ",
+			"optionb": "(B) English ",
 			"optionc": "(C) Hindi",
 			"optiond": "(D) Latin ",
 			"ans": "D"
@@ -289,10 +289,10 @@
 
 		{
 			"question": "Which of the following retains the information it’s storing when the power to the system is turned off?",
-			"optiona": "(A)  CPU",
-			"optionb": "(B)  ROM",
-			"optionc": "(C)  RAM",
-			"optiond": "(D)  DIMM",
+			"optiona": "(A) CPU",
+			"optionb": "(B) ROM",
+			"optionc": "(C) RAM",
+			"optiond": "(D) DIMM",
 			"ans": "B"
 		},		
 		{
