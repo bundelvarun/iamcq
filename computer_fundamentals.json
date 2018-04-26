@@ -1,15 +1,15 @@
 {
 	"list_Mcq": [{
 			"question": "What is a computer? ",
-			"optiona": " (A) Electronic machine ",
-			"optionb": " (B) Power machine ",
-			"optionc": " (C) Electric machine ",
-			"optiond": " (D) All of these ",
+			"optiona": "(A) Electronic machine ",
+			"optionb": "(B)Power machine ",
+			"optionc": "(C) Electric machine ",
+			"optiond": "(D) All of these ",
 			"ans": "A"
 		},
 		{
 			"question": "The word computer has been derived from which of the following language?",
-			"optiona": " (A) Greek",
+			"optiona": "(A) Greek",
 			"optionb": "(B) English ",
 			"optionc": "(C) Hindi",
 			"optiond": "(D) Latin ",
@@ -17,119 +17,119 @@
 		},
 		{
 			"question": "Computer cannot perform",
-			"optiona": " (A) input",
-			"optionb": " (B) output ",
-			"optionc": " (C) thinking",
-			"optiond": " (D) processing ",
+			"optiona": "(A) input",
+			"optionb": "(B)output ",
+			"optionc": "(C) thinking",
+			"optiond": "(D) processing ",
 			"ans": "C"
 		},
 
 		{
 			"question": "A ........... is an electronic device that processes data and converts it into information? ",
-			"optiona": " (A) Computer ",
-			"optionb": " (B) Processor",
-			"optionc": " (C) Case ",
-			"optiond": " (D) Styles",
+			"optiona": "(A) Computer ",
+			"optionb": "(B)Processor",
+			"optionc": "(C) Case ",
+			"optiond": "(D) Styles",
 			"ans": "A"
 
 		},
 
 		{
 			"question": "Capacity of computer is ",
-			"optiona": " (A) Limited",
-			"optionb": " (B) Unlimited ",
-			"optionc": " (C) Low ",
-			"optiond": " (D) High",
+			"optiona": "(A) Limited",
+			"optionb": "(B)Unlimited ",
+			"optionc": "(C) Low ",
+			"optiond": "(D) High",
 			"ans": "A"
 		},
 
 		{
 
 			"question": "Computer is named as ........ intelligence. ",
-			"optiona": " (A) pure",
-			"optionb": " (B) human",
-			"optionc": " (C) artificial ",
-			"optiond": " (D) all",
+			"optiona": "(A) pure",
+			"optionb": "(B)human",
+			"optionc": "(C) artificial ",
+			"optiond": "(D) all",
 			"ans": "C"
 		},
 
 		{
 			"question": "A computer cannot 'boot' if it does not have the. ",
-			"optiona": " (A) Compiler ",
-			"optionb": " (B) Loader",
-			"optionc": " (C) Operating System  ",
-			"optiond": " (D) Assembler",
+			"optiona": "(A) Compiler ",
+			"optionb": "(B)Loader",
+			"optionc": "(C) Operating System  ",
+			"optiond": "(D) Assembler",
 			"ans": "C"
 
 		},
 
 		{
 			"question": "........ is called brain of computer",
-			"optiona": " (A) CPU",
-			"optionb": " (B) Monitor",
-			"optionc": " (C) Modem ",
-			"optiond": " (D) Software",
+			"optiona": "(A) CPU",
+			"optionb": "(B)Monitor",
+			"optionc": "(C) Modem ",
+			"optiond": "(D) Software",
 			"ans": "A"
 		},
 
 		{
 			"question": "Basic operation done by computer is",
-			"optiona": " (A) Arithmetic operation ",
-			"optionb": " (B) Logical operation ",
-			"optionc": " (C) Data storage",
-			"optiond": " (D) All ",
+			"optiona": "(A) Arithmetic operation ",
+			"optionb": "(B)Logical operation ",
+			"optionc": "(C) Data storage",
+			"optiond": "(D) All ",
 			"ans": "D"
 
 		},
 
 		{
 			"question": "'C' in CPU denotes ......",
-			"optiona": " (A) Central",
-			"optionb": " (B) Common",
-			"optionc": " (C) Convenient ",
-			"optiond": " (D) Computer ",
+			"optiona": "(A) Central",
+			"optionb": "(B)Common",
+			"optionc": "(C) Convenient ",
+			"optiond": "(D) Computer ",
 			"ans": "A"
 		},
 
 		{
 			"question": "CPU Stands for",
-			"optiona": " (A) Cover processing unit ",
-			"optionb": " (B) Control processing unit ",
-			"optionc": " (C) Central processing unit",
-			"optiond": " (D) All ",
+			"optiona": "(A) Cover processing unit ",
+			"optionb": "(B)Control processing unit ",
+			"optionc": "(C) Central processing unit",
+			"optiond": "(D) All ",
 			"ans": "C"
 		},
 
 		{
 			"question": "Main component of CPU is",
-			"optiona": " (A) Control unit ",
-			"optionb": " (B) Memory",
-			"optionc": " (C) ALU ",
-			"optiond": " (D) All",
+			"optiona": "(A) Control unit ",
+			"optionb": "(B)Memory",
+			"optionc": "(C) ALU ",
+			"optiond": "(D) All",
 			"ans": "D"
 		},
 
 		{
 			"question": "Function of CPU is",
-			"optiona": " (A) Control input and output device ",
-			"optionb": " (B) Immediate storage of data ",
-			"optionc": " (C) Read the instruction and give command ",
-			"optiond": " (D) All",
+			"optiona": "(A) Control input and output device ",
+			"optionb": "(B)Immediate storage of data ",
+			"optionc": "(C) Read the instruction and give command ",
+			"optiond": "(D) All",
 			"ans": "D"
 		},
 
 		{
 
 			"question": "Input is modified into output by",
-			"optiona": " (A) Peripherals ",
-			"optionb": " (B) Memory",
-			"optionc": " (C) Storage ",
-			"optiond": " (D) CPU",
+			"optiona": "(A) Peripherals ",
+			"optionb": "(B)Memory",
+			"optionc": "(C) Storage ",
+			"optiond": "(D) CPU",
 			"ans": "D"
 		},
 		{
 			"question": "Which is not a basic function of a computer?",
-			"optiona": " (A) Copy text ",
+			"optiona": "(A) Copy text ",
 			"optionb": "(B) Accept input ",
 			"optionc": "(C) Process data ",
 			"optiond": "(D) Store data",
@@ -138,38 +138,38 @@
 
 		{
 			"question": "Part of CPU which coordinates all functions of computer and other components ",
-			"optiona": " (A) Mother board ",
-			"optionb": " (B) Coordination board ",
-			"optionc": " (C) Control unit ",
-			"optiond": " (D) ALU",
+			"optiona": "(A) Mother board ",
+			"optionb": "(B)Coordination board ",
+			"optionc": "(C) Control unit ",
+			"optiond": "(D) ALU",
 			"ans": "C"
 		},
 
 		{
 
 			"question": "Which is a part of CPU?",
-			"optiona": " (A) Key board ",
-			"optionb": " (B) Printer",
-			"optionc": " (C) Tape ",
-			"optiond": " (D) ALU",
+			"optiona": "(A) Key board ",
+			"optionb": "(B)Printer",
+			"optionc": "(C) Tape ",
+			"optiond": "(D) ALU",
 			"ans": "D"
 		},
 
 		{
 			"question": "ALU Stands for",
-			"optiona": " (A) Arithmetic logic unit",
-			"optionb": " (B) Arithmetic large unit ",
-			"optionc": " (C) Arithmetic long unit",
-			"optiond": " (D) All ",
+			"optiona": "(A) Arithmetic logic unit",
+			"optionb": "(B)Arithmetic large unit ",
+			"optionc": "(C) Arithmetic long unit",
+			"optiond": "(D) All ",
 			"ans": "A"
 		},
 
 		{
 			"question": "Which part of the computer is used for calculating and comparing?",
-			"optiona": " (A) ALU",
-			"optionb": " (B) Control unit ",
-			"optionc": " (C) Disk unit ",
-			"optiond": " (D) Modem",
+			"optiona": "(A) ALU",
+			"optionb": "(B)Control unit ",
+			"optionc": "(C) Disk unit ",
+			"optiond": "(D) Modem",
 			"ans": "A"
 
 		},
@@ -177,45 +177,45 @@
 		{
 
 			"question": "The ................ is responsible for performing calculations and contains decision-making mechanisms. ",
-			"optiona": " (A) Central Processing Unit",
-			"optionb": " (B) Memory unit",
-			"optionc": " (C) Arithmetic and Logic Unit",
-			"optiond": " (D) Output Unit ",
+			"optiona": "(A) Central Processing Unit",
+			"optionb": "(B)Memory unit",
+			"optionc": "(C) Arithmetic and Logic Unit",
+			"optiond": "(D) Output Unit ",
 			"ans": "C"
 		},
 
 		{
 
 			"question": "Data going to computer is called?",
-			"optiona": " (A) Operate",
-			"optionb": " (B) Algorithm ",
-			"optionc": " (C) Input ",
-			"optiond": " (D) Calculation ",
+			"optiona": "(A) Operate",
+			"optionb": "(B)Algorithm ",
+			"optionc": "(C) Input ",
+			"optiond": "(D) Calculation ",
 			"ans": "C"
 		},
 
 		{
 			"question": "Computer ............ is whatever is typed, submitted, or transmitted to a computer system",
-			"optiona": " (A) input",
-			"optionb": " (B) output",
-			"optionc": " (C) data ",
-			"optiond": " (D) circuit",
+			"optiona": "(A) input",
+			"optionb": "(B)output",
+			"optionc": "(C) data ",
+			"optiond": "(D) circuit",
 			"ans": "A"
 		},
 		{
 			"question": "What can be the form of data ? ",
-			"optiona": " (A) Written",
-			"optionb": " (B) Unwritten",
-			"optionc": " (C) Visual ",
-			"optiond": " (D) a and b both",
+			"optiona": "(A) Written",
+			"optionb": "(B)Unwritten",
+			"optionc": "(C) Visual ",
+			"optiond": "(D) a and b both",
 			"ans": "D"
 		},
 		{
 			"question": "Processed data of computer is called",
-			"optiona": " (A) Input",
-			"optionb": " (B) Output",
-			"optionc": " (C) Process ",
-			"optiond": " (D) All",
+			"optiona": "(A) Input",
+			"optionb": "(B)Output",
+			"optionc": "(C) Process ",
+			"optiond": "(D) All",
 			"ans": "A"
 
 		},
@@ -223,38 +223,38 @@
 		{
 
 			"question": ".................... is processed in information by computer processor? ",
-			"optiona": " (A) Number",
-			"optionb": " (B) Processor",
-			"optionc": " (C) Input ",
-			"optiond": " (D) Data",
+			"optiona": "(A) Number",
+			"optionb": "(B)Processor",
+			"optionc": "(C) Input ",
+			"optiond": "(D) Data",
 			"ans": "D"
 		},
 
 		{
 			"question": "Example of non-numeric data is ",
-			"optiona": " (A) Employee address ",
-			"optionb": " (B) Examination score ",
-			"optionc": " (C) Bank balance ",
-			"optiond": " (D) All of these",
+			"optiona": "(A) Employee address ",
+			"optionb": "(B)Examination score ",
+			"optionc": "(C) Bank balance ",
+			"optiond": "(D) All of these",
 			"ans": "A"
 
 		},
 
 		{
 			"question": "The basic goal of computer process is to convert data into",
-			"optiona": " (A) Files",
-			"optionb": " (B) Tables",
-			"optionc": " (C) Information ",
-			"optiond": " (D) Graphs",
+			"optiona": "(A) Files",
+			"optionb": "(B)Tables",
+			"optionc": "(C) Information ",
+			"optiond": "(D) Graphs",
 			"ans": "C"
 		},
 
 		{
 			"question": ".... represents raw facts. Whereas ....... is meaningful data",
-			"optiona": " (A) Information, reporting ",
-			"optionb": " (B) Data, information ",
-			"optionc": " (C) Information bits",
-			"optiond": " (D) Records, bytes ",
+			"optiona": "(A) Information, reporting ",
+			"optionb": "(B)Data, information ",
+			"optionc": "(C) Information bits",
+			"optiond": "(D) Records, bytes ",
 			"ans": "B"
 
 		},
@@ -262,54 +262,54 @@
 		{
 
 			"question": "Manipulating data to create information is known as.......",
-			"optiona": " (A) Information",
-			"optionb": " (B) Data ",
-			"optionc": " (C) Software Program ",
-			"optiond": " (D) System",
+			"optiona": "(A) Information",
+			"optionb": "(B)Data ",
+			"optionc": "(C) Software Program ",
+			"optiond": "(D) System",
 			"ans": "A"
 		},
 
 		{
 			"question": "The information processing cycle includes the following processes ....",
-			"optiona": " (A) input, processing, output, storage ",
-			"optionb": " (B) input, output, manipulation, arithmetic ",
-			"optionc": " (C) data, processing, printing, editing ",
-			"optiond": " (D) storage, display, data, information ",
+			"optiona": "(A) input, processing, output, storage ",
+			"optionb": "(B)input, output, manipulation, arithmetic ",
+			"optionc": "(C) data, processing, printing, editing ",
+			"optiond": "(D) storage, display, data, information ",
 			"ans": "A"
 		},
 
 		{
 			"question": "Where are data and programme stored when the processor uses them? ",
-			"optiona": " (A) Main memory ",
-			"optionb": " (B) Secondary memory ",
-			"optionc": " (C) Disk memory ",
-			"optiond": " (D) Programme memory",
+			"optiona": "(A) Main memory ",
+			"optionb": "(B)Secondary memory ",
+			"optionc": "(C) Disk memory ",
+			"optiond": "(D) Programme memory",
 			"ans": "A"
 		},
 
 		{
 			"question": "Which of the following retains the information it’s storing when the power to the system is turned off?",
-			"optiona": " (A)  CPU",
-			"optionb": " (B)  ROM",
-			"optionc": " (C)  RAM",
-			"optiond": " (D)  DIMM",
+			"optiona": "(A)  CPU",
+			"optionb": "(B) ROM",
+			"optionc": "(C)  RAM",
+			"optiond": "(D)  DIMM",
 			"ans": "B"
 		},		
 		{
 			"question": "In which memory is data lost by power off ?",
-			"optiona": " (A) Disc",
-			"optionb": " (B) RAM",
-			"optionc": " (C) Floppy",
-			"optiond": " (D) CD",
+			"optiona": "(A) Disc",
+			"optionb": "(B)RAM",
+			"optionc": "(C) Floppy",
+			"optiond": "(D) CD",
 			"ans": "B"
 		},
 
 		{
 			"question": "Where data will remain intact even when the computer is turned off ?",
-			"optiona": " (A) RAM",
-			"optionb": " (B) Mother board",
-			"optionc": " (C) Secondary storage device",
-			"optiond": " (D) Primary storage device",
+			"optiona": "(A) RAM",
+			"optionb": "(B)Mother board",
+			"optionc": "(C) Secondary storage device",
+			"optiond": "(D) Primary storage device",
 			"ans": "C"
 		},
 
@@ -317,625 +317,625 @@
 
 		{
 			"question": "Data gathering in computer means they allow to use ........ data.",
-			"optiona": " (A) Present",
-			"optionb": " (B) Input",
-			"optionc": " (C) Output",
-			"optiond": " (D) Store",
+			"optiona": "(A) Present",
+			"optionb": "(B)Input",
+			"optionc": "(C) Output",
+			"optiond": "(D) Store",
 			"ans": "D"
 		},
 
 		{
 			"question": "The process to copy the software in hard disk from secondary storage media is called",
-			"optiona": " (A) Configuration",
-			"optionb": " (B) Download",
-			"optionc": " (C) Storage",
-			"optiond": " (D) Escalation",
+			"optiona": "(A) Configuration",
+			"optionb": "(B)Download",
+			"optionc": "(C) Storage",
+			"optiond": "(D) Escalation",
 			"ans": "D"
 		},
 		{
 			"question": "Which of the following memories must be refreshed many times per second ?",
-			"optiona": " (A) EPROM",
-			"optionb": " (B) ROM",
-			"optionc": " (C) Static RAM",
-			"optiond": " (D) Dynamic RAM",
+			"optiona": "(A) EPROM",
+			"optionb": "(B)ROM",
+			"optionc": "(C) Static RAM",
+			"optiond": "(D) Dynamic RAM",
 			"ans": "D"
 		},
 		{
 			"question": "Main memory of computer is—",
-			"optiona": " (A) Internal",
-			"optionb": " (B) External",
-			"optionc": " (C) (a)and (b) both",
-			"optiond": " (D) Auxiliary",
+			"optiona": "(A) Internal",
+			"optionb": "(B)External",
+			"optionc": "(C) (a)and (b) both",
+			"optiond": "(D) Auxiliary",
 			"ans": "A"
 		},
 		{
 			"question": "Breaking logical memory into blocks of the same size is called as :",
-			"optiona": " (A) Frames",
-			"optionb": " (B) Segments",
-			"optionc": " (C) Packets",
-			"optiond": " (D) Pages",
+			"optiona": "(A) Frames",
+			"optionb": "(B)Segments",
+			"optionc": "(C) Packets",
+			"optiond": "(D) Pages",
 			"ans": "D"
 		},
 		{
 			"question": "The contents of memory will not loose",
-			"optiona": " (A) when the power goes off in ....",
-			"optionb": " (B) ROM",
-			"optionc": " (C) EPROM",
-			"optiond": " (D) EEPROM",
+			"optiona": "(A) when the power goes off in ....",
+			"optionb": "(B)ROM",
+			"optionc": "(C) EPROM",
+			"optiond": "(D) EEPROM",
 			"ans": "D"
 		},
 		{
 			"question": "What is the permanent memory built into your computer called ?",
-			"optiona": " (A) RAM",
-			"optionb": " (B) ROM",
-			"optionc": " (C) CPU",
-			"optiond": " (D) CD-ROM",
+			"optiona": "(A) RAM",
+			"optionb": "(B)ROM",
+			"optionc": "(C) CPU",
+			"optiond": "(D) CD-ROM",
 			"ans": "B"
 		},
 
 		{
 			"question": "For permanent memory in computer objects used are—",
-			"optiona": " (A) Floppy disc",
-			"optionb": " (B) Magnetic tape",
-			"optionc": " (C) Hard disc",
-			"optiond": " (D) All of these",
+			"optiona": "(A) Floppy disc",
+			"optionb": "(B)Magnetic tape",
+			"optionc": "(C) Hard disc",
+			"optiond": "(D) All of these",
 			"ans": "D"
 		},
 		{
 			"question": "What is the capacity of super computers floppy disc ?",
-			"optiona": " (A) 400 M",
-			"optionb": " (B) 500 M",
-			"optionc": " (C) 600 M",
-			"optiond": " (D) 700 M",
+			"optiona": "(A) 400 M",
+			"optionb": "(B)500 M",
+			"optionc": "(C) 600 M",
+			"optiond": "(D) 700 M",
 			"ans": "B"
 		},
 		{
 			"question": "Hard disc drives are considered .............. storage",
-			"optiona": " (A) Flash",
-			"optionb": " (B) Non-volatile",
-			"optionc": " (C) Temporary",
-			"optiond": " (D) Non-permanent",
+			"optiona": "(A) Flash",
+			"optionb": "(B)Non-volatile",
+			"optionc": "(C) Temporary",
+			"optiond": "(D) Non-permanent",
 			"ans": "B"
 		},
 		{
 			"question": "Flash is ...",
-			"optiona": " (A) Software",
-			"optionb": " (B) Hardware",
-			"optionc": " (C) ROM",
-			"optiond": " (D) RAM",
+			"optiona": "(A) Software",
+			"optionb": "(B)Hardware",
+			"optionc": "(C) ROM",
+			"optiond": "(D) RAM",
 			"ans": "D"
 		},
 		{
 			"question": "Internal storage is ......... storage.",
-			"optiona": " (A) Primary",
-			"optionb": " (B) Secondary",
-			"optionc": " (C) Auxiliary",
-			"optiond": " (D) Virtual",
+			"optiona": "(A) Primary",
+			"optionb": "(B)Secondary",
+			"optionc": "(C) Auxiliary",
+			"optiond": "(D) Virtual",
 			"ans": "A"
 		},
 
 		{
 			"question": "CD is an ..................",
-			"optiona": " (A) memory",
-			"optionb": " (B) internal",
-			"optionc": " (C) external",
-			"optiond": " (D) a and b",
+			"optiona": "(A) memory",
+			"optionb": "(B)internal",
+			"optionc": "(C) external",
+			"optiond": "(D) a and b",
 			"ans": "C"
 		},
 		{
 			"question": "............ is not a type of RAM",
-			"optiona": " (A) Megabyte",
-			"optionb": " (B) 64 Megabyte",
-			"optionc": " (C) 574 Megabyte",
-			"optiond": " (D) 32 Megabyte",
+			"optiona": "(A) Megabyte",
+			"optionb": "(B)64 Megabyte",
+			"optionc": "(C) 574 Megabyte",
+			"optiond": "(D) 32 Megabyte",
 			"ans": "C"
 		},
 		{
 			"question": "Which computer memory is used for storing programs and data currently being processed by the CPU ?",
-			"optiona": " (A) Mass memory",
-			"optionb": " (B) Internal memory",
-			"optionc": " (C) Non-volatile memory",
-			"optiond": " (D) PROM",
+			"optiona": "(A) Mass memory",
+			"optionb": "(B)Internal memory",
+			"optionc": "(C) Non-volatile memory",
+			"optiond": "(D) PROM",
 			"ans": "B"
 		},
 		{
 			"question": "The content of ............ are lost when the computer is turned off",
-			"optiona": " (A) Storage",
-			"optionb": " (B) Input",
-			"optionc": " (C) Output",
-			"optiond": " (D) Memory",
+			"optiona": "(A) Storage",
+			"optionb": "(B)Input",
+			"optionc": "(C) Output",
+			"optiond": "(D) Memory",
 			"ans": "D"
 		},
 		{
 			"question": "The most common type of storage devices are—",
-			"optiona": " (A) Persistent",
-			"optionb": " (B) Optical",
-			"optionc": " (C) Magnetic",
-			"optiond": " (D) Flash",
+			"optiona": "(A) Persistent",
+			"optionb": "(B)Optical",
+			"optionc": "(C) Magnetic",
+			"optiond": "(D) Flash",
 			"ans": "C"
 		},
 		{
 			"question": "A disk's content that is recorded at the time of manufacture and that cannot be changed or erased by the user is–",
-			"optiona": " (A) Memory only",
-			"optionb": " (B) Write only",
-			"optionc": " (C) Read only",
-			"optiond": " (D) Run only",
+			"optiona": "(A) Memory only",
+			"optionb": "(B)Write only",
+			"optionc": "(C) Read only",
+			"optiond": "(D) Run only",
 			"ans": "C"
 		},
 		{
 			"question": "Any data or instructions naturel into memory of a computer is considered as ..............",
-			"optiona": " (A) storage",
-			"optionb": " (B) output",
-			"optionc": " (C) input",
-			"optiond": " (D) information",
+			"optiona": "(A) storage",
+			"optionb": "(B)output",
+			"optionc": "(C) input",
+			"optiond": "(D) information",
 			"ans": "A"
 		},
 		{
 			"question": "CDs are of which shape ?",
-			"optiona": " (A) Square",
-			"optionb": " (B) Rectangular",
-			"optionc": " (C) Round",
-			"optiond": " (D) information",
+			"optiona": "(A) Square",
+			"optionb": "(B)Rectangular",
+			"optionc": "(C) Round",
+			"optiond": "(D) information",
 			"ans": "A"
 		},
 		{
 			"question": "The instructions for starting the computer are housed in—",
-			"optiona": " (A) RAM",
-			"optionb": " (B) CD-ROM",
-			"optionc": " (C) ROM chip",
-			"optiond": " (D) All of these",
+			"optiona": "(A) RAM",
+			"optionb": "(B)CD-ROM",
+			"optionc": "(C) ROM chip",
+			"optiond": "(D) All of these",
 			"ans": "C"
 		},
 		{
 			"question": "Where is data saved permanently ?",
-			"optiona": " (A) Memory",
-			"optionb": " (B) Storage",
-			"optionc": " (C) CPU",
-			"optiond": " (D) Printer",
+			"optiona": "(A) Memory",
+			"optionb": "(B)Storage",
+			"optionc": "(C) CPU",
+			"optiond": "(D) Printer",
 			"ans": "B"
 		},
 		{
 			"question": "Secondary storage ...",
-			"optiona": " (A) does not require constant power",
-			"optionb": " (B) does not use magnetic media",
-			"optionc": " (C) consists of four main types of devices",
-			"optiond": " (D) does not store information for later retrieval",
+			"optiona": "(A) does not require constant power",
+			"optionb": "(B)does not use magnetic media",
+			"optionc": "(C) consists of four main types of devices",
+			"optiond": "(D) does not store information for later retrieval",
 			"ans": "A"
 		},
 		{
 			"question": "The place where the computer stores programs and data is called",
-			"optiona": " (A) Memory",
-			"optionb": " (B) Storehouse",
-			"optionc": " (C) Storage unit",
-			"optiond": " (D) Backup",
+			"optiona": "(A) Memory",
+			"optionb": "(B)Storehouse",
+			"optionc": "(C) Storage unit",
+			"optiond": "(D) Backup",
 			"ans": "C"
 		},
 		{
 			"question": "During processing data programs and processed information are held temporarily in ...............",
-			"optiona": " (A) Secondary storage",
-			"optionb": " (B) ROM",
-			"optionc": " (C) RAM",
-			"optiond": " (D) CPU",
+			"optiona": "(A) Secondary storage",
+			"optionb": "(B)ROM",
+			"optionc": "(C) RAM",
+			"optiond": "(D) CPU",
 			"ans": "C"
 		},
 		{
 			"question": "A flat metallic disk that contains a large amount of permanently stored information read optically is called a.",
-			"optiona": " (A) Monitor",
-			"optionb": " (B) ALU",
-			"optionc": " (C) CD-ROM",
-			"optiond": " (D) RAM",
+			"optiona": "(A) Monitor",
+			"optionb": "(B)ALU",
+			"optionc": "(C) CD-ROM",
+			"optiond": "(D) RAM",
 			"ans": "C"
 		},
 		{
 			"question": "Which type of memory holds only the program and data that the CPU is presently processing ?",
-			"optiona": " (A) CMOS",
-			"optionb": " (B) ROM",
-			"optionc": " (C) RAM",
-			"optiond": " (D) ASCII",
+			"optiona": "(A) CMOS",
+			"optionb": "(B)ROM",
+			"optionc": "(C) RAM",
+			"optiond": "(D) ASCII",
 			"ans": "C"
 		},
 		{
 			"question": "What characteristic of read-only memory (ROM) makes it useful ?",
-			"optiona": " (A) ROM information can be easily updated",
-			"optionb": " (B) Data in ROM is non-volatile that is it remains there even without electrical power",
-			"optionc": " (C) ROM provides very large amounts of inexpensive data storage",
-			"optiond": " (D) ROM chips are easily swapped between different brands of Computers",
+			"optiona": "(A) ROM information can be easily updated",
+			"optionb": "(B)Data in ROM is non-volatile that is it remains there even without electrical power",
+			"optionc": "(C) ROM provides very large amounts of inexpensive data storage",
+			"optiond": "(D) ROM chips are easily swapped between different brands of Computers",
 			"ans": "B"
 		},
 		{
 			"question": "To put information in a file on a magnetic disk or in a computer's memory so that it can be used later ...",
-			"optiona": " (A) Store",
-			"optionb": " (B) Ship",
-			"optionc": " (C) Shift",
-			"optiond": " (D) Center",
+			"optiona": "(A) Store",
+			"optionb": "(B)Ship",
+			"optionc": "(C) Shift",
+			"optiond": "(D) Center",
 			"ans": "A"
 		},
 		{
 			"question": "A place in the computer system where data and programs are temporarily stored",
-			"optiona": " (A) Paste",
-			"optionb": " (B) Open",
-			"optionc": " (C) Memory",
-			"optiond": " (D) Pocket",
+			"optiona": "(A) Paste",
+			"optionb": "(B)Open",
+			"optionc": "(C) Memory",
+			"optiond": "(D) Pocket",
 			"ans": "C"
 		},
 		{
 			"question": "The primary device that a computer uses to store information .........",
-			"optiona": " (A) TV",
-			"optionb": " (B) Storehouse",
-			"optionc": " (C) Desk",
-			"optiond": " (D) Hard drive",
+			"optiona": "(A) TV",
+			"optionb": "(B)Storehouse",
+			"optionc": "(C) Desk",
+			"optiond": "(D) Hard drive",
 			"ans": "D"
 		},
 		{
 			"question": "All of the following storage media have read and write capabilities except .................",
-			"optiona": " (A) Flash memory cards",
-			"optionb": " (B) CD-ROMs",
-			"optionc": " (C) Hard disk drives",
-			"optiond": " (D) Floppy disks",
+			"optiona": "(A) Flash memory cards",
+			"optionb": "(B)CD-ROMs",
+			"optionc": "(C) Hard disk drives",
+			"optiond": "(D) Floppy disks",
 			"ans": "B"
 		},
 		{
 			"question": ".... is the process of dividing the disk into tracks and sectors.",
-			"optiona": " (A) Tracking",
-			"optionb": " (B) Formatting",
-			"optionc": " (C) Crashing",
-			"optiond": " (D) Allotting",
+			"optiona": "(A) Tracking",
+			"optionb": "(B)Formatting",
+			"optionc": "(C) Crashing",
+			"optiond": "(D) Allotting",
 			"ans": "B"
 		},
 		{
 			"question": "Saving is the process of—",
-			"optiona": " (A) Copying a document from memory to a storage medium",
-			"optionb": " (B) Making changes to a document's existing content",
-			"optionc": " (C) Changing the appearance or overall look of a document",
-			"optiond": " (D) Developing a document by entering text using a keyboard",
+			"optiona": "(A) Copying a document from memory to a storage medium",
+			"optionb": "(B)Making changes to a document's existing content",
+			"optionc": "(C) Changing the appearance or overall look of a document",
+			"optiond": "(D) Developing a document by entering text using a keyboard",
 			"ans": "A"
 		},
 		{
 			"question": "The term ... refers to data storage systems that make it possible for a computer or electronic device to store and retrieve data.",
-			"optiona": " (A) retrieval technology",
-			"optionb": " (B) input technology",
-			"optionc": " (C) output technology",
-			"optiond": " (D) storage technology",
+			"optiona": "(A) retrieval technology",
+			"optionb": "(B)input technology",
+			"optionc": "(C) output technology",
+			"optiond": "(D) storage technology",
 			"ans": "D"
 		},
 		{
 			"question": "...... is the maximum amount of data that can be stored on a storage medium.",
-			"optiona": " (A) Magnetic storage",
-			"optionb": " (B) Optical storage",
-			"optionc": " (C) Solid-state storage",
-			"optiond": " (D) Storage capacity",
+			"optiona": "(A) Magnetic storage",
+			"optionb": "(B)Optical storage",
+			"optionc": "(C) Solid-state storage",
+			"optiond": "(D) Storage capacity",
 			"ans": "D"
 		},
 		{
 			"question": "When you save to ....... your data will remain intact even when the computer is turned off.",
-			"optiona": " (A) RAM",
-			"optionb": " (B) mother board",
-			"optionc": " (C) secondary storage device",
-			"optiond": " (D) primary storages device",
+			"optiona": "(A) RAM",
+			"optionb": "(B)mother board",
+			"optionc": "(C) secondary storage device",
+			"optiond": "(D) primary storages device",
 			"ans": "C"
 		},
 		{
 			"question": "Which of the following devices have a limitation that we can only read it but can not erase or modify it ?",
-			"optiona": " (A) Tape drive",
-			"optionb": " (B) Hard disk",
-			"optionc": " (C) Compact disk",
-			"optiond": " (D) Floppy disk",
+			"optiona": "(A) Tape drive",
+			"optionb": "(B)Hard disk",
+			"optionc": "(C) Compact disk",
+			"optiond": "(D) Floppy disk",
 			"ans": "C"
 		},
 		{
 			"question": "Which of the following is the storage area within the computer itself which holds data oniy temporarily as the computer processes instructions?",
-			"optiona": " (A) the hard disk",
-			"optionb": " (B) main memory",
-			"optionc": " (C) the control unit",
-			"optiond": " (D) read-only memory",
+			"optiona": "(A) the hard disk",
+			"optionb": "(B)main memory",
+			"optionc": "(C) the control unit",
+			"optiond": "(D) read-only memory",
 			"ans": "B"
 		},
 		{
 			"question": "If a memory chip is volatile",
-			"optiona": " (A) it will ....... explode if exposed to high temperatures",
-			"optionb": " (B) lose its contents if currents it turned off",
-			"optionc": " (C) be used for data storage only",
-			"optiond": " (D) be used to both read and write data",
+			"optiona": "(A) it will ....... explode if exposed to high temperatures",
+			"optionb": "(B)lose its contents if currents it turned off",
+			"optionc": "(C) be used for data storage only",
+			"optiond": "(D) be used to both read and write data",
 			"ans": "B"
 		},
 		{
 			"question": "What characteristic of read-only memory (ROM) makes it useful ?",
-			"optiona": " (A) ROM information can be easily updated,it remains there even without electrical power",
-			"optionb": " (B) Data in ROM is nonvolatile, that is, it remains there even without electrical power",
-			"optionc": " (C) ROM provides very large amounts of inexpensive data storage",
-			"optiond": " (D) ROM chips are easily swapped between different brands of Computers",
+			"optiona": "(A) ROM information can be easily updated,it remains there even without electrical power",
+			"optionb": "(B)Data in ROM is nonvolatile, that is, it remains there even without electrical power",
+			"optionc": "(C) ROM provides very large amounts of inexpensive data storage",
+			"optiond": "(D) ROM chips are easily swapped between different brands of Computers",
 			"ans": "B"
 		},
 		{
 			"question": "Which of the following are advantage of CD-ROM as a storage media ?",
-			"optiona": " (A) CD-ROM is an inexpensive way to store large amount of data and information",
-			"optionb": " (B) CD-ROM disks retrieve data and information more quickly than magnetic disks do",
-			"optionc": " (C) CD-ROMs make less errors than magnetic media",
-			"optiond": " (D) All of these",
+			"optiona": "(A) CD-ROM is an inexpensive way to store large amount of data and information",
+			"optionb": "(B)CD-ROM disks retrieve data and information more quickly than magnetic disks do",
+			"optionc": "(C) CD-ROMs make less errors than magnetic media",
+			"optiond": "(D) All of these",
 			"ans": "A"
 		},
 		{
 			"question": "Storage and memory differ with respect to which of the following characteristics ?",
-			"optiona": " (A) Price",
-			"optionb": " (B) Reliability",
-			"optionc": " (C) Speed",
-			"optiond": " (D) All of these",
+			"optiona": "(A) Price",
+			"optionb": "(B)Reliability",
+			"optionc": "(C) Speed",
+			"optiond": "(D) All of these",
 			"ans": "D"
 		},
 		{
 			"question": "Which media have the ability to have data/information stored (written) on them by users more than once ?",
-			"optiona": " (A) CD-R disks",
-			"optionb": " (B) CD-RW disks",
-			"optionc": " (C) Zip disks",
-			"optiond": " (D) Optical Disks",
+			"optiona": "(A) CD-R disks",
+			"optionb": "(B)CD-RW disks",
+			"optionc": "(C) Zip disks",
+			"optiond": "(D) Optical Disks",
 			"ans": "B"
 		},
 		{
 			"question": "Storage media such as a CD read and write information using laser beam of red light ",
-			"optionb": " (B) magnetic dots",
-			"optionc": " (C) magnetic strips",
-			"optiond": " (D) All of these",
+			"optionb": "(B)magnetic dots",
+			"optionc": "(C) magnetic strips",
+			"optiond": "(D) All of these",
 			"ans": "A"
 		},
 		{
 			"question": "Cache and main memory will lose their contents when the power is off. They are .........",
-			"optiona": " (A) dynamic",
-			"optionb": " (B) static",
-			"optionc": " (C) volatile",
-			"optiond": " (D) non-volatile",
+			"optiona": "(A) dynamic",
+			"optionb": "(B)static",
+			"optionc": "(C) volatile",
+			"optiond": "(D) non-volatile",
 			"ans": "C"
 		},
 		{
 			"question": "Which of the following is a storage devices that uses rigid, permanently installed magnetic disks to store data/information ......",
-			"optiona": " (A) floppy diskette",
-			"optionb": " (B) hard disk",
-			"optionc": " (C) permanent disk",
-			"optiond": " (D) optical disk",
+			"optiona": "(A) floppy diskette",
+			"optionb": "(B)hard disk",
+			"optionc": "(C) permanent disk",
+			"optiond": "(D) optical disk",
 			"ans": "B"
 		},
 		{
 			"question": "Which of the following is an example of storage devices ?",
-			"optiona": " (A) Magnetic disks",
-			"optionb": " (B) Tapes",
-			"optionc": " (C) DVDs",
-			"optiond": " (D) All of these",
+			"optiona": "(A) Magnetic disks",
+			"optionb": "(B)Tapes",
+			"optionc": "(C) DVDs",
+			"optiond": "(D) All of these",
 			"ans": "D"
 		},
 		{
 			"question": "Which of the following is an example of an optical disk ?",
-			"optiona": " (A) Digital versatile disks",
-			"optionb": " (B) Magnetic disks",
-			"optionc": " (C) Memory disks",
-			"optiond": " (D) Data bus disks",
+			"optiona": "(A) Digital versatile disks",
+			"optionb": "(B)Magnetic disks",
+			"optionc": "(C) Memory disks",
+			"optiond": "(D) Data bus disks",
 			"ans": "A"
 		},
 		{
 			"question": "The main memory of a computer can also be called",
-			"optiona": " (A) primary storage",
-			"optionb": " (B) internal memory",
-			"optionc": " (C) primary memory",
-			"optiond": " (D) all of these",
+			"optiona": "(A) primary storage",
+			"optionb": "(B)internal memory",
+			"optionc": "(C) primary memory",
+			"optiond": "(D) all of these",
 			"ans": "D"
 		},
 		{
 			"question": "A disk's content that is recorded at the time of manufacture and that cannot be changed or erased by the user is",
-			"optiona": " (A) memory-only",
-			"optionb": " (B) write-only",
-			"optionc": " (C) read-only",
-			"optiond": " (D) run-only",
+			"optiona": "(A) memory-only",
+			"optionb": "(B)write-only",
+			"optionc": "(C) read-only",
+			"optiond": "(D) run-only",
 			"ans": "C"
 		},
 		{
 			"question": "This is a permanent storage device",
-			"optiona": " (A) floppy disk",
-			"optionb": " (B) monitor",
-			"optionc": " (C) RAM",
-			"optiond": " (D) hard disk",
+			"optiona": "(A) floppy disk",
+			"optionb": "(B)monitor",
+			"optionc": "(C) RAM",
+			"optiond": "(D) hard disk",
 			"ans": "D"
 		},
 		{
 			"question": "The space in your computer that loads and works with data",
-			"optiona": " (A) cache memory",
-			"optionb": " (B) CPU",
-			"optionc": " (C) megabyte",
-			"optiond": " (D) RAM memory",
+			"optiona": "(A) cache memory",
+			"optionb": "(B)CPU",
+			"optionc": "(C) megabyte",
+			"optiond": "(D) RAM memory",
 			"ans": "D"
 		},
 		{
 			"question": "What part of the computer provides only temporary storage of files ?",
-			"optiona": " (A) ROM memory",
-			"optionb": " (B) RAM memory",
-			"optionc": " (C) hard drive",
-			"optiond": " (D) mother board",
+			"optiona": "(A) ROM memory",
+			"optionb": "(B)RAM memory",
+			"optionc": "(C) hard drive",
+			"optiond": "(D) mother board",
 			"ans": "B"
 		},
 		{
 			"question": "What does RAM stand for?",
-			"optiona": " (A) Read Access Memory",
-			"optionb": " (B) Read Anywhere Memory",
-			"optionc": " (C) Random Anything Memory",
-			"optiond": " (D) Random Access Memory",
+			"optiona": "(A) Read Access Memory",
+			"optionb": "(B)Read Anywhere Memory",
+			"optionc": "(C) Random Anything Memory",
+			"optiond": "(D) Random Access Memory",
 			"ans": "D"
 		},
 		{
 			"question": "What type of device is a 32 inch floppy drive ?",
-			"optiona": " (A) Input",
-			"optionb": " (B) Output",
-			"optionc": " (C) Software",
-			"optiond": " (D) Storage",
+			"optiona": "(A) Input",
+			"optionb": "(B)Output",
+			"optionc": "(C) Software",
+			"optiond": "(D) Storage",
 			"ans": "D"
 		},
 		{
 			"question": "Which of the following is not a secondary storage unit ?",
-			"optiona": " (A) RAM",
-			"optionb": " (B) DVD",
-			"optionc": " (C) Floppy",
-			"optiond": " (D) Magnetic tape",
+			"optiona": "(A) RAM",
+			"optionb": "(B)DVD",
+			"optionc": "(C) Floppy",
+			"optiond": "(D) Magnetic tape",
 			"ans": "A"
 		},
 		{
 			"question": "The file system resides permanently on ...... storage.",
-			"optiona": " (A) Primary",
-			"optionb": " (B) Secondary",
-			"optionc": " (C) Device",
-			"optiond": " (D) Direct memory",
+			"optiona": "(A) Primary",
+			"optionb": "(B)Secondary",
+			"optionc": "(C) Device",
+			"optiond": "(D) Direct memory",
 			"ans": "B"
 		},
 		{
 			"question": "PC Stands for",
-			"optiona": " (A) Personal computer",
-			"optionb": " (B) Private computer",
-			"optionc": " (C) Public computer",
-			"optiond": " (D) a and b both",
+			"optiona": "(A) Personal computer",
+			"optionb": "(B)Private computer",
+			"optionc": "(C) Public computer",
+			"optiond": "(D) a and b both",
 			"ans": "A"
 		},
 		{
 			"question": "In motherboard information between components travels by ..........",
-			"optiona": " (A) Flash memory",
-			"optionb": " (B) CMOS",
-			"optionc": " (C) Port",
-			"optiond": " (D) Bus",
+			"optiona": "(A) Flash memory",
+			"optionb": "(B)CMOS",
+			"optionc": "(C) Port",
+			"optiond": "(D) Bus",
 			"ans": "D"
 		},
 		{
 			"question": "Main circuit board of a computer is called ...........",
-			"optiona": " (A) Father board",
-			"optionb": " (B) Mother board",
-			"optionc": " (C) Keyboard",
-			"optiond": " (D) All of these",
+			"optiona": "(A) Father board",
+			"optionb": "(B)Mother board",
+			"optionc": "(C) Keyboard",
+			"optiond": "(D) All of these",
 			"ans": "B"
 		},
 		{
 			"question": "Meaning of IBM is —",
-			"optiona": " (A) Indian business machine",
-			"optionb": " (B) International business machine",
-			"optionc": " (C) International banking machine",
-			"optiond": " (D) International business model",
+			"optiona": "(A) Indian business machine",
+			"optionb": "(B)International business machine",
+			"optionc": "(C) International banking machine",
+			"optiond": "(D) International business model",
 			"ans": "B"
 		},
 		{
 			"question": "Accessories connect the system unit with ..........",
-			"optiona": " (A) Port",
-			"optionb": " (B) Ring",
-			"optionc": " (C) Bus",
-			"optiond": " (D) Zip",
+			"optiona": "(A) Port",
+			"optionb": "(B)Ring",
+			"optionc": "(C) Bus",
+			"optiond": "(D) Zip",
 			"ans": "A"
 		},
 		{
 			"question": "What is the short form for ‘uninterrupted power supply' in computer?",
-			"optiona": " (A) Inverter",
-			"optionb": " (B) Generator",
-			"optionc": " (C) UPS",
-			"optiond": " (D) Stablizer",
+			"optiona": "(A) Inverter",
+			"optionb": "(B)Generator",
+			"optionc": "(C) UPS",
+			"optiond": "(D) Stablizer",
 			"ans": "C"
 		},
 		{
 			"question": "Which of the following parts has direct connection from a computer motherboard ?",
-			"optiona": " (A) Hard disk",
-			"optionb": " (B) VDU",
-			"optionc": " (C) Microprocessor",
-			"optiond": " (D) Modem",
+			"optiona": "(A) Hard disk",
+			"optionb": "(B)VDU",
+			"optionc": "(C) Microprocessor",
+			"optiond": "(D) Modem",
 			"ans": "C"
 		},
 		{
 			"question": "Information from one unit to another unit is carried by .......",
-			"optiona": " (A) Data bus",
-			"optionb": " (B) System",
-			"optionc": " (C) Control bus",
-			"optiond": " (D) Address bus",
+			"optiona": "(A) Data bus",
+			"optionb": "(B)System",
+			"optionc": "(C) Control bus",
+			"optiond": "(D) Address bus",
 			"ans": "A"
 		},
 		{
 			"question": "An electronic path, that connect one part of computer to another is—",
-			"optiona": " (A) Logic gate",
-			"optionb": " (B) Serial Port",
-			"optionc": " (C) Modem",
-			"optiond": " (D) Bus",
+			"optiona": "(A) Logic gate",
+			"optionb": "(B)Serial Port",
+			"optionc": "(C) Modem",
+			"optiond": "(D) Bus",
 			"ans": "D"
 		},
 
 		{
 			"question": "The .......... is a box that houses the most important parts of a computer system.",
-			"optiona": " (A) software",
-			"optionb": " (B) hardware",
-			"optionc": " (C) input drive",
-			"optiond": " (D) system unit",
+			"optiona": "(A) software",
+			"optionb": "(B)hardware",
+			"optionc": "(C) input drive",
+			"optiond": "(D) system unit",
 			"ans": "D"
 		},
 		{
 			"question": "The main system board of a computer is called the.",
-			"optiona": " (A) integrated circuit",
-			"optionb": " (B) mother board",
-			"optionc": " (C) processor",
-			"optiond": " (D) microchip",
+			"optiona": "(A) integrated circuit",
+			"optionb": "(B)mother board",
+			"optionc": "(C) processor",
+			"optiond": "(D) microchip",
 			"ans": "B"
 		},
 
 		{
 			"question": "A device that provides emergency power to your computer conditions the voltage and protects against powers surges is called a ..",
-			"optiona": " (A) PSU = Power supply unit",
-			"optionb": " (B) USP = Universal Surge Protector",
-			"optionc": " (C) UPPS = Universal Power Protection and Supply",
-			"optiond": " (D) UPS = Uninterrupted Power Supply",
+			"optiona": "(A) PSU = Power supply unit",
+			"optionb": "(B)USP = Universal Surge Protector",
+			"optionc": "(C) UPPS = Universal Power Protection and Supply",
+			"optiond": "(D) UPS = Uninterrupted Power Supply",
 			"ans": "D"
 		},
 
 		{
 			"question": "A UPS .................. ",
-			"optiona": " (A) limits damage caused by fluctuating levels of electricity",
-			"optionb": " (B) provides battery backup for a limited time",
-			"optionc": " (C) delivers electronic messages via a bus",
-			"optiond": " (D) conducts a power-on self test, or POST",
+			"optiona": "(A) limits damage caused by fluctuating levels of electricity",
+			"optionb": "(B)provides battery backup for a limited time",
+			"optionc": "(C) delivers electronic messages via a bus",
+			"optiond": "(D) conducts a power-on self test, or POST",
 			"ans": "B"
 		},
 
 		{
 			"question": "A... is a device that not only provides surge protection but also furnishes your computer with battery backup power during a power outage.",
-			"optiona": " (A) surge strip",
-			"optionb": " (B) USB",
-			"optionc": " (C) UPS",
-			"optiond": " (D) battery strip",
+			"optiona": "(A) surge strip",
+			"optionb": "(B)USB",
+			"optionc": "(C) UPS",
+			"optiond": "(D) battery strip",
 			"ans": "C"
 		},
 
 		{
 			"question": "The ........ controls communications for the entire computer system.",
-			"optiona": " (A) Arithmetic - logic unit ",
-			"optionb": " (B) semiconductor",
-			"optionc": " (C) motherboard",
-			"optiond": " (D) co-processor",
+			"optiona": "(A) Arithmetic - logic unit ",
+			"optionb": "(B)semiconductor",
+			"optionc": "(C) motherboard",
+			"optiond": "(D) co-processor",
 			"ans": "C"
 		},
 		{
 			"question": "The system component that controls and manipulates data in order to produce information is called the ......",
-			"optiona": " (A) keyboard",
-			"optionb": " (B) microprocessor",
-			"optionc": " (C) monitor",
-			"optiond": " (D) mouse",
+			"optiona": "(A) keyboard",
+			"optionb": "(B)microprocessor",
+			"optionc": "(C) monitor",
+			"optiond": "(D) mouse",
 			"ans": "C"
 		},
 		{
 			"question": "These provide expansion capability for a computer system",
-			"optiona": " (A) sockets",
-			"optionb": " (B) slots",
-			"optionc": " (C) bytes",
-			"optiond": " (D) bays",
+			"optiona": "(A) sockets",
+			"optionb": "(B)slots",
+			"optionc": "(C) bytes",
+			"optiond": "(D) bays",
 			"ans": "B"
 		},
 		{
 			"question": "An example of a processing device would be .......magnetic ink reader ",
-			"optionb": " (B) a tablet PC",
-			"optionc": " (C) Special function cards",
-			"optiond": " (D) scanners",
+			"optionb": "(B)a tablet PC",
+			"optionc": "(C) Special function cards",
+			"optiond": "(D) scanners",
 			"ans": "C"
 		},
 
 		{
 			"question": "... hard drives are permanently located inside the system unit and are not designed to be removed unless they need to be repaired or replaced.",
-			"optiona": " (A) Static",
-			"optionb": " (B) Internal",
-			"optionc": " (C) External",
-			"optiond": " (D) Remove",
+			"optiona": "(A) Static",
+			"optionb": "(B)Internal",
+			"optionc": "(C) External",
+			"optiond": "(D) Remove",
 			"ans": "B"
 		}
 	]
