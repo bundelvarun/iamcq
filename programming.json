@@ -17,10 +17,10 @@
 		},
 		{
 			"question": "Pascal—",
-			"optiona": "(A) is a computer language",
-			"optionb": "(B) is a unit of computer",
-			"optionc": "(C) is a computer operating system",
-			"optiond": "(D) is a type of computer",
+			"optiona": "(A) Is a computer language",
+			"optionb": "(B) Is a unit of computer",
+			"optionc": "(C) Is a computer operating system",
+			"optiond": "(D) Is a type of computer",
 			"ans": "A"
 		},
 		{
@@ -41,10 +41,10 @@
 		},
 		{
 			"question": "The pictorial representation of a program or algorithm is called a .....",
-			"optiona": "(A) chart",
-			"optionb": "(B) salve chart",
-			"optionc": "(C) flow chart",
-			"optiond": "(D) mix chart",
+			"optiona": "(A) Chart",
+			"optionb": "(B) Salve chart",
+			"optionc": "(C) Flow chart",
+			"optiond": "(D) Mix chart",
 			"ans": "C"
 		},
 		{
@@ -65,10 +65,10 @@
 		},
 		{
 			"question": "Computer language fortran is appropriate for .......",
-			"optiona": "(A) business",
-			"optionb": "(B) graphic",
-			"optionc": "(C) science",
-			"optiond": "(D) commercial",
+			"optiona": "(A) Business",
+			"optionb": "(B) Graphic",
+			"optionc": "(C) Science",
+			"optiond": "(D) Commercial",
 			"ans": "C"
 		},
 		{
@@ -89,8 +89,8 @@
 		},
 		{
 			"question": "High level computer language like English language is........",
-			"optiona": "(A) fortran",
-			"optionb": "(B) pascal",
+			"optiona": "(A) Fortran",
+			"optionb": "(B) Pascal",
 			"optionc": "(C) Cobol",
 			"optiond": "(D) C++",
 			"ans": "C"
@@ -113,10 +113,10 @@
 		},
 		{
 			"question": "BASIC programming language is used for ......",
-			"optiona": "(A) commercial purpose",
-			"optionb": "(B) scientific calculation",
-			"optionc": "(C) to teach a child",
-			"optiond": "(D) simple language for beginners",
+			"optiona": "(A) Commercial purpose",
+			"optionb": "(B) Scientific calculation",
+			"optionc": "(C) To teach a child",
+			"optiond": "(D) Simple language for beginners",
 			"ans": "D"
 		},
 		{
@@ -193,34 +193,34 @@
 		},
 		{
 			"question": "A ...... contains specific rules and words that express the logical stepsof an algorithm.",
-			"optiona": "(A) programming language",
-			"optionb": "(B) programming structure",
-			"optionc": "(C) syntax",
-			"optiond": "(D) logic chart",
+			"optiona": "(A) Programming language",
+			"optionb": "(B) Programming structure",
+			"optionc": "(C) Syntax",
+			"optiond": "(D) Logic chart",
 			"ans": "C"
 		},
 		{
 			"question": "A graphic presentation of the sequence of steps needed to solve a programming problem is called a—",
-			"optiona": "(A) program flowchart",
-			"optionb": "(B) step chart",
-			"optionc": "(C) rule diagram",
-			"optiond": "(D) program graph",
+			"optiona": "(A) Program flowchart",
+			"optionb": "(B) Step chart",
+			"optionc": "(C) Rule diagram",
+			"optiond": "(D) Program graph",
 			"ans": "A"
 		},
 		{
 			"question": "The operating system called UNIX is typically used for .........",
-			"optiona": "(A) desktop computers",
-			"optionb": "(B) laptop computers",
-			"optionc": "(C) supercomputers",
-			"optiond": "(D) web servers",
+			"optiona": "(A) Desktop computers",
+			"optionb": "(B) Laptop computers",
+			"optionc": "(C) Supercomputers",
+			"optiond": "(D) Web servers",
 			"ans": "D"
 		},
 		{
 			"question": "C, BASIC, COBOL and Java are examples of ..... language.",
-			"optiona": "(A) low-level",
-			"optionb": "(B) computer",
-			"optionc": "(C) system programming",
-			"optiond": "(D) high-level",
+			"optiona": "(A) Low-level",
+			"optionb": "(B) Computer",
+			"optionc": "(C) System programming",
+			"optiond": "(D) High-level",
 			"ans": "D"
 		},
 		{
