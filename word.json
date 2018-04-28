@@ -244,7 +244,7 @@
 			"optiona": "(A) 1 inch",
 			"optionb": "(B) 1.25 inch",
 			"optionc": "(C) 1.5 inch",
-			"optiond": "(D) 2inch",
+			"optiond": "(D) 2 inch",
 			"ans": "B"
 		},
 		{
@@ -368,6 +368,14 @@
 			"ans": "C"
 		},
 		{
+			"question": "Save option is present in _______ bar.",
+			"optiona": "(A) Menu bar ",
+			"optionb": "(B) Title bar ",
+			"optionc": "(C) Tool bar ",
+			"optiond": "(D) Tool box",
+			"ans": "C"
+		},
+		{
 			"question": "Background color or effects applied on a document is not visible in",
 			"optiona": "(A) Web layout view",
 			"optionb": "(B) Print Layout view ",
@@ -416,6 +424,14 @@
 			"ans": "C"
 		},
 		{
+			"question": "Layout is in _______ bar.",
+			"optiona": "(A) Menu bar ",
+			"optionb": "(B) Title bar ",
+			"optionc": "(C) Tool bar ",
+			"optiond": "(D) Tool box",
+			"ans": "A"
+		},
+		{
 			"question": "To add a header or footer to your handout, you can use",
 			"optiona": "(A) The title master ",
 			"optionb": "(B) The slide master ",
@@ -438,38 +454,6 @@
 			"optionc": "(C) Tool bar ",
 			"optiond": "(D) Tool box",
 			"ans": "B"
-		},
-		{
-			"question": "__________ is displayed below the title bar",
-			"optiona": "(A) Menu bar ",
-			"optionb": "(B) Title bar ",
-			"optionc": "(C) Tool bar ",
-			"optiond": "(D) Tool box",
-			"ans": "A"
-		},
-		{
-			"question": "Layout is in _______ bar.",
-			"optiona": "(A) Menu bar ",
-			"optionb": "(B) Title bar ",
-			"optionc": "(C) Tool bar ",
-			"optiond": "(D) Tool box",
-			"ans": "A"
-		},
-		{
-			"question": "Save option is present in _______ bar.",
-			"optiona": "(A) Menu bar ",
-			"optionb": "(B) Title bar ",
-			"optionc": "(C) Tool bar ",
-			"optiond": "(D) Tool box",
-			"ans": "C"
-		},
-		{
-			"question": "_______ contains all the tools we need to compose a page.",
-			"optiona": "(A) Menu bar ",
-			"optionb": "(B) Title bar ",
-			"optionc": "(C) Tool bar ",
-			"optiond": "(D) Tool box",
-			"ans": "D"
 		},
 		{
 			"question": "Clicking on the ______ tool changes the pointer to an insertion point for typing and highlighting text. ",
@@ -495,6 +479,15 @@
 			"optiond": "(D) Crop tool",
 			"ans": "D"
 		},
+		{
+			"question": "__________ is displayed below the title bar",
+			"optiona": "(A) Menu bar ",
+			"optionb": "(B) Title bar ",
+			"optionc": "(C) Tool bar ",
+			"optiond": "(D) Tool box",
+			"ans": "A"
+		},
+	     
 		{
 			"question": "_________ tool is used to draw square cornered boxes.",
 			"optiona": "(A) Rotate tool ",
@@ -535,6 +528,14 @@
 			"optiond": "(D) Editing",
 			"ans": "A"
 		},
+		{
+			"question": "_______ contains all the tools we need to compose a page.",
+			"optiona": "(A) Menu bar ",
+			"optionb": "(B) Title bar ",
+			"optionc": "(C) Tool bar ",
+			"optiond": "(D) Tool box",
+			"ans": "D"
+		},		     
 		{
 			"question": "Adjusting the space between two consecutive characters is called ______.",
 			"optiona": "(A) Leading ",
