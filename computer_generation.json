@@ -134,10 +134,10 @@
 
 		{
 			"question": "Remote processing and time sharing was introduced in ... generation : ",
-			"optiona": "(A) first",
-			"optionb": "(B) second",
-			"optionc": "(C) third ",
-			"optiond": "(D) fourth",
+			"optiona": "(A) First",
+			"optionb": "(B) Second",
+			"optionc": "(C) Third ",
+			"optiond": "(D) Fourth",
 			"ans": "C"
 		},
 		{
@@ -175,10 +175,10 @@
 		},
 		{
 			"question": "Supercomputers. ",
-			"optiona": "(A) are smaller in size and processing capability than mainframe Computers ",
-			"optionb": "(B) are common in majority of households ",
-			"optionc": "(C) contain thousands of microprocessors ",
-			"optiond": "(D) are rarely used by researchers due to their lack of computing capacity ",
+			"optiona": "(A) Are smaller in size and processing capability than mainframe Computers ",
+			"optionb": "(B) Are common in majority of households ",
+			"optionc": "(C) Contain thousands of microprocessors ",
+			"optiond": "(D) Are rarely used by researchers due to their lack of computing capacity ",
 			"ans": "C"
 		},
 		{
@@ -268,10 +268,10 @@
 
 		{
 			"question": "Processing capacity of microcomputer is ........ per second",
-			"optiona": "(A)  one lac",
-			"optionb": "(B)  two lac",
-			"optionc": "(C)  four lac ",
-			"optiond": "(D)  five lac",
+			"optiona": "(A)  One lac",
+			"optionb": "(B)  Two lac",
+			"optionc": "(C)  Four lac ",
+			"optiond": "(D)  Five lac",
 			"ans": "A"
 		},
 
@@ -323,10 +323,10 @@
 
 		{
 			"question": "A modem digital computer uses ................. number system",
-			"optiona": "(A) binary",
-			"optionb": "(B) decimal",
-			"optionc": "(C) hexadecimal ",
-			"optiond": "(D) all these",
+			"optiona": "(A) Binary",
+			"optionb": "(B) Decimal",
+			"optionc": "(C) Hexadecimal ",
+			"optiond": "(D) All these",
 			"ans": "A"
 		},
 		{
@@ -348,18 +348,18 @@
 
 		{
 			"question": "Digital computers use a .......... system to encode date and programs. ",
-			"optiona": "(A) semiconductor ",
-			"optionb": "(B) decimal",
-			"optionc": "(C) binary ",
+			"optiona": "(A) Semiconductor ",
+			"optionb": "(B) Decimal",
+			"optionc": "(C) Binary ",
 			"optiond": "(D) RAM",
 			"ans": "C"
 		},
 		{
 			"question": "A........... is a large and expensive computer capable of simultaneously processing data for hundreds or thousands of users. ",
-			"optiona": "(A) handheld computer",
-			"optionb": "(B) mainframe computer ",
-			"optionc": "(C) personal computer",
-			"optiond": "(D) tablet computer ",
+			"optiona": "(A) Handheld computer",
+			"optionb": "(B) Mainframe computer ",
+			"optionc": "(C) Personal computer",
+			"optiond": "(D) Tablet computer ",
 			"ans": "B"
 		},
 
