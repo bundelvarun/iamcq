@@ -32,14 +32,6 @@
 			"ans": "A"
 		},
 		{
-			"question": "Name the button in the picture?",
-			"optiona": "(A) Font Color ",
-			"optionb": "(B) Fill Color ",
-			"optionc": "(C) Page Color ",
-			"optiond": "(D) Highlighter tool",
-			"ans": "D"
-		},
-		{
 			"question": "Shortcut for document views toolbar is situated in ______ bar.",
 			"optiona": "(A) Task bar ",
 			"optionb": "(B) Status bar ",
