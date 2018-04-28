@@ -121,7 +121,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " This data type allows alphanumeric characters and special symbols.",
+			"question": "This data type allows alphanumeric characters and special symbols.",
 			"optiona": "(A) text",
 			"optionb": "(B) memo",
 			"optionc": "(C) auto number",
@@ -129,7 +129,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " Query design window has two parts. The upper part shows",
+			"question": "Query design window has two parts. The upper part shows",
 			"optiona": "(A) Name of fields, field type and size",
 			"optionb": "(B) Tables with fields and relationships between tables",
 			"optionc": "(C) Criteria",
@@ -137,7 +137,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " In a database table, the category of information is called ________",
+			"question": "In a database table, the category of information is called ________",
 			"optiona": "(A) tuple",
 			"optionb": "(B) field",
 			"optionc": "(C) record",
@@ -145,7 +145,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " To create a new table, in which method you don’t need to specify the field type and size?",
+			"question": "To create a new table, in which method you don’t need to specify the field type and size?",
 			"optiona": "(A) Create table in Design View",
 			"optionb": "(B) Create Table using wizard",
 			"optionc": "(C) Create Table by Entering data",
@@ -153,7 +153,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " Which of the following is not a database object?",
+			"question": "Which of the following is not a database object?",
 			"optiona": "(A) Tables",
 			"optionb": "(B) Queries",
 			"optionc": "(C) Relationships",
@@ -161,7 +161,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " In one-to-many relationship the table in ‘one’ side is called _______ and on ‘many’ side is called _______",
+			"question": "In one-to-many relationship the table in ‘one’ side is called _______ and on ‘many’ side is called _______",
 			"optiona": "(A) Child , Parent",
 			"optionb": "(B) Parent , Child",
 			"optionc": "(C) Brother , Sister",
@@ -169,7 +169,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " This is the stage in database design where one gathers and lists all the necessary fields for the database project.",
+			"question": "This is the stage in database design where one gathers and lists all the necessary fields for the database project.",
 			"optiona": "(A) data definition",
 			"optionb": "(B) data refinement",
 			"optionc": "(C) establishing relationship",
@@ -177,7 +177,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " The two form layout types will display multiple records at one time are tabular and___",
+			"question": "The two form layout types will display multiple records at one time are tabular and___",
 			"optiona": "(A) columnar",
 			"optionb": "(B) justified",
 			"optionc": "(C) date sheet",
@@ -185,7 +185,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " The size of a field with Number data type can not be",
+			"question": "The size of a field with Number data type can not be",
 			"optiona": "(A) ",
 			"optionb": "(B) ",
 			"optionc": "(C) ",
@@ -193,7 +193,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " This key uniquely identifies each record",
+			"question": "This key uniquely identifies each record",
 			"optiona": "(A) primary key",
 			"optionb": "(B) key record",
 			"optionc": "(C) unique key",
@@ -201,7 +201,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " A database language concerned with the definition of the whole database structure and schema is ________",
+			"question": "A database language concerned with the definition of the whole database structure and schema is ________",
 			"optiona": "(A) DCL",
 			"optionb": "(B) DML",
 			"optionc": "(C) DDL",
@@ -209,7 +209,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " When creating a new table which method can be used to choose fields from standard databases and tables",
+			"question": "When creating a new table which method can be used to choose fields from standard databases and tables",
 			"optiona": "(A) Create table in Design View",
 			"optionb": "(B) Create Table using wizard",
 			"optionc": "(C) Create Table by Entering data",
@@ -217,7 +217,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " To create relationship between two tables",
+			"question": "To create relationship between two tables",
 			"optiona": "(A) drag the primary key of a table into foreign key of another table",
 			"optionb": "(B) drag the foreign key of a table into the primary key of another table",
 			"optionc": "(C) drag any field from parent table and drop on child table",
@@ -225,7 +225,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " Which field type will you select when creating a new table if you require to enter long text in that field?",
+			"question": "Which field type will you select when creating a new table if you require to enter long text in that field?",
 			"optiona": "(A) Text",
 			"optionb": "(B) Memo",
 			"optionc": "(C) Currency",
@@ -233,7 +233,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " In table design view what are the first column of buttons used for",
+			"question": "In table design view what are the first column of buttons used for",
 			"optiona": "(A) Indicate Primary Key",
 			"optionb": "(B) Indicate Current Row",
 			"optionc": "(C) Both of above",
@@ -241,7 +241,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " Which of the following is not a type of relationship that can be applied in Access database",
+			"question": "Which of the following is not a type of relationship that can be applied in Access database",
 			"optiona": "(A) One to One",
 			"optionb": "(B) One to Many",
 			"optionc": "(C) Many to Many",
@@ -249,7 +249,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " This option allows you to build a new table by entering data directly into the data sheet.",
+			"question": "This option allows you to build a new table by entering data directly into the data sheet.",
 			"optiona": "(A) data sheet view",
 			"optionb": "(B) design view",
 			"optionc": "(C) link table",
@@ -257,7 +257,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " To create queries in Access",
+			"question": "To create queries in Access",
 			"optiona": "(A) You can drag and drop fields on query builders",
 			"optionb": "(B) you can type the SQL command in SQL view",
 			"optionc": "(C) You can use query wizard or design view",
@@ -265,15 +265,15 @@
 			"ans": "D"
 		},
 		{
-			"question": " In table design view, which key can be used to switch between the field names and properties panels?",
-			"optiona": "(A) F",
-			"optionb": "(B) F",
-			"optionc": "(C) F",
-			"optiond": "(D) F",
+			"question": "In table design view, which key can be used to switch between the field names and properties panels?",
+			"optiona": "(A) F3",
+			"optionb": "(B) F4",
+			"optionc": "(C) F5",
+			"optiond": "(D) F6",
 			"ans": "D"
 		},
 		{
-			"question": " Which of the following is NOT a type of Microsoft Access database object?",
+			"question": "Which of the following is NOT a type of Microsoft Access database object?",
 			"optiona": "(A) Table",
 			"optionb": "(B) Form",
 			"optionc": "(C) Worksheets",
@@ -281,7 +281,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " Which is not a view to display a table in Access?",
+			"question": "Which is not a view to display a table in Access?",
 			"optiona": "(A) Datasheet View",
 			"optionb": "(B) Design View",
 			"optionc": "(C) Pivot Table & Pivot Chart View",
@@ -289,7 +289,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " Which of the following database object hold data?",
+			"question": "Which of the following database object hold data?",
 			"optiona": "(A) Forms",
 			"optionb": "(B) Reports",
 			"optionc": "(C) Queries",
@@ -297,7 +297,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " The expression builder is an access tool that controls an expression___ for entering an expression",
+			"question": "The expression builder is an access tool that controls an expression___ for entering an expression",
 			"optiona": "(A) Table",
 			"optionb": "(B) Box",
 			"optionc": "(C) Cell",
@@ -305,7 +305,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " A __________ enables you to view data from a table based on a specific criterion",
+			"question": "A __________ enables you to view data from a table based on a specific criterion",
 			"optiona": "(A) Form",
 			"optionb": "(B) Query",
 			"optionc": "(C) Macro",
@@ -313,7 +313,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " Which of the following database object produces the final result to present?",
+			"question": "Which of the following database object produces the final result to present?",
 			"optiona": "(A) Forms",
 			"optionb": "(B) Reports",
 			"optionc": "(C) Queries",
@@ -321,7 +321,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " The default and maximum size of text field in Access",
+			"question": "The default and maximum size of text field in Access",
 			"optiona": "(A) 50 and 255 Characters",
 			"optionb": "(B) 8 and 1 GB",
 			"optionc": "(C) 266 characters & 64000 characters",
@@ -329,7 +329,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " You can set a controls border type to make the border invisible.",
+			"question": "You can set a controls border type to make the border invisible.",
 			"optiona": "(A) Transparent",
 			"optionb": "(B) Invisible",
 			"optionc": "(C) Do not display",
@@ -337,7 +337,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " The database language that allows you to access or maintain data in a database",
+			"question": "The database language that allows you to access or maintain data in a database",
 			"optiona": "(A) DCL",
 			"optionb": "(B) DML",
 			"optionc": "(C) DDL",
@@ -345,7 +345,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " A __ name must be unique within a database",
+			"question": "A __ name must be unique within a database",
 			"optiona": "(A) Table",
 			"optionb": "(B) Field",
 			"optionc": "(C) Record",
@@ -353,7 +353,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " It is an association established between common fields of two tables.",
+			"question": "It is an association established between common fields of two tables.",
 			"optiona": "(A) line",
 			"optionb": "(B) relationship",
 			"optionc": "(C) primary key",
@@ -361,7 +361,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " Which of the following is not a field type in Access",
+			"question": "Which of the following is not a field type in Access",
 			"optiona": "(A) Memo",
 			"optionb": "(B) Hyperlink",
 			"optionc": "(C) OLE Object",
@@ -369,7 +369,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " When entering field name, how many characters you can type in maximum?",
+			"question": "When entering field name, how many characters you can type in maximum?",
 			"optiona": "(A) 60 ",
 			"optionb": "(B) 64 ",
 			"optionc": "(C) 68 ",
@@ -377,7 +377,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " It is a database object to view, change, and analyze data in different ways",
+			"question": "It is a database object to view, change, and analyze data in different ways",
 			"optiona": "(A) query",
 			"optionb": "(B) form",
 			"optionc": "(C) report",
@@ -385,7 +385,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " Which of the following creates a drop down list of values to choose from a list?",
+			"question": "Which of the following creates a drop down list of values to choose from a list?",
 			"optiona": "(A) OLE Object",
 			"optionb": "(B) Hyperlink",
 			"optionc": "(C) Memo",
@@ -393,7 +393,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " What are the columns in a Microsoft Access table called?",
+			"question": "What are the columns in a Microsoft Access table called?",
 			"optiona": "(A) Rows",
 			"optionb": "(B) Records",
 			"optionc": "(C) Fields",
@@ -401,7 +401,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " It is a sign or symbol that specifies, operator, and values that produce a result",
+			"question": "It is a sign or symbol that specifies, operator, and values that produce a result",
 			"optiona": "(A) operator",
 			"optionb": "(B) query",
 			"optionc": "(C) expression",
@@ -409,7 +409,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " We can remove a relationship defined between two tables by",
+			"question": "We can remove a relationship defined between two tables by",
 			"optiona": "(A) From Edit menu choose Delete Relationship",
 			"optionb": "(B) Select the relationship line and press Delete",
 			"optionc": "(C) Choose Delete option from Relationship menu",
@@ -417,7 +417,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " Unlike text data type, this can store up to maximum of 65, 535 characters.",
+			"question": "Unlike text data type, this can store up to maximum of 65, 535 characters.",
 			"optiona": "(A) memo",
 			"optionb": "(B) data/time",
 			"optionc": "(C) number",
@@ -425,7 +425,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " The___ operator will cause a record to be selected only if two or more conditions are satisfied",
+			"question": "The___ operator will cause a record to be selected only if two or more conditions are satisfied",
 			"optiona": "(A) Or",
 			"optionb": "(B) If or",
 			"optionc": "(C) Range",
@@ -433,7 +433,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " Which field type can store photos?",
+			"question": "Which field type can store photos?",
 			"optiona": "(A) Hyperlink",
 			"optionb": "(B) OLE",
 			"optionc": "(C) Both of these can be used",
@@ -441,7 +441,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " Queries in Access can be used as",
+			"question": "Queries in Access can be used as",
 			"optiona": "(A) view, change and analyze data in different ways",
 			"optionb": "(B) a source of records for forms and reports",
 			"optionc": "(C) Only a",
@@ -449,7 +449,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " Which of the following is a method to create a new table in MS Access?",
+			"question": "Which of the following is a method to create a new table in MS Access?",
 			"optiona": "(A) Create table in Design View",
 			"optionb": "(B) Create Table using wizard",
 			"optionc": "(C) Create Table by Entering data",
@@ -457,7 +457,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " It is most common type of query. It retrieves records from one or more tables and then displays the",
+			"question": "It is most common type of query. It retrieves records from one or more tables and then displays the",
 			"optiona": "(A) Parameter",
 			"optionb": "(B) Select",
 			"optionc": "(C) crosstab",
@@ -465,7 +465,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " It is a query that when run displays its own dialog box prompting you for information, such as",
+			"question": "It is a query that when run displays its own dialog box prompting you for information, such as",
 			"optiona": "(A) Select",
 			"optionb": "(B) cross tab",
 			"optionc": "(C) Parameter",
@@ -473,7 +473,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " What is the maximum length a text field can be?",
+			"question": "What is the maximum length a text field can be?",
 			"optiona": "(A) 120",
 			"optionb": "(B) 255",
 			"optionc": "(C) 265",
@@ -481,7 +481,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " Microsoft Access is a",
+			"question": "Microsoft Access is a",
 			"optiona": "(A) RDBMS",
 			"optionb": "(B) OODBMS",
 			"optionc": "(C) ORDBMS",
@@ -489,7 +489,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " If you need to edit a relationship",
+			"question": "If you need to edit a relationship",
 			"optiona": "(A) Right click the relationship line and choose Edit Relationship",
 			"optionb": "(B) Double click the relationship line",
 			"optionc": "(C) Both of above",
@@ -497,7 +497,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " Both conditions display on the same row in the design grid when ___operator is in use",
+			"question": "Both conditions display on the same row in the design grid when ___operator is in use",
 			"optiona": "(A) OR",
 			"optionb": "(B) IN",
 			"optionc": "(C) AND",
@@ -505,7 +505,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " If you write criteria values vertically (one in a row) it will mean",
+			"question": "If you write criteria values vertically (one in a row) it will mean",
 			"optiona": "(A) OR conditions",
 			"optionb": "(B) AND conditions",
 			"optionc": "(C) NOT condition",
@@ -513,7 +513,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " What do you mean by one to many relationship between Student and Class table?",
+			"question": "What do you mean by one to many relationship between Student and Class table?",
 			"optiona": "(A) One student can have many classes",
 			"optionb": "(B) One class may have many student",
 			"optionc": "(C) Many classes may have many students",
@@ -521,7 +521,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " A part of database that stores only  one type of data is",
+			"question": "A part of database that stores only  one type of data is",
 			"optiona": "(A) Report",
 			"optionb": "(B) Field",
 			"optionc": "(C) Query",
@@ -529,7 +529,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " Which of the following may not be a database?",
+			"question": "Which of the following may not be a database?",
 			"optiona": "(A) Data presented in table in MS Word document",
 			"optionb": "(B) Data entered in Excel spreadsheet",
 			"optionc": "(C) A presentation created in PowerPoint",
@@ -537,7 +537,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " A database can be best described as",
+			"question": "A database can be best described as",
 			"optiona": "(A) Organized collection of data",
 			"optionb": "(B) Useful presentation of data",
 			"optionc": "(C) Graphical representation of data",
@@ -545,7 +545,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " Which of the following term is least related to database?",
+			"question": "Which of the following term is least related to database?",
 			"optiona": "(A) Attributes",
 			"optionb": "(B) Tuples",
 			"optionc": "(C) Relationship",
@@ -553,7 +553,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " Collection of related records in a database is known as",
+			"question": "Collection of related records in a database is known as",
 			"optiona": "(A) File",
 			"optionb": "(B) Bench",
 			"optionc": "(C) Table",
@@ -561,7 +561,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " The task of arranging data in order is called",
+			"question": "The task of arranging data in order is called",
 			"optiona": "(A) Searching",
 			"optionb": "(B) Sorting",
 			"optionc": "(C) Ordering",
@@ -569,7 +569,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " Each record is constituted by a number of individual data items which are called",
+			"question": "Each record is constituted by a number of individual data items which are called",
 			"optiona": "(A) Fields",
 			"optionb": "(B) Data Types",
 			"optionc": "(C) Relations",
@@ -577,7 +577,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " Which of the following is not a database object in MS Access?",
+			"question": "Which of the following is not a database object in MS Access?",
 			"optiona": "(A) Tables",
 			"optionb": "(B) Query",
 			"optionc": "(C) Report",
@@ -585,7 +585,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " A database object in MS Access that stores a question about the data in database?",
+			"question": "A database object in MS Access that stores a question about the data in database?",
 			"optiona": "(A) Table",
 			"optionb": "(B) Form",
 			"optionc": "(C) Query",
@@ -593,7 +593,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " The complete information about an entity in a database is called",
+			"question": "The complete information about an entity in a database is called",
 			"optiona": "(A) Data",
 			"optionb": "(B) Information",
 			"optionc": "(C) Field",
@@ -601,7 +601,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " Which of the following can be an example of a database?",
+			"question": "Which of the following can be an example of a database?",
 			"optiona": "(A) Address book of all the suppliers of a company",
 			"optionb": "(B) Salary sheet of all the employees of a company",
 			"optionc": "(C) Records of daily sales transactions of a company",
@@ -609,7 +609,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " An Access database object that is used to enter, view or edit records",
+			"question": "An Access database object that is used to enter, view or edit records",
 			"optiona": "(A) Table",
 			"optionb": "(B) Form",
 			"optionc": "(C) Query",
@@ -617,7 +617,7 @@
 			"ans": "B"
 		},
 		{
-			"question": " Which of the following expresses correct order?",
+			"question": "Which of the following expresses correct order?",
 			"optiona": "(A) Characters, Fields, Records, Tables, Files, Databases",
 			"optionb": "(B) Characters, Fields, Records, Tables, Database, Files",
 			"optionc": "(C) Databases, Tables, Files, Records, Field, Character",
@@ -625,7 +625,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " Every table in relational database contain a field or combination of fields that can uniquely identify each records, it is called",
+			"question": "Every table in relational database contain a field or combination of fields that can uniquely identify each records, it is called",
 			"optiona": "(A) Foreign key",
 			"optionb": "(B) Native key",
 			"optionc": "(C) Composite key",
@@ -633,7 +633,7 @@
 			"ans": "D"
 		},
 		{
-			"question": " If I create ‘Student’ field in ‘Fees’ table to store ‘student_id’ of ‘Students’ table, then this ‘Student’ field in ‘Fees’ table is called:",
+			"question": "If I create ‘Student’ field in ‘Fees’ table to store ‘student_id’ of ‘Students’ table, then this ‘Student’ field in ‘Fees’ table is called:",
 			"optiona": "(A) Foreign key",
 			"optionb": "(B) Native key",
 			"optionc": "(C) Composite key",
@@ -641,7 +641,7 @@
 			"ans": "A"
 		},
 		{
-			"question": " A composite key is",
+			"question": "A composite key is",
 			"optiona": "(A) Required when a table does not have any unique fields in it",
 			"optionb": "(B) The primary key with AutoNumber as the field type",
 			"optionc": "(C) Made up of two or more fields to uniquely identify records",
@@ -649,7 +649,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " A primary key in any table has the properties",
+			"question": "A primary key in any table has the properties",
 			"optiona": "(A) Not Null",
 			"optionb": "(B) No Duplicates",
 			"optionc": "(C) Both of above",
@@ -657,7 +657,7 @@
 			"ans": "C"
 		},
 		{
-			"question": " How can you link a table with another so that a field in current table will display values in drop down box from another table while entering data:",
+			"question": "How can you link a table with another so that a field in current table will display values in drop down box from another table while entering data:",
 			"optiona": "(A) Query Wizard",
 			"optionb": "(B) Look up Wizard",
 			"optionc": "(C) Form Wizard",
