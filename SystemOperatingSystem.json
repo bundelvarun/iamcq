@@ -9,10 +9,10 @@
 		},
 		{
 			"question": "The ........ tells the computer how to use its components.",
-			"optiona": "(A) utility",
-			"optionb": "(B) application",
-			"optionc": "(C) operating system",
-			"optiond": "(D) network",
+			"optiona": "(A) Utility",
+			"optionb": "(B) Application",
+			"optionc": "(C) Operating system",
+			"optiond": "(D) Network",
 			"ans": "A"
 		},
 		{
@@ -73,35 +73,35 @@
 		},
 		{
 			"question": "An error in a program which causes wrong result is called a .........",
-			"optiona": "(A) bug",
-			"optionb": "(B) byte",
-			"optionc": "(C) attributes",
-			"optiond": "(D) init problem",
+			"optiona": "(A) Bug",
+			"optionb": "(B) Byte",
+			"optionc": "(C) Attributes",
+			"optiond": "(D) Init problem",
 			"ans": "A"
 		},
 		{
 			"question": "Each component of computer is either ............",
-			"optiona": "(A) hardware or software",
-			"optionb": "(B) software or CPU/RAM",
-			"optionc": "(C) application software",
-			"optiond": "(D) input devices or output devices",
+			"optiona": "(A) Hardware or software",
+			"optionb": "(B) Software or CPU/RAM",
+			"optionc": "(C) Application software",
+			"optiond": "(D) Input devices or output devices",
 			"ans": "A"
 		},
 		{
 			"question": "The main purpose of software is to convert data into .........",
-			"optiona": "(A) web site",
-			"optionb": "(B) information",
-			"optionc": "(C) program",
-			"optiond": "(D) object",
+			"optiona": "(A) Web site",
+			"optionb": "(B) Information",
+			"optionc": "(C) Program",
+			"optiond": "(D) Object",
 			"ans": "B"
 		},
 
 		{
 			"question": "The physical structure of a computer is called a .........",
-			"optiona": "(A) hardware",
-			"optionb": "(B) software",
-			"optionc": "(C) keyboard",
-			"optiond": "(D) memory",
+			"optiona": "(A) hHardware",
+			"optionb": "(B) Software",
+			"optionc": "(C) Keyboard",
+			"optiond": "(D) Memory",
 			"ans": "A"
 		},
 		{
@@ -122,10 +122,10 @@
 		},
 		{
 			"question": "To work on a computer mainly we need",
-			"optiona": "(A) hardware",
-			"optionb": "(B) software",
-			"optionc": "(C) scanner",
-			"optiond": "(D) a and b both",
+			"optiona": "(A) Hardware",
+			"optionb": "(B) Software",
+			"optionc": "(C) Scanner",
+			"optiond": "(D) A and B both",
 			"ans": "D"
 		},
 		{
@@ -155,18 +155,18 @@
 		},
 		{
 			"question": "Any program translated into machine language is called ....",
-			"optiona": "(A) analog program",
-			"optionb": "(B) object code",
-			"optionc": "(C) personal program",
-			"optiond": "(D) official program",
+			"optiona": "(A) Analog program",
+			"optionb": "(B) Object code",
+			"optionc": "(C) Personal program",
+			"optiond": "(D) Official program",
 			"ans": "B"
 		},
 		{
 			"question": "The word CAD is related to ........",
-			"optiona": "(A) account",
-			"optionb": "(B) design",
-			"optionc": "(C) media",
-			"optiond": "(D) science",
+			"optiona": "(A) Account",
+			"optionb": "(B) Design",
+			"optionc": "(C) Media",
+			"optiond": "(D) Science",
 			"ans": "B"
 		},
 		{
@@ -212,9 +212,9 @@
 		},
 		{
 			"question": "A computer converts a high level program into a low level program with the help of ....",
-			"optiona": "(A) compiler",
-			"optionb": "(B) interpreter",
-			"optionc": "(C) (a) and (b) both",
+			"optiona": "(A) Compiler",
+			"optionb": "(B) Interpreter",
+			"optionc": "(C) (A) and (B) both",
 			"optiond": "(D) package",
 			"ans": "C"
 		},
@@ -263,7 +263,7 @@
 			"question": "Which software is used for creating resume ?",
 			"optiona": "(A) MS-Word",
 			"optionb": "(B) Page maker",
-			"optionc": "(C) a and b both",
+			"optionc": "(C) (A) and (B) both",
 			"optiond": "(D) Java",
 			"ans": "C"
 		},
@@ -286,26 +286,26 @@
 
 		{
 			"question": "The ability of an OS to run more than one application at a time is called........",
-			"optiona": "(A) multitasking",
-			"optionb": "(B) object-oriented programming",
-			"optionc": "(C) multi-user computing",
-			"optiond": "(D) time-sharing",
+			"optiona": "(A) Multitasking",
+			"optionb": "(B) Object-oriented programming",
+			"optionc": "(C) Multi-user computing",
+			"optiond": "(D) Time-sharing",
 			"ans": "A"
 		},
 		{
 			"question": "A computer cannot \"boot\" if it does not have the ........",
-			"optiona": "(A) compiler",
-			"optionb": "(B) loader",
-			"optionc": "(C) operating system",
-			"optiond": "(D) assembler",
+			"optiona": "(A) Compiler",
+			"optionb": "(B) Loader",
+			"optionc": "(C) Operating system",
+			"optiond": "(D) Assembler",
 			"ans": "C"
 		},
 		{
 			"question": "Programs designed specifically to address general-purpose applications and special-purpose applications are called ...",
-			"optiona": "(A) operating system",
-			"optionb": "(B) system software",
-			"optionc": "(C) application software",
-			"optiond": "(D) management information systems",
+			"optiona": "(A) Operating system",
+			"optionb": "(B) System software",
+			"optionc": "(C) Application software",
+			"optiond": "(D) Management information systems",
 			"ans": "C"
 		},
 		{
@@ -342,27 +342,27 @@
 		},
 		{
 			"question": "A compiler is used to translate a program written in ..",
-			"optiona": "(A) a low level language",
-			"optionb": "(B) a high level language",
-			"optionc": "(C) assembly language",
-			"optiond": "(D) machine language",
+			"optiona": "(A) A low level language",
+			"optionb": "(B) A high level language",
+			"optionc": "(C) Assembly language",
+			"optiond": "(D) Machine language",
 			"ans": "B"
 		},
 		{
 			"question": "The human-readable version of a program is called ...........",
-			"optiona": "(A) source code",
-			"optionb": "(B) program code",
-			"optionc": "(C) human code",
-			"optiond": "(D) system code",
+			"optiona": "(A) Source code",
+			"optionb": "(B) Program code",
+			"optionc": "(C) Human code",
+			"optiond": "(D) System code",
 			"ans": "A"
 		},
 
 		{
 			"question": "After turns on computer light the process of start is called",
-			"optiona": "(A) application",
-			"optionb": "(B) system",
-			"optionc": "(C) boot strap",
-			"optiond": "(D) strap",
+			"optiona": "(A) Application",
+			"optionb": "(B) System",
+			"optionc": "(C) Boot strap",
+			"optiond": "(D) Strap",
 			"ans": "C"
 		},
 		{
@@ -383,10 +383,10 @@
 		},
 		{
 			"question": "A compiler translates a program written in a high level language into .....",
-			"optiona": "(A) machine language",
-			"optionb": "(B) an algorithm",
-			"optionc": "(C) a debugged program",
-			"optiond": "(D) java",
+			"optiona": "(A) Machine language",
+			"optionb": "(B) An algorithm",
+			"optionc": "(C) A debugged program",
+			"optiond": "(D) Java",
 			"ans": "A"
 		},
 		{
@@ -415,28 +415,28 @@
 		},
 		{
 			"question": "Antivirus software is an example of .............",
-			"optiona": "(A) business software",
-			"optionb": "(B) an operating system",
-			"optionc": "(C) a security utility",
-			"optiond": "(D) an office suite",
+			"optiona": "(A) Business software",
+			"optionb": "(B) An operating system",
+			"optionc": "(C) A security utility",
+			"optiond": "(D) An office suite",
 			"ans": "C"
 		},
 
 
 		{
 			"question": "A (n) ...... converts and executes one statement at a time.",
-			"optiona": "(A) compiler",
-			"optionb": "(B) interpreter",
-			"optionc": "(C) converter",
-			"optiond": "(D) instructions",
+			"optiona": "(A) Compiler",
+			"optionb": "(B) Interpreter",
+			"optionc": "(C) Converter",
+			"optiond": "(D) Instructions",
 			"ans": "B"
 		},
 		{
 			"question": "The term ...... designates equipment that might be added to a computer system to enhance its functionality.",
-			"optiona": "(A) digital device",
-			"optionb": "(B) system add-on",
-			"optionc": "(C) disk pack",
-			"optiond": "(D) peripheral device",
+			"optiona": "(A) Digital device",
+			"optionb": "(B) System add-on",
+			"optionc": "(C) Disk pack",
+			"optiond": "(D) Peripheral device",
 			"ans": "D"
 		},
 		{
@@ -449,18 +449,18 @@
 		},
 		{
 			"question": "If a new device is attached to a computer; such as a printer or scanner; its ...... must be installed before the device can be used.",
-			"optiona": "(A) buffer",
-			"optionb": "(B) driver",
-			"optionc": "(C) pager",
-			"optiond": "(D) server",
+			"optiona": "(A) Buffer",
+			"optionb": "(B) Driver",
+			"optionc": "(C) Pager",
+			"optiond": "(D) Server",
 			"ans": "B"
 		},
 		{
 			"question": "Compiling creates a(n) ......",
-			"optiona": "(A) program specification",
-			"optionb": "(B) algorithm",
-			"optionc": "(C) executable program",
-			"optiond": "(D) subroutine",
+			"optiona": "(A) Program specification",
+			"optionb": "(B) Algorithm",
+			"optionc": "(C) Executable program",
+			"optiond": "(D) Subroutine",
 			"ans": "C"
 		},
 		{
@@ -481,18 +481,18 @@
 		},
 		{
 			"question": "A(n) ....... is a program that makes the computer easier to use.",
-			"optiona": "(A) application",
-			"optionb": "(B) utility",
-			"optionc": "(C) network",
-			"optiond": "(D) operating system",
+			"optiona": "(A) Application",
+			"optionb": "(B) Utility",
+			"optionc": "(C) Network",
+			"optiond": "(D) Operating system",
 			"ans": "B"
 		},
 		{
 			"question": "The combination of operating system and processor in a computer is referred to as a computers' ..........",
-			"optiona": "(A) firmware",
-			"optionb": "(B) specifications",
-			"optionc": "(C) minimum requirements",
-			"optiond": "(D) platform",
+			"optiona": "(A) Firmware",
+			"optionb": "(B) Specifications",
+			"optionc": "(C) Minimum requirements",
+			"optiond": "(D) Platform",
 			"ans": "D"
 		},
 		{
@@ -521,10 +521,10 @@
 		},
 		{
 			"question": "A(n)..... backup contains a copy of every program; data; and system file on a computer.",
-			"optiona": "(A) restoration",
-			"optionb": "(B) bootstrap",
-			"optionc": "(C) differential",
-			"optiond": "(D) full",
+			"optiona": "(A) Restoration",
+			"optionb": "(B) Bootstrap",
+			"optionc": "(C) Differential",
+			"optiond": "(D) Full",
 			"ans": "D"
 		},
 		{
