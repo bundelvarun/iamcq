@@ -17,10 +17,10 @@
 		},
 		{
 			"question": "Computer cannot perform",
-			"optiona": "(A) input",
-			"optionb": "(B) output ",
-			"optionc": "(C) thinking",
-			"optiond": "(D) processing ",
+			"optiona": "(A) Input",
+			"optionb": "(B) Output ",
+			"optionc": "(C) Thinking",
+			"optiond": "(D) Processing ",
 			"ans": "C"
 		},
 
@@ -46,10 +46,10 @@
 		{
 
 			"question": "Computer is named as ........ intelligence. ",
-			"optiona": "(A) pure",
-			"optionb": "(B) human",
-			"optionc": "(C) artificial ",
-			"optiond": "(D) all",
+			"optiona": "(A) Pure",
+			"optionb": "(B) Human",
+			"optionc": "(C) Artificial ",
+			"optiond": "(D) All",
 			"ans": "C"
 		},
 
@@ -130,7 +130,7 @@
 		{
 			"question": "Which is not a basic function of a computer?",
 			"optiona": "(A) Copy text ",
-			"optionb": "(B)  Accept input ",
+			"optionb": "(B) Accept input ",
 			"optionc": "(C) Process data ",
 			"optiond": "(D) Store data",
 			"ans": "A"
@@ -196,10 +196,10 @@
 
 		{
 			"question": "Computer ............ is whatever is typed, submitted, or transmitted to a computer system",
-			"optiona": "(A) input",
-			"optionb": "(B) output",
-			"optionc": "(C) data ",
-			"optiond": "(D) circuit",
+			"optiona": "(A) Input",
+			"optionb": "(B) Output",
+			"optionc": "(C) Data ",
+			"optiond": "(D) Circuit",
 			"ans": "A"
 		},
 		{
@@ -382,14 +382,6 @@
 			"ans": "D"
 		},
 		{
-			"question": "What is the capacity of super computers floppy disc ?",
-			"optiona": "(A) 400 M",
-			"optionb": "(B) 500 M",
-			"optionc": "(C) 600 M",
-			"optiond": "(D) 700 M",
-			"ans": "B"
-		},
-		{
 			"question": "Hard disc drives are considered .............. storage",
 			"optiona": "(A) Flash",
 			"optionb": "(B) Non-volatile",
@@ -416,10 +408,10 @@
 
 		{
 			"question": "CD is an ..................",
-			"optiona": "(A) memory",
-			"optionb": "(B) internal",
-			"optionc": "(C) external",
-			"optiond": "(D) a and b",
+			"optiona": "(A) Memory",
+			"optionb": "(B) Internal",
+			"optionc": "(C) External",
+			"optiond": "(D) (A) and (B) Both",
 			"ans": "C"
 		},
 		{
@@ -463,11 +455,11 @@
 			"ans": "C"
 		},
 		{
-			"question": "Any data or instructions naturel into memory of a computer is considered as ..............",
-			"optiona": "(A) storage",
-			"optionb": "(B) output",
-			"optionc": "(C) input",
-			"optiond": "(D) information",
+			"question": "Any data or instructions naturel into memory of a computer is considered as .........",
+			"optiona": "(A) Storage",
+			"optionb": "(B) Output",
+			"optionc": "(C) Input",
+			"optiond": "(D) Information",
 			"ans": "A"
 		},
 		{
@@ -475,7 +467,7 @@
 			"optiona": "(A) Square",
 			"optionb": "(B) Rectangular",
 			"optionc": "(C) Round",
-			"optiond": "(D) information",
+			"optiond": "(D) Information",
 			"ans": "A"
 		},
 		{
@@ -496,10 +488,10 @@
 		},
 		{
 			"question": "Secondary storage ...",
-			"optiona": "(A) does not require constant power",
-			"optionb": "(B) does not use magnetic media",
-			"optionc": "(C) consists of four main types of devices",
-			"optiond": "(D) does not store information for later retrieval",
+			"optiona": "(A) Does not require constant power",
+			"optionb": "(B) Does not use magnetic media",
+			"optionc": "(C) Consists of four main types of devices",
+			"optiond": "(D) Does not store information for later retrieval",
 			"ans": "A"
 		},
 		{
@@ -592,10 +584,10 @@
 		},
 		{
 			"question": "The term ... refers to data storage systems that make it possible for a computer or electronic device to store and retrieve data.",
-			"optiona": "(A) retrieval technology",
-			"optionb": "(B) input technology",
-			"optionc": "(C) output technology",
-			"optiond": "(D) storage technology",
+			"optiona": "(A) Retrieval technology",
+			"optionb": "(B) Input technology",
+			"optionc": "(C) Output technology",
+			"optiond": "(D) Storage technology",
 			"ans": "D"
 		},
 		{
@@ -609,9 +601,9 @@
 		{
 			"question": "When you save to ....... your data will remain intact even when the computer is turned off.",
 			"optiona": "(A) RAM",
-			"optionb": "(B) mother board",
-			"optionc": "(C) secondary storage device",
-			"optiond": "(D) primary storages device",
+			"optionb": "(B) Mother board",
+			"optionc": "(C) Secondary storage device",
+			"optiond": "(D) Primary storages device",
 			"ans": "C"
 		},
 		{
@@ -624,18 +616,18 @@
 		},
 		{
 			"question": "Which of the following is the storage area within the computer itself which holds data oniy temporarily as the computer processes instructions?",
-			"optiona": "(A) the hard disk",
-			"optionb": "(B) main memory",
-			"optionc": "(C) the control unit",
-			"optiond": "(D) read-only memory",
+			"optiona": "(A) The hard disk",
+			"optionb": "(B) Main memory",
+			"optionc": "(C) The control unit",
+			"optiond": "(D) Read-only memory",
 			"ans": "B"
 		},
 		{
 			"question": "If a memory chip is volatile",
-			"optiona": "(A) it will ....... explode if exposed to high temperatures",
-			"optionb": "(B) lose its contents if currents it turned off",
-			"optionc": "(C) be used for data storage only",
-			"optiond": "(D) be used to both read and write data",
+			"optiona": "(A) It will ....... explode if exposed to high temperatures",
+			"optionb": "(B) Lose its contents if currents it turned off",
+			"optionc": "(C) Be used for data storage only",
+			"optiond": "(D) Be used to both read and write data",
 			"ans": "B"
 		},
 		{
@@ -671,26 +663,27 @@
 			"ans": "B"
 		},
 		{
-			"question": "Storage media such as a CD read and write information using laser beam of red light ",
-			"optionb": "(B) magnetic dots",
-			"optionc": "(C) magnetic strips",
+			"question": "Storage media such as a CD read and write information using.........",
+			"optiona": "(A) Laser beam of red light ",
+			"optionb": "(B) Magnetic dots",
+			"optionc": "(C) Magnetic strips",
 			"optiond": "(D) All of these",
 			"ans": "A"
 		},
 		{
 			"question": "Cache and main memory will lose their contents when the power is off. They are .........",
-			"optiona": "(A) dynamic",
-			"optionb": "(B) static",
-			"optionc": "(C) volatile",
-			"optiond": "(D) non-volatile",
+			"optiona": "(A) Dynamic",
+			"optionb": "(B) Static",
+			"optionc": "(C) Volatile",
+			"optiond": "(D) Non-volatile",
 			"ans": "C"
 		},
 		{
 			"question": "Which of the following is a storage devices that uses rigid, permanently installed magnetic disks to store data/information ......",
-			"optiona": "(A) floppy diskette",
-			"optionb": "(B) hard disk",
-			"optionc": "(C) permanent disk",
-			"optiond": "(D) optical disk",
+			"optiona": "(A) Floppy diskette",
+			"optionb": "(B) Hard disk",
+			"optionc": "(C) Permanent disk",
+			"optiond": "(D) Optical disk",
 			"ans": "B"
 		},
 		{
@@ -711,33 +704,33 @@
 		},
 		{
 			"question": "The main memory of a computer can also be called",
-			"optiona": "(A) primary storage",
-			"optionb": "(B) internal memory",
-			"optionc": "(C) primary memory",
-			"optiond": "(D) all of these",
+			"optiona": "(A) Primary storage",
+			"optionb": "(B) Internal memory",
+			"optionc": "(C) Primary memory",
+			"optiond": "(D) All of these",
 			"ans": "D"
 		},
 		{
 			"question": "A disk's content that is recorded at the time of manufacture and that cannot be changed or erased by the user is",
-			"optiona": "(A) memory-only",
-			"optionb": "(B) write-only",
-			"optionc": "(C) read-only",
-			"optiond": "(D) run-only",
+			"optiona": "(A) Memory-only",
+			"optionb": "(B) Write-only",
+			"optionc": "(C) Read-only",
+			"optiond": "(D) Run-only",
 			"ans": "C"
 		},
 		{
 			"question": "This is a permanent storage device",
-			"optiona": "(A) floppy disk",
-			"optionb": "(B) monitor",
+			"optiona": "(A) Floppy disk",
+			"optionb": "(B) Monitor",
 			"optionc": "(C) RAM",
-			"optiond": "(D) hard disk",
+			"optiond": "(D) Hard disk",
 			"ans": "D"
 		},
 		{
 			"question": "The space in your computer that loads and works with data",
-			"optiona": "(A) cache memory",
+			"optiona": "(A) Cache memory",
 			"optionb": "(B) CPU",
-			"optionc": "(C) megabyte",
+			"optionc": "(C) Megabyte",
 			"optiond": "(D) RAM memory",
 			"ans": "D"
 		},
@@ -745,8 +738,8 @@
 			"question": "What part of the computer provides only temporary storage of files ?",
 			"optiona": "(A) ROM memory",
 			"optionb": "(B) RAM memory",
-			"optionc": "(C) hard drive",
-			"optiond": "(D) mother board",
+			"optionc": "(C) Hard drive",
+			"optiond": "(D) Mother board",
 			"ans": "B"
 		},
 		{
@@ -786,7 +779,7 @@
 			"optiona": "(A) Personal computer",
 			"optionb": "(B) Private computer",
 			"optionc": "(C) Public computer",
-			"optiond": "(D) a and b both",
+			"optiond": "(D) (A) and (B) both",
 			"ans": "A"
 		},
 		{
@@ -856,18 +849,18 @@
 
 		{
 			"question": "The .......... is a box that houses the most important parts of a computer system.",
-			"optiona": "(A) software",
-			"optionb": "(B) hardware",
-			"optionc": "(C) input drive",
-			"optiond": "(D) system unit",
+			"optiona": "(A) Software",
+			"optionb": "(B) Hardware",
+			"optionc": "(C) Input drive",
+			"optiond": "(D) System unit",
 			"ans": "D"
 		},
 		{
 			"question": "The main system board of a computer is called the.",
-			"optiona": "(A) integrated circuit",
-			"optionb": "(B) mother board",
-			"optionc": "(C) processor",
-			"optiond": "(D) microchip",
+			"optiona": "(A) Integrated circuit",
+			"optionb": "(B) Mother board",
+			"optionc": "(C) Processor",
+			"optiond": "(D) Microchip",
 			"ans": "B"
 		},
 
@@ -882,51 +875,52 @@
 
 		{
 			"question": "A UPS .................. ",
-			"optiona": "(A) limits damage caused by fluctuating levels of electricity",
-			"optionb": "(B) provides battery backup for a limited time",
-			"optionc": "(C) delivers electronic messages via a bus",
-			"optiond": "(D) conducts a power-on self test, or POST",
+			"optiona": "(A) Limits damage caused by fluctuating levels of electricity",
+			"optionb": "(B) Provides battery backup for a limited time",
+			"optionc": "(C) Delivers electronic messages via a bus",
+			"optiond": "(D) Conducts a power-on self test, or POST",
 			"ans": "B"
 		},
 
 		{
 			"question": "A... is a device that not only provides surge protection but also furnishes your computer with battery backup power during a power outage.",
-			"optiona": "(A) surge strip",
+			"optiona": "(A) Surge strip",
 			"optionb": "(B) USB",
 			"optionc": "(C) UPS",
-			"optiond": "(D) battery strip",
+			"optiond": "(D) Battery strip",
 			"ans": "C"
 		},
 
 		{
 			"question": "The ........ controls communications for the entire computer system.",
 			"optiona": "(A) Arithmetic - logic unit ",
-			"optionb": "(B) semiconductor",
-			"optionc": "(C) motherboard",
-			"optiond": "(D) co-processor",
+			"optionb": "(B) Semiconductor",
+			"optionc": "(C) Motherboard",
+			"optiond": "(D) Co-processor",
 			"ans": "C"
 		},
 		{
 			"question": "The system component that controls and manipulates data in order to produce information is called the ......",
-			"optiona": "(A) keyboard",
-			"optionb": "(B) microprocessor",
-			"optionc": "(C) monitor",
-			"optiond": "(D) mouse",
+			"optiona": "(A) Keyboard",
+			"optionb": "(B) Microprocessor",
+			"optionc": "(C) Monitor",
+			"optiond": "(D) Mouse",
 			"ans": "C"
 		},
 		{
 			"question": "These provide expansion capability for a computer system",
-			"optiona": "(A) sockets",
-			"optionb": "(B) slots",
-			"optionc": "(C) bytes",
-			"optiond": "(D) bays",
+			"optiona": "(A) Sockets",
+			"optionb": "(B) Slots",
+			"optionc": "(C) Bytes",
+			"optiond": "(D) Bays",
 			"ans": "B"
 		},
 		{
-			"question": "An example of a processing device would be .......magnetic ink reader ",
-			"optionb": "(B) a tablet PC",
+			"question": "An example of a processing device would be .......",
+			"optiona": "(A) Magnetic ink reader",
+			"optionb": "(B) A tablet PC",
 			"optionc": "(C) Special function cards",
-			"optiond": "(D) scanners",
+			"optiond": "(D) Scanners",
 			"ans": "C"
 		},
 
