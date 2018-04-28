@@ -2,18 +2,18 @@
 	"list_Mcq": [
 		{
     "question": "Users use often ...... for access to mainframe or supercomputer.",
-    "optiona": "(A) terminal",
-    "optionb": "(B) node",
-    "optionc": "(C) desktop",
-    "optiond": "(D) hand held",
+    "optiona": "(A) Terminal",
+    "optionb": "(B) Node",
+    "optionc": "(C) Desktop",
+    "optiond": "(D) Hand held",
     "ans": "A"
   },
   {
     "question": "To create a .......... personal computers can connect together.",
-    "optiona": "(A) server",
-    "optionb": "(B) super computer",
-    "optionc": "(C) enterprise",
-    "optiond": "(D) network",
+    "optiona": "(A) Server",
+    "optionb": "(B) Super computer",
+    "optionc": "(C) Enterprise",
+    "optiond": "(D) Network",
     "ans": "D"
   },
   {
@@ -34,14 +34,14 @@
   },
   {
     "question": "Server is a computer which provides resources other computers commuted in a ............",
-    "optiona": "(A) network",
-    "optionb": "(B) mainframe",
-    "optionc": "(C) super computers",
-    "optiond": "(D) clients",
+    "optiona": "(A) Network",
+    "optionb": "(B) Mainframe",
+    "optionc": "(C) Super computers",
+    "optiond": "(D) Clients",
     "ans": "A"
   },
   {
-    "question": "LAN; WAN and MAN are computer networks covering different areas. Their first alphabets L, W and M respectively stand for",
+    "question": "LAN, WAN and MAN are computer networks covering different areas. Their first alphabets L, W and M respectively stand for",
     "optiona": "(A) Local; Wide and Metropolitan",
     "optionb": "(B) Long; Wireless and Metropolitan",
     "optionc": "(C) Local; world and Middle",
@@ -58,10 +58,10 @@
   },
   {
     "question": "Two or more than two computers connected to each other for sharing an information forms a ...........",
-    "optiona": "(A) network",
-    "optionb": "(B) router",
-    "optionc": "(C) serves",
-    "optiond": "(D) tunnel",
+    "optiona": "(A) Network",
+    "optionb": "(B) Router",
+    "optionc": "(C) Serves",
+    "optiond": "(D) Tunnel",
     "ans": "A"
   },
   {
@@ -82,18 +82,18 @@
   },
   {
     "question": "Computer connected with LAN.",
-    "optiona": "(A) work fast",
-    "optionb": "(B) go online",
-    "optionc": "(C) can e-mail",
-    "optiond": "(D) can share information or peripheral devices",
+    "optiona": "(A) Work fast",
+    "optionb": "(B) Go online",
+    "optionc": "(C) Can e-mail",
+    "optiond": "(D) Can share information or peripheral devices",
     "ans": "D"
   },
   {
     "question": "LAN is useful for ............",
-    "optiona": "(A) railway",
-    "optionb": "(B) bank",
-    "optionc": "(C) businessman",
-    "optiond": "(D) transport office",
+    "optiona": "(A) Railway",
+    "optionb": "(B) Bank",
+    "optionc": "(C) Businessman",
+    "optiond": "(D) Transport office",
     "ans": "C"
   },
   {
@@ -170,10 +170,10 @@
   },
   {
     "question": "A device that connects to a network without the use of cables is said to be ..........",
-    "optiona": "(A) distributed",
-    "optionb": "(B) wireless",
-    "optionc": "(C) centralized",
-    "optiond": "(D) open Source",
+    "optiona": "(A) Distributed",
+    "optionb": "(B) Wireless",
+    "optionc": "(C) Centralized",
+    "optiond": "(D) Open Source",
     "ans": "B"
   },
   {
@@ -186,10 +186,10 @@
   },
   {
     "question": "Computers connected to a LAN (local area network) can ...........",
-    "optiona": "(A) run faster",
-    "optionb": "(B) go on line",
-    "optionc": "(C) share information and/or share peripheral equipment",
-    "optiond": "(D) e-mail",
+    "optiona": "(A) Run faster",
+    "optionb": "(B) Go on line",
+    "optionc": "(C) Share information and/or share peripheral equipment",
+    "optiond": "(D) E-mail",
     "ans": "C"
   },
   {
@@ -218,10 +218,10 @@
   },
   {
     "question": "To access a mainframe or supercomputer; users often use a ...",
-    "optiona": "(A) terminal",
-    "optionb": "(B) node",
-    "optionc": "(C) desktop",
-    "optiond": "(D) hand held",
+    "optiona": "(A) Terminal",
+    "optionb": "(B) Node",
+    "optionc": "(C) Desktop",
+    "optiond": "(D) Hand held",
     "ans": "A"
   },
   {
@@ -234,10 +234,10 @@
   },
   {
     "question": "Dumb terminals have terminals and ............",
-    "optiona": "(A) mouse",
-    "optionb": "(B) speakers",
-    "optionc": "(C) keyboard",
-    "optiond": "(D) mouse or speakers",
+    "optiona": "(A) Mouse",
+    "optionb": "(B) Speakers",
+    "optionc": "(C) Keyboard",
+    "optiond": "(D) Mouse or speakers",
     "ans": "C"
   },
   {
@@ -250,18 +250,18 @@
   },
   {
     "question": "Computers connected to a LAN can .........",
-    "optiona": "(A) run faster",
-    "optionb": "(B) share-information and/or share peripheral equipment",
-    "optionc": "(C) e-mail",
-    "optiond": "(D) go online",
+    "optiona": "(A) Run faster",
+    "optionb": "(B) Share-information and/or share peripheral equipment",
+    "optionc": "(C) E-mail",
+    "optiond": "(D) Go online",
     "ans": "B"
   },
   {
     "question": "The most important or powerful computer in a typical network.",
-    "optiona": "(A) desktop",
-    "optionb": "(B) network station",
-    "optionc": "(C) network client",
-    "optiond": "(D) network server",
+    "optiona": "(A) Desktop",
+    "optionb": "(B) Network station",
+    "optionc": "(C) Network client",
+    "optiond": "(D) Network server",
     "ans": "D"
   },
   {
@@ -274,50 +274,50 @@
   },
   {
     "question": "What type of resource is most likely to be a shared common resource in a computer network ?",
-    "optiona": "(A) printers",
-    "optionb": "(B) speakers",
-    "optionc": "(C) floppy disk drives",
-    "optiond": "(D) keyboards",
+    "optiona": "(A) Printers",
+    "optionb": "(B) Speakers",
+    "optionc": "(C) Floppy disk drives",
+    "optiond": "(D) Keyboards",
     "ans": "A"
   },
   {
     "question": "A (n) ....... is a combination of hardware and software that facilitates the sharing of information between computing devices.",
-    "optiona": "(A) network",
-    "optionb": "(B) peripheral",
-    "optionc": "(C) expansion board",
-    "optiond": "(D) digital device",
+    "optiona": "(A) Network",
+    "optionb": "(B) Peripheral",
+    "optionc": "(C) Expansion board",
+    "optiond": "(D) Digital device",
     "ans": "A"
   },
   {
     "question": "A ....... is a set of rules.",
-    "optiona": "(A) resource locater",
-    "optionb": "(B) domain",
-    "optionc": "(C) hypertext",
-    "optiond": "(D) protocol",
+    "optiona": "(A) Resource locater",
+    "optionb": "(B) Domain",
+    "optionc": "(C) Hypertext",
+    "optiond": "(D) Protocol",
     "ans": "D"
   },
   {
     "question": "Terminal is ..........",
-    "optiona": "(A) a device to give power supply to the computer",
-    "optionb": "(B) a point at which data enters or leaves the computer",
-    "optionc": "(C) the last instruction in a program",
-    "optiond": "(D) any input/output device",
+    "optiona": "(A) A device to give power supply to the computer",
+    "optionb": "(B) A point at which data enters or leaves the computer",
+    "optionc": "(C) The last instruction in a program",
+    "optiond": "(D) Any input/output device",
     "ans": "B"
   },
   {
     "question": "A device that connect to a network without the use of cables is said to be.",
-    "optiona": "(A) distributed",
-    "optionb": "(B) wireless",
-    "optionc": "(C) centralized",
-    "optiond": "(D) open source",
+    "optiona": "(A) Distributed",
+    "optionb": "(B) Wireless",
+    "optionc": "(C) Centralized",
+    "optiond": "(D) Open source",
     "ans": "B"
   },
   {
     "question": "A computer ....... consists of two or more computers and other devices that are connected for the purpose of sharing data and programs.",
-    "optiona": "(A) network",
-    "optionb": "(B) system",
-    "optionc": "(C) workstation",
-    "optiond": "(D) device",
+    "optiona": "(A) Network",
+    "optionb": "(B) System",
+    "optionc": "(C) Workstation",
+    "optiond": "(D) Device",
     "ans": "A"
   },
   {
