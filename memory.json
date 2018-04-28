@@ -42,10 +42,10 @@
 		},
 		{
 		"question": "RAM is a ........ memory—",
-		"optiona": "(A) external",
-		"optionb": "(B) auxiliary",
-		"optionc": "(C) internal ",
-		"optiond": "(D) main",
+		"optiona": "(A) External",
+		"optionb": "(B) Auxiliary",
+		"optionc": "(C) Internal ",
+		"optiond": "(D) Main",
 		"ans": "D"
 		},
 		{
@@ -90,26 +90,26 @@
 		},
 		{
 		"question": "RAM is used as a short memory because it is ..... and ........",
-		"optiona": "(A) volatile, temporary",
-		"optionb": "(B) nonvolatile, permanent ",
-		"optionc": "(C) nonvolatile, temporary ",
-		"optiond": "(D) volatile, permanent ",
+		"optiona": "(A) Volatile, temporary",
+		"optionb": "(B) Nonvolatile, permanent ",
+		"optionc": "(C) Nonvolatile, temporary ",
+		"optiond": "(D) Volatile, permanent ",
 		"ans": "A"
 		},
 		{
 		"question": "With a CD you can ..",
-		"optiona": "(A) read",
-		"optionb": "(B) write",
-		"optionc": "(C) read and write ",
-		"optiond": "(D) either read or write ",
+		"optiona": "(A) Read",
+		"optionb": "(B) Write",
+		"optionc": "(C) Read and write ",
+		"optiond": "(D) Either read or write ",
 		"ans": "A"
 		},
 		{
 		"question": "A CD-ROM disk.",
-		"optiona": "(A) cannot be erased and rewritten ",
-		"optionb": "(B) has more storage capacity than a CD-R ",
-		"optionc": "(C) holds less data than a floppy disk ",
-		"optiond": "(D) can be written only once ",
+		"optiona": "(A) Cannot be erased and rewritten ",
+		"optionb": "(B) Has more storage capacity than a CD-R ",
+		"optionc": "(C) Holds less data than a floppy disk ",
+		"optiond": "(D) Can be written only once ",
 		"ans": "A"
 		},
 		{
@@ -148,7 +148,7 @@
 		"question": "Computer hardware which stores large volume of data is called",
 		"optiona": "(A) Magnetic tape ",
 		"optionb": "(B) Disc",
-		"optionc": "(C) a and b both ",
+		"optionc": "(C) (A) and (B) both ",
 		"optiond": "(D) All of These ",
 		"ans": "C"
 		},
@@ -186,10 +186,10 @@
 		},
 		{
 		"question": "A CD-RW disk .......",
-		"optiona": "(A) has a faster access than an internal disk ",
-		"optionb": "(B) is a form or optical disk, so it can only be written once ",
-		"optionc": "(C) holds less data than a floppy disk ",
-		"optiond": "(D) can be erased and rewritten",
+		"optiona": "(A) Has a faster access than an internal disk ",
+		"optionb": "(B) Is a form or optical disk, so it can only be written once ",
+		"optionc": "(C) Holds less data than a floppy disk ",
+		"optiond": "(D) Can be erased and rewritten",
 		"ans": "D"
 		},
 		{
@@ -202,10 +202,10 @@
 		},
 		{
 		"question": "A DVD is an example of a (n) .....",
-		"optiona": "(A) hard disk",
-		"optionb": "(B) optical disc",
-		"optionc": "(C) output device ",
-		"optiond": "(D) solid-state storage device ",
+		"optiona": "(A) Hard disk",
+		"optionb": "(B) Optical disc",
+		"optionc": "(C) Output device ",
+		"optiond": "(D) Solid-state storage device ",
 		"ans": "B"
 		},
 		{
