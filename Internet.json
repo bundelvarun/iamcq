@@ -1,0 +1,619 @@
+{
+	"list_Mcq": [{
+			"question": "A word on a web page which opens other document when clicks on it is a ............... ",
+			"optiona": "(A) Anchor",
+			"optionb": "(B) Hyper link ",
+			"optionc": "(C) Reference ",
+			"optiond": "(D) URL",
+			"ans": "B"
+		},
+		{
+			"question": "Internet banking means .......",
+			"optiona": "(A) Meeting of banks on internet ",
+			"optionb": "(B) Net practice ",
+			"optionc": "(C) Banking from internet ",
+			"optiond": "(D) All of these",
+			"ans": "C"
+		},
+		{
+			"question": "Which of following is a example of continuity ?",
+			"optiona": "(A) Internet",
+			"optionb": "(B) Floppy disk ",
+			"optionc": "(C) Power cord ",
+			"optiond": "(D) Data",
+			"ans": "A"
+		},
+		{
+			"question": "............. is a device which uses for data transmission through telecommunication line. ",
+			"optiona": "(A) Drives",
+			"optionb": "(B) Modem",
+			"optionc": "(C) Platform ",
+			"optiond": "(D) All of these ",
+			"ans": "B"
+		},
+		{
+			"question": "Specialized programs that assist users in locating information on the Web are called .............. ",
+			"optiona": "(A) Information engines ",
+			"optionb": "(B) Locator engines ",
+			"optionc": "(C) Web browsers .",
+			"optiond": "(D) Search engines ",
+			"ans": "D"
+		},
+		{
+			"question": "Unsolicited e-mail is called a ...",
+			"optiona": "(A) Newsgroup ",
+			"optionb": "(B) Usenet",
+			"optionc": "(C) Backbane ",
+			"optiond": "(D) Spam",
+			"ans": "D"
+		},
+		{
+			"question": "A code of webpage has been written by using ................",
+			"optiona": "(A) Hyper text markup language ",
+			"optionb": "(B) 5th generation language ",
+			"optionc": "(C) Winzip",
+			"optiond": "(D) Perl",
+			"ans": "A"
+		},
+		{
+			"question": "When pointer points .......... then pointer appears like a hand.",
+			"optiona": "(A) Grammar error ",
+			"optionb": "(B) Hyperlink ",
+			"optionc": "(C) Screen tip",
+			"optiond": "(D) Spelling error ",
+			"ans": "B"
+		},
+		{
+			"question": "What is an E-mail attachment ?",
+			"optiona": "(A) A receipt sent by the recipient ",
+			"optionb": "(B) A separate document from another program sent along with and E-mail message ",
+			"optionc": "(C) A malicious parasite that feeds off of your messages and destroys the contents ",
+			"optiond": "(D) A list of CC: or BCC : recipients",
+			"ans": "B"
+		},
+		{
+			"question": "Which of the following must be contained in a URL ?",
+			"optiona": "(A) A protocol identifier",
+			"optionb": "(B) the letter, WWW. ",
+			"optionc": "(C) The unique registered domain name ",
+			"optiond": "(D) A protocol identifier, WWW. and the unique registered domain name ",
+			"ans": "D"
+		},
+		{
+			"question": "Who runs internet ?",
+			"optiona": "(A) I & B",
+			"optionb": "(B) IETF",
+			"optionc": "(C) Inter NIC ",
+			"optiond": "(D) None of these ",
+			"ans": "D"
+		},
+		{
+			"question": "............ is a device that connects two or more networks.",
+			"optiona": "(A) Gateway",
+			"optionb": "(B) Pathway",
+			"optionc": "(C) Roadway ",
+			"optiond": "(D) Bus",
+			"ans": "A"
+		},
+		{
+			"question": "............ uses HTTP.",
+			"optiona": "(A) Workbook",
+			"optionb": "(B) Server",
+			"optionc": "(C) Worksheet ",
+			"optiond": "(D) Web page",
+			"ans": "D"
+		},
+		{
+			"question": "WWW uses uses ............... protocol. ",
+			"optiona": "(A) FTP",
+			"optionb": "(B) HTTP",
+			"optionc": "(C) WBC ",
+			"optiond": "(D) MTP",
+			"ans": "B"
+		},
+		{
+			"question": "Website is a collection of ..",
+			"optiona": "(A) HTML documents ",
+			"optionb": "(B) Graphic files ",
+			"optionc": "(C) Lock key",
+			"optiond": "(D) All of these ",
+			"ans": "A"
+		},
+		{
+			"question": "A website's main page is called its ....",
+			"optiona": "(A) Home page ",
+			"optionb": "(B) Browser page ",
+			"optionc": "(C) Search page",
+			"optiond": "(D) Book mark ",
+			"ans": "A"
+		},
+		{
+			"question": "Which of the following cannot be part of an email address ?",
+			"optiona": "(A) Period (.)",
+			"optionb": "(B) At sign (@) ",
+			"optionc": "(C) Space ( ) ",
+			"optiond": "(D) Underscore ( _) ",
+			"ans": "C"
+		},
+		{
+			"question": "For document exchange on network which of the following is not necessary ? ",
+			"optiona": "(A) Floppy",
+			"optionb": "(B) Telephone line ",
+			"optionc": "(C) Connector ",
+			"optiond": "(D) Satellite",
+			"ans": "A"
+		},
+		{
+			"question": "It helps to connect a computer from internet.",
+			"optiona": "(A) Browser",
+			"optionb": "(B) Netfit",
+			"optionc": "(C) Windows-95 ",
+			"optiond": "(D) Cable",
+			"ans": "A"
+		},
+		{
+			"question": "Which field .org is related to ?",
+			"optiona": "(A) Education ",
+			"optionb": "(B) Non-commercial ",
+			"optionc": "(C) Commercial",
+			"optiond": "(D) Organization ",
+			"ans": "D"
+		},
+		{
+			"question": ".com is related to",
+			"optiona": "(A) Personal characteristic ",
+			"optionb": "(B) Art ",
+			"optionc": "(C) Commercial organization ",
+			"optiond": "(D) Information",
+			"ans": "C"
+		},
+		{
+			"question": "Internet was started in India at",
+			"optiona": "(A) 15 August, 1995 ",
+			"optionb": "(B) 9 August, 1995 ",
+			"optionc": "(C) 8 August, 1994",
+			"optiond": "(D) 7 August, 1996 ",
+			"ans": "A"
+		},
+		{
+			"question": "What is used in computer for communication purpose ?",
+			"optiona": "(A) Netsurfing ",
+			"optionb": "(B) Software",
+			"optionc": "(C) Language ",
+			"optiond": "(D) Modem",
+			"ans": "D"
+		},
+		{
+			"question": "F.T.P. stands for",
+			"optiona": "(A) File transfer protocol",
+			"optionb": "(B) File transfer ",
+			"optionc": "(C) File transfer premium",
+			"optiond": "(D) File transfer perfect ",
+			"ans": "A"
+		},
+		{
+			"question": "An address that starts from WWW is related to—",
+			"optiona": "(A) Modem",
+			"optionb": "(B) Internet",
+			"optionc": "(C) Telephone ",
+			"optiond": "(D) Website",
+			"ans": "D"
+		},
+		{
+			"question": "............. is selling and buying of goods and services through internet.",
+			"optiona": "(A) E-commerce ",
+			"optionb": "(B) Internet",
+			"optionc": "(C) E-mail ",
+			"optiond": "(D) Website",
+			"ans": "A"
+		},
+		{
+			"question": "Address of a website is called an .",
+			"optiona": "(A) User ID",
+			"optionb": "(B) URL",
+			"optionc": "(C) Time stamp ",
+			"optiond": "(D) All of These ",
+			"ans": "B"
+		},
+		{
+			"question": "Which of the following uses to send a data of one computer to the farthest, other computer ? ",
+			"optiona": "(A) Telex",
+			"optionb": "(B) Modem",
+			"optionc": "(C) Fax ",
+			"optiond": "(D) Telegraph",
+			"ans": "B"
+		},
+		{
+			"question": "Full name of Modem is—",
+			"optiona": "(A) Modulator demodulator ",
+			"optionb": "(B) Modulator demodulation ",
+			"optionc": "(C) Modulator discussion",
+			"optiond": "(D) All of these ",
+			"ans": "A"
+		},
+		{
+			"question": "Full name of E-mail is ..........",
+			"optiona": "(A) English mail ",
+			"optionb": "(B) Electric mail ",
+			"optionc": "(C) Electronic mail",
+			"optiond": "(D) Essential mail ",
+			"ans": "C"
+		},
+		{
+			"question": "Full form of Internet is ...............",
+			"optiona": "(A) Intercontinental network ",
+			"optionb": "(B) International network ",
+			"optionc": "(C) Internal network",
+			"optiond": "(D) Intercom network ",
+			"ans": "B"
+		},
+		{
+			"question": "......... is called information highway. ",
+			"optiona": "(A) E-mail",
+			"optionb": "(B) Page",
+			"optionc": "(C) Cellular phone ",
+			"optiond": "(D) Internet",
+			"ans": "D"
+		},
+		{
+			"question": "Inventor of e-mail—",
+			"optiona": "(A) Bill gates",
+			"optionb": "(B) Timothi Bil ",
+			"optionc": "(C) Linkan Galitobery ",
+			"optiond": "(D) Ray Tomlinson ",
+			"ans": "D"
+		},
+		{
+			"question": "Full form of WWW is .............",
+			"optiona": "(A) World working window ",
+			"optionb": "(B) Window world wide ",
+			"optionc": "(C) World wide web",
+			"optiond": "(D) World working web ",
+			"ans": "C"
+		},
+		{
+			"question": "Inventor of WWW is ........",
+			"optiona": "(A) Bill Gates",
+			"optionb": "(B) Lee. N. Feyong ",
+			"optionc": "(C) N. Resscl ",
+			"optiond": "(D) Tim Berners Lee",
+			"ans": "D"
+		},
+		{
+			"question": "Yahoo, Google and MSN are ...... ",
+			"optiona": "(A) Internet sites",
+			"optionb": "(B) Computer brand ",
+			"optionc": "(C) Saturan ring",
+			"optiond": "(D) Watch made in Switzerland ",
+			"ans": "A"
+		},
+		{
+			"question": "Spam is related to .......",
+			"optiona": "(A) Computer",
+			"optionb": "(B) Art",
+			"optionc": "(C) Music ",
+			"optiond": "(D) Game",
+			"ans": "A"
+		},
+		{
+			"question": "When internet is used to send a message then this facility is called......",
+			"optiona": "(A) Cyber space ",
+			"optionb": "(B) Nicknet",
+			"optionc": "(C) E-mail ",
+			"optiond": "(D) I-net",
+			"ans": "C"
+		},
+		{
+			"question": "Which of the following is not a computer virus?",
+			"optiona": "(A) Wanhaff",
+			"optionb": "(B) Monkey",
+			"optionc": "(C) Change mange ",
+			"optiond": "(D) Manoj",
+			"ans": "D"
+		},
+		{
+			"question": "In .......... Michel Angelo virus was subject of thinking in world.",
+			"optiona": "(A) 1999",
+			"optionb": "(B) 1992",
+			"optionc": "(C) 1994 ",
+			"optiond": "(D) 1993",
+			"ans": "D"
+		},
+		{
+			"question": "Passwords enables users to .........",
+			"optiona": "(A) Get into the system quickly ",
+			"optionb": "(B) Make efficient use of time ",
+			"optionc": "(C) Retain confidentiality of files ",
+			"optiond": "(D) Simplify file structure",
+			"ans": "C"
+		},
+		{
+			"question": "Secret code that restricts entry in the same programs is—",
+			"optiona": "(A) Password",
+			"optionb": "(B) Passport",
+			"optionc": "(C) Entry code ",
+			"optiond": "(D) Access code ",
+			"ans": "A"
+		},
+		{
+			"question": "Sending an e-mail is like a ..................",
+			"optiona": "(A) Creating an image of any event ",
+			"optionb": "(B) Telling a story",
+			"optionc": "(C) Writing a letter ",
+			"optiond": "(D) Creating an image",
+			"ans": "C"
+		},
+		{
+			"question": "The process of a computer receiving information from a server on the internet is known as— ",
+			"optiona": "(A) Pulling",
+			"optionb": "(B) Pasting",
+			"optionc": "(C) Downloading ",
+			"optiond": "(D) Transforming ",
+			"ans": "C"
+		},
+		{
+			"question": "IT stands for—",
+			"optiona": "(A) Information technology ",
+			"optionb": "(B) Integrated technology ",
+			"optionc": "(C) Intelligent technology",
+			"optiond": "(D) Interesting technology ",
+			"ans": "A"
+		},
+		{
+			"question": "E-commerce allowes companies to",
+			"optiona": "(A) Issue important business reports ",
+			"optionb": "(B) Conduct business over the internet ",
+			"optionc": "(C) Support decision making processes ",
+			"optiond": "(D) Keep track of paper based transaction",
+			"ans": "B"
+		},
+		{
+			"question": "Junk e-mail is also called",
+			"optiona": "(A) Spam",
+			"optionb": "(B) Spoof",
+			"optionc": "(C) Sniffer script ",
+			"optiond": "(D) Spool",
+			"ans": "A"
+		},
+		{
+			"question": "A program designed to destroy data on your computer which can travel to infect other computers is called a — ",
+			"optiona": "(A) Disease",
+			"optionb": "(B) Tarpedo",
+			"optionc": "(C) Hurricave ",
+			"optiond": "(D) Virus",
+			"ans": "D"
+		},
+		{
+			"question": "If you are going to a site you use often, instead of having to type in the address every time, you should ............",
+			"optiona": "(A) Save it as a file ",
+			"optionb": "(B) Make a copy of it ",
+			"optionc": "(C) Bookmark it ",
+			"optiond": "(D) Delete it",
+			"ans": "C"
+		},
+		{
+			"question": "Output which is made up of pictures, sounds, and video is called ...",
+			"optiona": "(A) COM",
+			"optionb": "(B) Hard copy ",
+			"optionc": "(C) Graphics ",
+			"optiond": "(D) Multimedia ",
+			"ans": "D"
+		},
+		{
+			"question": "The internet is a system of ...",
+			"optiona": "(A) Software bundles ",
+			"optionb": "(B) Web page ",
+			"optiond": "(D) Interconnected networks",
+			"optionc": "(C) Website ",
+			"ans": "D"
+		},
+		{
+			"question": "The ....... also called the web, contains billions of documents.",
+			"optiona": "(A) World Wide Web ",
+			"optionb": "(B) HTTP",
+			"optionc": "(C) Web portal ",
+			"optiond": "(D) Domain",
+			"ans": "A"
+		},
+		{
+			"question": "What is an e-mail attachment ?",
+			"optiona": "(A) A receipt sent by the recipient ",
+			"optionb": "(B) A separate document from another program sent along with an e-mail message ",
+			"optionc": "(C) A malicious parasite that feeds off of your messages and destroys the contents. ",
+			"optiond": "(D) A list of CC or BCC recipients",
+			"ans": "B"
+		},
+		{
+			"question": "A....... is a software program used to view Web pages.",
+			"optiona": "(A) site",
+			"optionb": "(B) host",
+			"optionc": "(C) link ",
+			"optiond": "(D) browser",
+			"ans": "D"
+		},
+		{
+			"question": "What is a modem connected to ?",
+			"optiona": "(A) processor",
+			"optionb": "(B) mother board ",
+			"optionc": "(C) printer ",
+			"optiond": "(D) phone line ",
+			"ans": "D"
+		},
+		{
+			"question": "A web ....... consists of one or more Web pages located on a Web server. ",
+			"optiona": "(A) hub",
+			"optionb": "(B) site",
+			"optionc": "(C) story ",
+			"optiond": "(D) template",
+			"ans": "B"
+		},
+		{
+			"question": "A computer ... is a set of program instructions that can attach itself to a file, reproduce itself, and spread to other files. ",
+			"optiona": "(A) worm",
+			"optionb": "(B) virus",
+			"optionc": "(C) Trojan horse ",
+			"optiond": "(D) phishing scam ",
+			"ans": "B"
+		},
+		{
+			"question": "...... this is the act of copying or downloading a program from a network and making multiple copies of it. ",
+			"optiona": "(A) Network piracy ",
+			"optionb": "(B) Plagiarism",
+			"optionc": "(C) Software piracy ",
+			"optiond": "(D) Site-license piracy ",
+			"ans": "C"
+		},
+		{
+			"question": "Which of the following is the communications protocol that sets the standard used by every computer that accesses Web-based information? ",
+			"optiona": "(A) XML",
+			"optionb": "(B) DML",
+			"optionc": "(C) HTTP ",
+			"optiond": "(D) HTML",
+			"ans": "C"
+		},
+		{
+			"question": "A ... is a computer attached to the Internet that runs a special Web server software and can send Web pages out to other computers over the Internet. ",
+			"optiona": "(A) web client",
+			"optionb": "(B) web system ",
+			"optionc": "(C) web page ",
+			"optiond": "(D) web server ",
+			"ans": "D"
+		},
+		{
+			"question": "... are a type of inexpensive digital camera that remains tethered to a computer and used for videoconferencing, video chatting and live Web broadcast.",
+			"optiona": "(A) Web cams",
+			"optionb": "(B) Web pics",
+			"optionc": "(C) Browser cams ",
+			"optiond": "(D) Browser pics ",
+			"ans": "A"
+		},
+		{
+			"question": "The standard protocol of the internet is .........",
+			"optiona": "(A) TCP/IP",
+			"optionb": "(B) Java",
+			"optionc": "(C) HTML",
+			"optiond": "(D) Flash",
+			"ans": "A"
+		},
+		{
+			"question": "A modem .........",
+			"optiona": "(A) translates analog signals from a computer into digital signals that can travel along conventional telephone lines ",
+			"optionb": "(B) translates digital signals from a computer into analog signals that can travel along conventional telephone lines ",
+			"optionc": "(C) demodulates digitals signals from a computer",
+			"optiond": "(D) modulates signals an analog telephone line",
+			"ans": "B"
+		},
+		{
+			"question": "A Web site address is a unique name that identifies a specific ..... on the Web.",
+			"optiona": "(A) Web browser",
+			"optionb": "(B) PDA",
+			"optionc": "(C) Web site ",
+			"optiond": "(D) link",
+			"ans": "C"
+		},
+		{
+			"question": "The Internet allows you to .......",
+			"optiona": "(A) send electronic mail",
+			"optionb": "(B) view Web pages",
+			"optionc": "(C) connect to servers all around the world",
+			"optiond": "(D) All of these ",
+			"ans": "D"
+		},
+		{
+			"question": "Most mail programs automatically complete the following two parts in an e-mail ......",
+			"optiona": "(A) From : and Body:",
+			"optionb": "(B) From : and Date : ",
+			"optionc": "(C) From : and To:",
+			"optiond": "(D) From : and Subject : ",
+			"ans": "B"
+		},
+		{
+			"question": "What is the most common way to get a virus in your computer's hard disk?",
+			"optiona": "(A) By installing games from their CDROMS ",
+			"optionb": "(B) By uploading pictures from mobile phones to the computer ",
+			"optionc": "(C) By opening emails",
+			"optiond": "(D) By sending emails ",
+			"ans": "C"
+		},
+		{
+			"question": "A word in a web page that, when clicked, opens another document... .",
+			"optiona": "(A) anchor",
+			"optionb": "(B) URL",
+			"optionc": "(C) hyper-link ",
+			"optiond": "(D) reference",
+			"ans": "C"
+		},
+		{
+			"question": "...... is the most popular internet activity.",
+			"optiona": "(A) Art",
+			"optionb": "(B) Shopping",
+			"optionc": "(C) Searching ",
+			"optiond": "(D) Communication ",
+			"ans": "D"
+		},
+		{
+			"question": "What are the four things needed to connect to the Internet ?",
+			"optiona": "(A) telephone line, modem, computer, and an ISP",
+			"optionb": "(B) modem, computer, PDA, and ISP ",
+			"optionc": "(C) telephone line, PDA, modem, and computer ",
+			"optiond": "(D) computer, ISP, modem, and communication software",
+			"ans": "D"
+		},
+		{
+			"question": "Which of the following functions are not performed by servers ?",
+			"optiona": "(A) e-mail processing ",
+			"optionb": "(B) database sharing ",
+			"optionc": "(C) processing web sites ",
+			"optiond": "(D) word processing ",
+			"ans": "D"
+		},
+		{
+			"question": "To reload a Web page, press the ..... button.",
+			"optiona": "(A) Redo",
+			"optionb": "(B) Reload",
+			"optionc": "(C) Restore ",
+			"optiond": "(D) Ctrl",
+			"ans": "B"
+		},
+		{
+			"question": "A popular way to learn about computers without ever going to a classroom is called ........ ",
+			"optiona": "(A) i-learning ",
+			"optionb": "(B) isolated learning ",
+			"optionc": "(C) e-learning ",
+			"optiond": "(D) close learning ",
+			"ans": "C"
+		},
+		{
+			"question": "A person who used his or her expertise to gain access to other people's computers to get information illegally or do damage is a ........ ",
+			"optiona": "(A) spammer. ",
+			"optionb": "(B) hacker",
+			"optionc": "(C) instant messenger ",
+			"optiond": "(D) programmer ",
+			"ans": "B"
+		},
+		{
+			"question": "The ....... folder retains copies of messages that you have started but are not yet ready to send. ",
+			"optiona": "(A) Inbox",
+			"optionb": "(B) Outbox",
+			"optionc": "(C) Drafts ",
+			"optiond": "(D) Sent Items ",
+			"ans": "C"
+		},
+		{
+			"question": "....... are attempts by individuals to obtain confidential information from you by falsifying their identity.",
+			"optiona": "(A) Phishing trips ",
+			"optionb": "(B) Computer viruses ",
+			"optionc": "(C) Spyware scams ",
+			"optiond": "(D) Phishing scams ",
+			"ans": "D"
+		},
+		{
+			"question": "What are the two parts of an E-mail address ?",
+			"optiona": "(A) User name and street address ",
+			"optionb": "(B) Legal name and phone number ",
+			"optionc": "(C) Initials and password ",
+			"optiond": "(D) User name and domain name",
+			"ans": "D"
+		}
+	]
+}
