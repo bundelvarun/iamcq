@@ -96,7 +96,7 @@
 			"optiona": "(A) Printer",
 			"optionb": "(B) Monitor",
 			"optionc": "(C) Mouse ",
-			"optiond": "(D) a and b both ",
+			"optiond": "(D) (A) and (B) both ",
 
 			"ans": "D"
 		},
@@ -182,18 +182,18 @@
 		},
 		{
 			"question": "The most common storage device for the personal computer is the .",
-			"optiona": "(A) floppy disk ",
+			"optiona": "(A) Floppy disk ",
 			"optionb": "(B) USB thumb drive ",
-			"optionc": "(C) zip disk",
-			"optiond": "(D) hard disk drive",
+			"optionc": "(C) Zip disk",
+			"optiond": "(D) Hard disk drive",
 			"ans": "A"
 		},
 		{
 			"question": "The most frequently used piece of hardware for inputting data is the ...",
-			"optiona": "(A) keyboard",
-			"optionb": "(B) floppy disk ",
-			"optionc": "(C) cursor ",
-			"optiond": "(D) software",
+			"optiona": "(A) Keyboard",
+			"optionb": "(B) Floppy disk ",
+			"optionc": "(C) Cursor ",
+			"optiond": "(D) Software",
 			"ans": "A"
 		},
 		{
@@ -280,7 +280,7 @@
 			"optiona": "(A) Impact printer",
 			"optionb": "(B) Non-impact printer ",
 			"optionc": "(C) Plotter",
-			"optiond": "(D) a and b ",
+			"optiond": "(D) (A) and (B)",
 			"ans": "C"
 		},
 		{
@@ -363,10 +363,10 @@
 		},
 		{
 			"question": "Ctrl, Shift and Alt are called ........... keys. ",
-			"optiona": "(A) modifier",
-			"optionb": "(B) function",
-			"optionc": "(C) alphanumeric ",
-			"optiond": "(D) adjustment ",
+			"optiona": "(A) Modifier",
+			"optionb": "(B) Function",
+			"optionc": "(C) Alphanumeric ",
+			"optiond": "(D) Adjustment ",
 
 			"ans": "A"
 		},
@@ -390,9 +390,9 @@
 		},
 		{
 			"question": "You can use the tab key to ..............",
-			"optiona": "(A) move a cursor across the screen",
-			"optionb": "(B) indent a paragraph",
-			"optiond": "(C) move the cursor down the screen",
+			"optiona": "(A) Move a cursor across the screen",
+			"optionb": "(B) Indent a paragraph",
+			"optiond": "(C) Move the cursor down the screen",
 			"optionc": "(D) Only a and b ",
 
 			"ans": "D"
@@ -515,10 +515,10 @@
 		},
 		{
 			"question": "A.......... can make it easier to play games.",
-			"optiona": "(A) mouse",
-			"optionb": "(B) joystick",
-			"optionc": "(C) keyboard",
-			"optiond": "(D) pen",
+			"optiona": "(A) Mouse",
+			"optionb": "(B) Joystick",
+			"optionc": "(C) Keyboard",
+			"optiond": "(D) Pen",
 
 			"ans": "B"
 		},
@@ -545,7 +545,7 @@
 			"optiona": "(A) An ASCII code",
 			"optionb": "(B) A magnetic tape ",
 			"optionc": "(C) An OCR scanner",
-			"optiond": "(D) a Bar code",
+			"optiond": "(D) A Bar code",
 
 			"ans": "D"
 		},
@@ -578,28 +578,28 @@
 		},
 		{
 			"question": "Digital photos and scanned images are typically stored as ... graphics with extensions such as .bmp, .png, jpg, .tif, or .gif.",
-			"optiona": "(A) vector",
-			"optionb": "(B) bitmap",
-			"optionc": "(C) either vector or bitmap",
-			"optiond": "(D) neither vector nor bitmap",
+			"optiona": "(A) Vector",
+			"optionb": "(B) Bitmap",
+			"optionc": "(C) Either vector or bitmap",
+			"optiond": "(D) Neither vector nor bitmap",
 
 			"ans": "B"
 		},
 		{
 			"question": "The mouse ... usually appears in the shape of an arrow.",
-			"optiona": "(A) indicator",
-			"optionb": "(B) marker",
-			"optionc": "(C) meter ",
-			"optiond": "(D) pointer",
+			"optiona": "(A) Indicator",
+			"optionb": "(B) Marker",
+			"optionc": "(C) Meter ",
+			"optiond": "(D) Pointer",
 
 			"ans": "D"
 		},
 		{
 			"question": "A sales clerk at a checkout counter scanning a tag on an item rather then keying it into the system,is using...",
-			"optiona": "(A) input automation",
-			"optionb": "(B) item data automation ",
-			"optionc": "(C) scanning automation",
-			"optiond": "(D) source automation",
+			"optiona": "(A) Input automation",
+			"optionb": "(B) Item data automation ",
+			"optionc": "(C) Scanning automation",
+			"optiond": "(D) Source automation",
 
 			"ans": "C"
 		},
