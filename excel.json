@@ -12,7 +12,7 @@
 			"optiona": "(A) Create ",
 			"optionb": "(B) Modify ",
 			"optionc": "(C) Sort ",
-			"optiond": "(D) all of the above",
+			"optiond": "(D) All of the above",
 			"ans": "D"
 		},
 		{
@@ -65,10 +65,10 @@
 		},
 		{
 			"question": "When you use the fill effects in the format data series dialog box, you can not",
-			"optiona": "(A) rotate text on the chart ",
-			"optionb": "(B) select a fore ground color ",
-			"optionc": "(C) select a pattern ",
-			"optiond": "(D) select a background color",
+			"optiona": "(A) Rotate text on the chart ",
+			"optionb": "(B) Select a fore ground color ",
+			"optionc": "(C) Select a pattern ",
+			"optiond": "(D) Select a background color",
 			"ans": "A"
 		},
 		{
@@ -105,10 +105,10 @@
 		},
 		{
 			"question": "When you print preview a worksheet",
-			"optiona": "(A) the entire worksheet is displayed ",
-			"optionb": "(B) the selected range is displayed ",
-			"optionc": "(C) the active portion of the worksheet is displayed ",
-			"optiond": "(D) a, b and c",
+			"optiona": "(A) The entire worksheet is displayed ",
+			"optionb": "(B) The selected range is displayed ",
+			"optionc": "(C) The active portion of the worksheet is displayed ",
+			"optiond": "(D) (A), (B) and (C)",
 			"ans": "D"
 		},
 		{
@@ -121,10 +121,10 @@
 		},
 		{
 			"question": "When working in the page break preview, you can ",
-			"optiona": "(A) view exactly where each page break occurs ",
-			"optionb": "(B) add or remove page breaks ",
-			"optionc": "(C) change the print area ",
-			"optiond": "(D) all of above",
+			"optiona": "(A) View exactly where each page break occurs ",
+			"optionb": "(B) Add or remove page breaks ",
+			"optionc": "(C) Change the print area ",
+			"optiond": "(D) All of above",
 			"ans": "D"
 		},
 		{
@@ -378,7 +378,7 @@
 		{
 			"question": "To create a formula, you can use:",
 			"optiona": "(A) Values but not cell references ",
-			"optionb": "(B) C ell references but not values ",
+			"optionb": "(B) Cell references but not values ",
 			"optionc": "(C) Values or cell references although not both at the same time ",
 			"optiond": "(D) Value and cell references",
 			"ans": "D"
@@ -410,9 +410,9 @@
 		{
 			"question": "Except for the ...... function, a formula with a logical function shows the word “TRUE” or “FALSE” as a result.",
 			"optiona": "(A) IF ",
-			"optionb": " (B) AND ",
+			"optionb": "(B) AND ",
 			"optionc": "(C) OR ",
-			"optiond": " (D) NOT",
+			"optiond": "(D) NOT",
 			"ans": "A"
 		},
 		{
@@ -444,7 +444,7 @@
 			"optiona": "(A) May be turned off for display but turned on for printing ",
 			"optionb": "(B) May be turned on or off for printing ",
 			"optionc": "(C) The be turned off for display and printing ",
-			"optiond": "(D) a, b and c",
+			"optiond": "(D) (A), (B) and (C)",
 			"ans": "D"
 		},
 		{
