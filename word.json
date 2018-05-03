@@ -64,7 +64,7 @@
 			"ans": "C"
 		},
 		{
-			"question": "_______ is used to covert from upper case to lower case and vice versa.",
+			"question": "_______ is used to convert from upper case to lower case and vice versa.",
 			"optiona": "(A) Toggle case ",
 			"optionb": "(B) Sentence case ",
 			"optionc": "(C) Lower case ",
@@ -342,14 +342,6 @@
 			"optionc": "(C) Set the mailing list parameters ",
 			"optiond": "(D) Create the data source",
 			"ans": "C"
-		},
-		{
-			"question": "Which of the following is not a font style?",
-			"optiona": "(A) Bold ",
-			"optionb": "(B) Italics ",
-			"optionc": "(C) Regular ",
-			"optiond": "(D) Superscript",
-			"ans": "D"
 		},
 		{
 			"question": "Which of the following is not a type of page margin?",
