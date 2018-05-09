@@ -186,10 +186,10 @@
 		},
 		{
 			"question": "The size of a field with Number data type can not be",
-			"optiona": "(A) ",
-			"optionb": "(B) ",
-			"optionc": "(C) ",
-			"optiond": "(D) ",
+			"optiona": "(A) 2",
+			"optionb": "(B) 4",
+			"optionc": "(C) 8",
+			"optiond": "(D) 16",
 			"ans": "D"
 		},
 		{
